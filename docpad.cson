@@ -1,0 +1,17 @@
+{
+	templateData:
+		site:
+			url: "http://doesnotunderstand.org/"
+			title: "#DNU"
+			author: "Serge Stinckwich"
+			email: "serge.stinckwich@gmail.com"
+			description: """
+				Website of Serge Stinckwich
+				"""
+			keywords: """
+				stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD
+				"""
+			analytics:
+				google: "UA-9711668-1"
+
+}
