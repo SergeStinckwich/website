@@ -20,7 +20,6 @@ html lang: 'en', ->
 		# Styles
 		text @blocks.styles.join('')
 		link rel: 'stylesheet', href: '../styles/style.css', media: 'screen, projection'
-		link rel: 'stylesheet', href: '../styles/print.css', media: 'print'
 	body ->
 		# Document
 		div class: 'container', ->
@@ -28,6 +27,6 @@ html lang: 'en', ->
 
 		# Scripts
 		text @blocks.scripts.join('')
-		script src: '../vendor/jquery-1.6.4.js'
+		script src: '../vendor/jquery-1.6.4.min.js'
 		script src: '../vendor/prettify.js'
 		script src: '../scripts/script.js'
