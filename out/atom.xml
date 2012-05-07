@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-05-05T08:42:38Z</updated>
+    <updated>2012-05-07T05:24:17Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -53,7 +53,7 @@
             <entry>
                 <title>Bonjour</title>
                 <link href="http://balupton.com/posts/bonjour.html"/>
-                <updated>2012-05-02T04:14:28Z</updated>
+                <updated>2012-05-07T04:46:35Z</updated>
                 <id>http://balupton.com/posts/bonjour.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lange=&quot;en&quot;&gt;
@@ -99,43 +99,45 @@
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -165,7 +167,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-05-05T08:42:36Z and has  documents
+                This website was generated on 2012-05-07T05:24:17Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -192,7 +194,7 @@ Bonjour **world**&lt;/pre&gt;
             <entry>
                 <title>Hello</title>
                 <link href="http://balupton.com/posts/hello.html"/>
-                <updated>2012-05-02T04:14:28Z</updated>
+                <updated>2012-05-07T04:46:35Z</updated>
                 <id>http://balupton.com/posts/hello.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lange=&quot;en&quot;&gt;
@@ -238,43 +240,45 @@ Bonjour **world**&lt;/pre&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -304,7 +308,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-05-05T08:42:36Z and has  documents
+                This website was generated on 2012-05-07T05:24:17Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -325,6 +329,8 @@ Hello **world**&lt;/pre&gt;
 &lt;/html&gt;
 </content>
             </entry>
+        
+    
         
     
         
