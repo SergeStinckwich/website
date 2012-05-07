@@ -28,8 +28,6 @@ html lang: 'en', ->
 
 		# Scripts
 		text @blocks.scripts.join('')
-		script src: '../vendor/jquery-1.7.1.js'
-		script src: '../vendor/modernizr-2.0.6.js'
-		script src: '../vendor/underscore-1.2.3.js'
-		script src: '../vendor/backbone-0.5.3.js'
+		script src: '../vendor/jquery-1.6.4.js'
+		script src: '../vendor/prettify.js'
 		script src: '../scripts/script.js'
