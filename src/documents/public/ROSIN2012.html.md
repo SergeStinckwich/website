@@ -18,7 +18,7 @@ Therefore the objective of this workshop is to bring together robotics and WSN (
 - present both state-of-the-art results and work in progress in the area of distributed sensing in the context of robotic and sensor networks integration for search&rescue systems,
 - to foster multi-disciplinary collaborations between researchers working on different topics: WSN (Wireless Sensors Network), robotic, disaster management, information systems, ... thus forming a base for future collaboration.
 
-ROSIN 2012 is the second workshop dedicated to these issues. [ROSIN 2010](http://www.doesnotunderstand.org/wikka.php?wakka=ROSIN10) took place in 2010 in Taipei, Taiwan during the 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'10). In this first edition, we accepted 7 papers. 20 people attended the half-day workshop. The proceedings of this workshop are freely available on the web site. 
+ROSIN 2012 is the second workshop dedicated to these issues. [ROSIN 2010](ROSIN2010.html) took place in 2010 in Taipei, Taiwan during the 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS'10). In this first edition, we accepted 7 papers. 20 people attended the half-day workshop. The proceedings of this workshop are freely available on the web site. 
 
 ## List of topics
 This workshop will focus on the tight integration of sensors-robots and information systems during the rescue process. Topics that are of special interest include but are not limited to:
@@ -35,7 +35,7 @@ The primary audience of the proposed workshop is intended to be researchers and 
 ## Submissions guidelines
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin12 Easychair website) and should use the IEEE US letter format.
 
-- [Download the LateX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
+- [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 - [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
 We are looking for submission of **full research papers and experiences reports** (up to 6 pages) and **work in progress submissions** (up to 4 pages).
@@ -53,6 +53,7 @@ We are looking for submission of **full research papers and experiences reports*
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
 ## Program committee
+- [Simon Lacroix](http://homepages.laas.fr/simon/HomePage/Home.html), LAAS/CNRS, France
 - [Robin Murphy](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA
 - [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
 - Satoshi Tadokoro, Tohoku University, Japan
