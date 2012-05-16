@@ -32,6 +32,10 @@ This workshop will focus on the tight integration of sensors-robots and informat
 
 The primary audience of the proposed workshop is intended to be researchers and practitioners both from academia and industry with an interest on integration robots, sensors and information systems in the context of disaster or emergency management. In addition, researchers and practitioners from related communities (disaster management, SDDS, GIS) will find this workshop quite useful.
 
+## Journal Special Issue
+After the workshop, extended version of the papers could be submitted to the following journal special issue:
+Special issue of [Journal of Sensor and Actuator Networks](http://www.mdpi.com/journal/jsan) (ISSN 2224-2708) on [Multimedia Sensor Networks for Mission-Critical Surveillance Applications](http://www.mdpi.com/journal/jsan/special_issues/surveillance_app/)
+
 ## Submissions guidelines
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin12 Easychair website) and should use the IEEE US letter format.
 
@@ -53,6 +57,7 @@ We are looking for submission of **full research papers and experiences reports*
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
 ## Program committee
+- [Tetsushi Kamegawa](http://www.mif.sys.okayama-u.ac.jp/~kamegawa/), Okayama University, Japan
 - [Simon Lacroix](http://homepages.laas.fr/simon/HomePage/Home.html), LAAS/CNRS, France
 - [Robin Murphy](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA
 - [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
