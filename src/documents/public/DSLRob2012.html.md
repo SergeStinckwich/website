@@ -8,11 +8,7 @@ description: '3rd International Workshop on Domain-Specific Languages and models
 
 The workshop will take place November 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
 
-Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA)
-are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics,
-control, and vision. The goal of this workshop is to bring together
-robotics researchers working with DSLs and models in different aspects
-of robotics.
+Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
 
 ## Description
 
@@ -82,13 +78,14 @@ submitted electronically in PDF format through the
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
-We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress
-submissions** (up to 4 pages). **Please create your account on  Easy Chair website as soon as
-possible if you intend to submit a paper: http://www.easychair.org/conferences/?conf=dslrob2012 **
+We are looking for submission of **full research papers and
+experiences reports** (up to 8 pages) and **work in progress
+submissions** (up to 4 pages). **Please create your account on  Easy
+Chair website as soon as possible if you intend to submit a paper: http://www.easychair.org/conferences/?conf=dslrob2012 **
 
 # Important dates
 <dl class="dl-horizontal">
-<dt>September 1, 2012</dt><dd>Due date for workshop papers submission</dd>
+<dt><span class="label label-important">September 1, 2012</span></dt><dd>Due date for workshop papers submission</dd>
 <dt>October 1, 2012</dt><dd>Final acceptance</dd>
 <dt>November 5-8, 2012</dt><dd>Workshop date</dd>
 </dl>

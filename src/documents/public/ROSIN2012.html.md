@@ -46,10 +46,12 @@ We are looking for submission of **full research papers and experiences reports*
 *Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin12
 
 ## Important dates
-- **Due date for full workshop papers submission:** <span class="label label-info">July 31th, 2012</span>
-- **Final acceptance:** September 1st, 2012
-- **Camera-ready paper due:** September 11th, 2012
-- **Workshop date:** October 11th, 2012 (half day workshop)
+<dl class="dl-horizontal">
+<dt><span class="label label-important">July 31, 2012</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>September 1, 2012</dt><dd>Final acceptance</dd>
+<dt>September 11, 2012</dt><dd>Camera-ready paper due/dd>
+<dt>October 11, 2012</dt><dd>Workshop date (half day)</dd>
+</dl>
 
 ## Organization committee
 - [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), International Rescue System Institute, Japan
