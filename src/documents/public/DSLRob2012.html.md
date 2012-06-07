@@ -14,7 +14,7 @@ control, and vision. The goal of this workshop is to bring together
 robotics researchers working with DSLs and models in different aspects
 of robotics.
 
-# Description
+## Description
 
 A [domain-specific language (DSL)](http://en.wikipedia.org/wiki/Domain-specific_language) is a programming language dedicated to a particular problem domain that offers specific notations and
 abstractions that increase programmer productivity within that domain.
@@ -33,21 +33,21 @@ presented at leading conferences such as IROS and ICRA, but the domain-centric s
 This workshop will focus on the use of Domain-Specific Languages and Models for Robotic Systems. Topics that are of special interest
 include:
 
- * dynamic languages for robotics,languages to teach robotics, visual
+- dynamic languages for robotics,languages to teach robotics, visual
 languages for robotics, 
- * domain-specific languages to express reactive behaviors, composition
+- domain-specific languages to express reactive behaviors, composition
 of behaviors, motion description languages (MDL),
- * domain-specific languages to express uncertainty, modelling of
+- domain-specific languages to express uncertainty, modelling of
 physical system, real-time constraints,
- * domain-specific languages to describe cooperative robotics and
+- domain-specific languages to describe cooperative robotics and
 modular robotics systems,
- * tools support and frameworks for describing and manipulating DSLs
+- tools support and frameworks for describing and manipulating DSLs
 for robotic systems,
- * code generation and code transformation for robotics systems,
+- code generation and code transformation for robotics systems,
 variability in robotic systems,
- * frameworks to combine DSLs in an uniform manner,
- * benchmarks to compare use of DSL vs general-purpose programming, and
- * programming languages in the context of robotic systems.
+- frameworks to combine DSLs in an uniform manner,
+- benchmarks to compare use of DSL vs general-purpose programming, and
+- programming languages in the context of robotic systems.
 
 **Dynamic languages** are considered a topic of special interest at
 this year's workshop: dynamic languages becoming more popular in the
@@ -60,22 +60,17 @@ of their robotics software infrastructure. In addition, robotics
 researchers with an interest in modern approaches to solving complex
 software-related issues will find the workshop inspirational.
 
-# Relation to previous workshops organized
+## Relation to previous workshops organized
 
-This is the third installment of this workshop: the first edition
-[DSLRob 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10)
-was held at IROS 2010 and the second edition
-[DSLRob 2011](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob11)
-was collocated with IROS 2011. In the second edition, we accepted 6
-papers and more than 20 people attended the full-day workshop. 
+This is the third installment of this workshop: the first edition [DSLRob 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10)
+was held at IROS 2010 and the second edition [DSLRob 2011](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob11)
+was collocated with IROS 2011. In the second edition, we accepted 6 papers and more than 20 people attended the full-day workshop. 
 
 The proceedings of the first edition are freely available on arXiv: http://arxiv.org/abs/1102.4563, and the proceedings of the second edition will be available soon (also on arXiv).
 
 Serge Stinckwich also organized in International Workshop on Dynamic
-languages for RObotic and Sensors systems
-[DYROS 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DYROS10)
-during SIMPAR-2010 (Darmstadt, Germany) and [DYLA
-2012](http://scg.unibe.ch/wiki/events/dyla2012) during ECOOP-2012 (Beijing, China).
+languages for RObotic and Sensors systems [DYROS 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DYROS10)
+during SIMPAR-2010 (Darmstadt, Germany) and [DYLA 2012](http://scg.unibe.ch/wiki/events/dyla2012) during ECOOP-2012 (Beijing, China).
 
 # Submissions guidelines
 All submitted papers will be reviewed on the basis of technical
@@ -87,17 +82,16 @@ submitted electronically in PDF format through the
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
-We are looking for submission of **full research papers and
-experiences reports** (up to 8 pages) and **work in progress
-submissions** (up to 4 pages).
-**Please create your account on  Easy Chair website as soon as
-possible if you intend to submit a paper:
-http://www.easychair.org/conferences/?conf=dslrob2012 **
+We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress
+submissions** (up to 4 pages). **Please create your account on  Easy Chair website as soon as
+possible if you intend to submit a paper: http://www.easychair.org/conferences/?conf=dslrob2012 **
 
 # Important dates
- * September 1, 2012: Due date for workshop papers submission
- * October 1, 2012: Final acceptance
- * November 2012: Workshop date
+<dl class="dl-horizontal">
+<dt>September 1, 2012</dt><dd>Due date for workshop papers submission</dd>
+<dt>October 1, 2012</dt><dd>Final acceptance</dd>
+<dt>November 5-8, 2012</dt><dd>Workshop date</dd>
+</dl>
 
 # Organization committee
  * Christian Schlegel, Fakultät Informatik, Hochschule Ulm, Germany
