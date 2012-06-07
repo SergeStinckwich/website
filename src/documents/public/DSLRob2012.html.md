@@ -6,31 +6,33 @@ description: '3rd International Workshop on Domain-Specific Languages and models
 ---
 # 3rd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-12)
 
-The workshop will take place November 2012 in Tsukuba (Japan) at the
-[SIMPAR 2012](http://www.2012.simpar.org) conference venue.
+The workshop will take place November 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
 
-Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA) are emerging areas of interest in the robotics research community.
-Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics,
-control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects
+Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA)
+are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics,
+control, and vision. The goal of this workshop is to bring together
+robotics researchers working with DSLs and models in different aspects
 of robotics.
 
 # Description
 
 A [domain-specific language (DSL)](http://en.wikipedia.org/wiki/Domain-specific_language) is a programming language dedicated to a particular problem domain that offers specific notations and
 abstractions that increase programmer productivity within that domain.
-Models offer a high-level way for domain users to specify the functionality of their system at the right level of abstraction. DSLs
-and models have historically been used for programming complex systems. However recently they have garnered interest as a separate
-field of study. Robotic systems blend hardware and software in a holistic way that intrinsically raises many crosscutting concerns
-(concurrency, uncertainty, time constraints, ...), for which reason, traditional general-purpose languages often lead to a poor fit between
-the language features and the implementation requirements. DSLs and models offer a powerful, systematic way to overcome this problem,
-enabling the programmer to quickly and precisely implement novel software solutions to complex problems within the robotics domain.
+Models offer a high-level way for domain users to specify the
+functionality of their system at the right level of abstraction. DSLs and models have historically been used for programming complex systems. However recently they have garnered interest as a separate
+field of study. Robotic systems blend hardware and software in a
+holistic way that intrinsically raises many crosscutting concerns (concurrency, uncertainty, time constraints, ...), for which reason, traditional general-purpose languages often lead to a poor fit between
+the language features and the implementation requirements. DSLs and
+models offer a powerful, systematic way to overcome this problem, enabling the programmer to quickly and precisely implement novel software solutions to complex problems within the robotics domain.
 
-The main objective of this workshop is a cross-pollination of ideas between robotics researchers in DSLs and models from different
-domains. DSLs and models are key elements in many robotic systems presented at leading conferences such as IROS and ICRA, but the
-domain-centric structure of the typical robotics conference does not offer a natural venue for exchange of ideas regarding DSLs and models.
+The main objective of this workshop is a cross-pollination of ideas
+between robotics researchers in DSLs and models from different
+domains. DSLs and models are key elements in many robotic systems
+presented at leading conferences such as IROS and ICRA, but the domain-centric structure of the typical robotics conference does not offer a natural venue for exchange of ideas regarding DSLs and models.
 
 This workshop will focus on the use of Domain-Specific Languages and Models for Robotic Systems. Topics that are of special interest
 include:
+
  * dynamic languages for robotics,languages to teach robotics, visual
 languages for robotics, 
  * domain-specific languages to express reactive behaviors, composition
