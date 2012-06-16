@@ -3,13 +3,15 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-16T01:29:42Z</updated>
+    <updated>2012-06-16T01:32:15Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
     
         
     
@@ -189,7 +191,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-16T01:29:42Z and has  documents
+                This website was generated on 2012-06-16T01:32:15Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -352,7 +354,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-16T01:29:42Z and has  documents
+                This website was generated on 2012-06-16T01:32:15Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -373,8 +375,6 @@ Hello **world**&lt;/pre&gt;
 &lt;/html&gt;
 </content>
             </entry>
-        
-    
         
     
         
