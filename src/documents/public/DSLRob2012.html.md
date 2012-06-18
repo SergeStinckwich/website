@@ -47,7 +47,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
-We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper: http://www.easychair.org/conferences/?conf=dslrob2012 **
+We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper**: http://www.easychair.org/conferences/?conf=dslrob2012
 
 # Important dates
 <dl class="dl-horizontal">

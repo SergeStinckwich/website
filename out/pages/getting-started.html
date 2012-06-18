@@ -178,6 +178,10 @@
     
     
     
+    <li><a href="#roy-to-javascript.js.roy">Roy to JavaScript</a></li>
+    
+    
+    
     <li><a href="#sass-to-css.css.sass">SASS to CSS</a></li>
     
     
@@ -185,10 +189,6 @@
     <li><a href="#stylus-to-css.css.stylus">Stylus to CSS</a></li>
     
     
-    
-    
-    
-    <li><a href="#roy-to-javascript.js.roy">Roy to JavaScript</a></li>
     
     
     
@@ -520,6 +520,44 @@ This page was coded with _markdown_.</pre>
             
         
             
+            <tr typeof="sioc:Page" about="/markups/roy-to-javascript.js" id="roy-to-javascript.js.roy">
+                <td colspan="2">
+                    <strong>Roy to JavaScript</strong>
+                <td>
+            </tr>
+            <tr typeof="sioc:Page" about="/markups/roy-to-javascript.js">
+                <td>
+                    roy-to-javascript.js.roy
+                    <pre class="prettyprint lang-roy">let gcd a b =
+  if b == 0 then
+    a
+  else
+    gcd b (a % b)
+
+console.log (gcd 49 35)</pre>
+                </td>
+                <td>
+                    <a href="/markups/roy-to-javascript.js">
+                        roy-to-javascript.js
+                    </a>
+                    <pre class="prettyprint lang-roy">(function() {
+var gcd = function(a, b) {
+    return (function() {
+        if(b == 0) {
+            return a;
+        } else {
+            return gcd(b, (a % b));
+        }
+    })();
+};
+console.log((gcd(49, 35)));
+})();
+</pre>
+                </td>
+            </tr>
+            
+        
+            
             <tr typeof="sioc:Page" about="/markups/sass-to-css.css" id="sass-to-css.css.sass">
                 <td colspan="2">
                     <strong>SASS to CSS</strong>
@@ -589,44 +627,6 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
             </tr>
             
         
-            
-        
-            
-            <tr typeof="sioc:Page" about="/markups/roy-to-javascript.js" id="roy-to-javascript.js.roy">
-                <td colspan="2">
-                    <strong>Roy to JavaScript</strong>
-                <td>
-            </tr>
-            <tr typeof="sioc:Page" about="/markups/roy-to-javascript.js">
-                <td>
-                    roy-to-javascript.js.roy
-                    <pre class="prettyprint lang-roy">let gcd a b =
-  if b == 0 then
-    a
-  else
-    gcd b (a % b)
-
-console.log (gcd 49 35)</pre>
-                </td>
-                <td>
-                    <a href="/markups/roy-to-javascript.js">
-                        roy-to-javascript.js
-                    </a>
-                    <pre class="prettyprint lang-roy">(function() {
-var gcd = function(a, b) {
-    return (function() {
-        if(b == 0) {
-            return a;
-        } else {
-            return gcd(b, (a % b));
-        }
-    })();
-};
-console.log((gcd(49, 35)));
-})();
-</pre>
-                </td>
-            </tr>
             
         
             
@@ -781,9 +781,7 @@ console.log((gcd(49, 35)));
         
     
         
-        <li typeof="sioc:Page" about="/nifty/coffee-parser.html" class="">
-            <a href="/nifty/coffee-parser.html" property="dc:title">Coffee Parser Example</a>
-        </li>
+    
         
     
         
@@ -796,8 +794,6 @@ console.log((gcd(49, 35)));
         <li typeof="sioc:Page" about="/nifty/client-side-editing.html" class="">
             <a href="/nifty/client-side-editing.html" property="dc:title">Client-Side Editing Wooo!</a>
         </li>
-        
-    
         
     
         
@@ -837,6 +833,10 @@ console.log((gcd(49, 35)));
         
     
         
+        <li typeof="sioc:Page" about="/nifty/coffee-parser.html" class="">
+            <a href="/nifty/coffee-parser.html" property="dc:title">Coffee Parser Example</a>
+        </li>
+        
     
     <li><a href="/search?query=coffee">A dynamic search page for <em>"coffee"</em></a></li>
 </ul>
@@ -844,7 +844,7 @@ console.log((gcd(49, 35)));
         <footer>
             <p>&copy; Company 2011</p>
             <p style="float:right;">
-                This website was generated on 2012-06-16T01:32:15Z and has  documents
+                This website was generated on 2012-06-18T09:35:45Z and has  documents
             </p>
         </footer>
         <section id="source" class="source">
