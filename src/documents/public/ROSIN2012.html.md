@@ -59,6 +59,7 @@ We are looking for submission of **full research papers and experiences reports*
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
 ## Program committee
+- Geert De Cubber, Royal Military Academy, Belgium
 - [Tetsushi Kamegawa](http://www.mif.sys.okayama-u.ac.jp/~kamegawa/), Okayama University, Japan
 - [Simon Lacroix](http://homepages.laas.fr/simon/HomePage/Home.html), LAAS/CNRS, France
 - [Robin Murphy](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA
