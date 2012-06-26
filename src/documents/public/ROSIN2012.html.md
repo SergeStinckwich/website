@@ -57,7 +57,7 @@ We are looking for submission of **full research papers and experiences reports*
 - [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), International Rescue System Institute, Japan
 - [Congduc Pham](http://web.univ-pau.fr/~cpham/), LIUPPA, Université de Pau, France
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
-
+- X
 ## Program committee
 - Geert De Cubber, Royal Military Academy, Belgium
 - [Tetsushi Kamegawa](http://www.mif.sys.okayama-u.ac.jp/~kamegawa/), Okayama University, Japan
