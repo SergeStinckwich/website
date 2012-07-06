@@ -9,7 +9,7 @@ description: 'ISCRAM South-East Asia 2013'
 This conference will take place in Ha Noi (Vietnam) in 2013.
 
  * Tentative date: just after Tet 2013 (March 2013 ?)
- * Tentative place: Institut de la Francophonie pour l'Informatique (IFI), Ha Noi, Vietnam
+ * Tentative place: [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI), Ha Noi, Vietnam
 
 Tet 2013 falls on Sunday, 10 February 2013. The Tet 2013 public holiday in Vietnam will be from Saturday, 9 February 2013 to Thursday, 14 February 2013.
 
@@ -23,6 +23,25 @@ ISCRAM South-East Asia 2003 is a spinoff conference of [ISCRAM](http://www.iscra
 
 ## Conference topics
 Topics include, but are not limited to:
+
+- Modeling and Simulation 
+- Human Experiences in the Design of Crisis Response and Management Services and Systems 
+- Command and Control Studies 
+- Education and Training 
+- Planning, Foresight and/or Risk Analysis 
+- Social Media and Collaborative Systems 
+- Geographic Information Science and Technology (GIS&T) for Crisis Response and Management 
+- Research Methods 
+- Healthcare Crisis Management Systems 
+- Humanitarian Challenges 
+- Decision Support Methods for Complex Crises 
+- Wireless Connectivity Management 
+- Inter-Organizational Exercises and Operations 
+- Intelligent Systems
+- Wireless Sensor Networks for Emergency Response 
+- Early Warning and Expert Systems for Disaster Management 
+- Serious Games for Crisis Management 
+
 
  * Cooperative Information Gathering and Situation Awareness,
  * Social Networks (media, citizens, ...) observations,
