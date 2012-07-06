@@ -6,7 +6,12 @@ description: 'ISCRAM South-East Asia 2013'
 ---
 # ISCRAM South-East Asia 2013
 
-This conference will take place in Ha Noi (Vietnam) in 2013 (Tentative date: before Tet 2013).
+This conference will take place in Ha Noi (Vietnam) in 2013.
+
+ * Tentative date: just after Tet 2013 (March 2013 ?)
+ * Tentative place: Institut de la Francophonie pour l'Informatique (IFI), Ha Noi, Vietnam
+
+Tet 2013 falls on Sunday, 10 February 2013. The Tet 2013 public holiday in Vietnam will be from Saturday, 9 February 2013 to Thursday, 14 February 2013.
 
 ## Description
 
