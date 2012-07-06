@@ -39,9 +39,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 <dl class="dl-horizontal">
 <dt><span class="label label-important">November XXX, 2012</span></dt><dd>Due date for workshop papers submission</dd>
 <dt>December XXX, 2012</dt><dd>Final acceptance</dd>
-<dt>December XXX, 2012</dt><dd>Camera-ready paper due/dd>
+<dt>December XXX, 2012</dt><dd>Camera-ready paper due</dd>
 <dt>March XXX, 2013</dt><dd>ISCRAM South-Asia 2013 conference</dd>
 </dl>
+
 
 ## Conference organizers
  * [Julie Dugdale](http://membres-liglab.imag.fr/dugdale/), Université Pierre Mendès France, France
