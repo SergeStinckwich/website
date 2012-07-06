@@ -41,17 +41,6 @@ Topics include, but are not limited to:
 - Early Warning and Expert Systems for Disaster Management 
 - Serious Games for Crisis Management 
 
-
- * Cooperative Information Gathering and Situation Awareness,
- * Social Networks (media, citizens, ...) observations,
- * Crisis Ontology,
- * Adaptive and self-organization of the crisis management teams,
- * Information System Interoperability and Inter-organizational issues,
- * Group decision support,
- * Crisis process design, enactment and adaptation,
- * Agent models for: negotiation, trust, resource allocation, planning and acting collaboratively,
- * Crisis Management Systems.
-
 ## Submissions guidelines
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least three reviews for each paper will be conducted. We are looking for submission of full research papers and reports on field studies (up to 8 pages). All track papers should be submitted electronically in PDF format through the Easychair website http://www.easychair.org/conferences/?conf=iscram-sea-2013 and should use the IEEE US letter format. Every submitted paper will be evaluated by at least three members of the program committee.
 
@@ -60,10 +49,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 ## Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">November XXX, 2012</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>December XXX, 2012</dt><dd>Final acceptance</dd>
-<dt>December XXX, 2012</dt><dd>Camera-ready paper due</dd>
-<dt>March XXX, 2013</dt><dd>ISCRAM South-Asia 2013 conference</dd>
+	<dt><span class="label label-important">November XX, 2012</span></dt><dd>Due date for workshop papers submission</dd>
+	<dt>December XX, 2012</dt><dd>Final acceptance</dd>
+	<dt>December XX, 2012</dt><dd>Camera-ready paper due</dd>
+	<dt>March XX, 2013</dt><dd>ISCRAM South-Asia 2013 conference</dd>
 </dl>
 
 
