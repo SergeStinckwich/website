@@ -14,6 +14,8 @@ In crisis situations (natural or industrial disasters, riots, ...), the differen
 Coordination raises several problems such as the definition of the universe of discourse, without which it would be impossible to solve the various semantic conflicts that are bound to occur between several autonomous and heterogeneous actors and their ISs. It involves the finding of partners, emergent partners integration, their collective decisions, partners plans negotiation and the synchronization of the distributed and concurrent execution of their actions and plans.
 Moreover, in a highly dynamic, open, unstable and uncertain environment, such as the one met in crisis context, coordination should be redesigned to be more reactive, pro-active, adaptive, robust and visible for all the partners while preserving the essential part of their autonomy. It is intended that this track should focus mainly on the benefits of adopting collaborative enabling information technologies such as: Agent based-systems, Collaborative BPMS, Semantic Web or Group Decision Support Systems (DSS).
 
+ISCRAM South-East Asia 2003 is a spinoff conference of [ISCRAM](http://www.iscram.org/) conference series.
+
 ## Conference topics
 Topics include, but are not limited to:
 
@@ -34,20 +36,22 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
 ## Important dates
-
- * Papers submission deadline: xxx
- * Notification of acceptance to authors: xxx
- * Camera Ready papers : xxx
- * ISCRAM South-Asia 2013 conference: xxx
+<dl class="dl-horizontal">
+<dt><span class="label label-important">November XXX, 2012</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>December XXX, 2012</dt><dd>Final acceptance</dd>
+<dt>December XXX, 2012</dt><dd>Camera-ready paper due/dd>
+<dt>March XXX, 2013</dt><dd>ISCRAM South-Asia 2013 conference</dd>
+</dl>
 
 ## Conference organizers
- * Julie Dugdale, Université Pierre Mendès France, France
+ * [Julie Dugdale](http://membres-liglab.imag.fr/dugdale/), Université Pierre Mendès France, France
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
 
 ## Program committee
  * Julie Dugdale, Université Pierre Mendès France, France
  * Bartel Van de Walle, Tilburg University, Netherlands
-* [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
+ * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
+ * Jean-Daniel Zucker, UMI 209 UMMISCO (TBC)
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference
