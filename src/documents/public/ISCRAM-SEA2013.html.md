@@ -55,16 +55,15 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 	<dt>March XX, 2013</dt><dd>ISCRAM South-Asia 2013 conference</dd>
 </dl>
 
-
 ## Conference organizers
  * [Julie Dugdale](http://membres-liglab.imag.fr/dugdale/), Université Pierre Mendès France, France
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
 
 ## Program committee
+ * Tung Bui, University of Hawaii, USA
  * Julie Dugdale, Université Pierre Mendès France, France
- * Bartel Van de Walle, Tilburg University, Netherlands
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
- * Jean-Daniel Zucker, UMI 209 UMMISCO (TBC)
+ * Bartel Van de Walle, Tilburg University, Netherlands
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference
