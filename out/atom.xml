@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-07-09T08:58:00Z</updated>
+    <updated>2012-07-09T16:04:30Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -127,21 +127,21 @@
                         
                     
                         
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
                         
                     
                         
@@ -193,7 +193,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-07-09T08:58:00Z and has  documents
+                This website was generated on 2012-07-09T16:04:30Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -214,6 +214,8 @@ Bonjour **world**&lt;/pre&gt;
 &lt;/html&gt;
 </content>
             </entry>
+        
+    
         
     
         
@@ -294,21 +296,21 @@ Bonjour **world**&lt;/pre&gt;
                         
                     
                         
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
                         
                     
                         
@@ -360,7 +362,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-07-09T08:58:00Z and has  documents
+                This website was generated on 2012-07-09T16:04:30Z and has  documents
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -381,8 +383,6 @@ Hello **world**&lt;/pre&gt;
 &lt;/html&gt;
 </content>
             </entry>
-        
-    
         
     
         

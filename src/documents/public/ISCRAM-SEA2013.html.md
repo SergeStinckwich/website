@@ -57,13 +57,15 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 ## Conference organizers
  * [Julie Dugdale](http://membres-liglab.imag.fr/dugdale/), Université Pierre Mendès France, France
- * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
+ * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI), Vietnam
+ * Ho Tuong Vinh, MSI/IFI/Vietnam National University, Vietnam
 
 ## Program committee
  * Tung Bui, University of Hawaii, USA
  * Julie Dugdale, Université Pierre Mendès France, France
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
  * Bartel Van de Walle, Tilburg University, Netherlands
+ * Jean-Daniel Zucker, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI)
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference
