@@ -6,7 +6,7 @@ description: '3rd International Workshop on Domain-Specific Languages and models
 ---
 # 3rd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-12)
 
-The workshop will take place November 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
+The workshop will take place November 5th, 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
 
 Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
 
@@ -50,7 +50,7 @@ We are looking for submission of **full research papers and experiences reports*
 <dl class="dl-horizontal">
 <dt><span class="label label-important">September 1, 2012</span></dt><dd>Due date for workshop papers submission</dd>
 <dt>October 1, 2012</dt><dd>Final acceptance</dd>
-<dt>November 5-8, 2012</dt><dd>Workshop date</dd>
+<dt>November 5, 2012</dt><dd>Workshop date</dd>
 </dl>
 
 # Organization committee
