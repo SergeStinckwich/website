@@ -19,7 +19,6 @@ The main objective of this workshop is a cross-pollination of ideas between robo
 
 This workshop will focus on the use of Domain-Specific Languages and Models for Robotic Systems. Topics that are of special interest include:
 
-- dynamic languages for robotics,languages to teach robotics, visual languages for robotics, 
 - domain-specific languages to express reactive behaviors, composition of behaviors, motion description languages (MDL),
 - domain-specific languages to express uncertainty, modelling of physical system, real-time constraints,
 - domain-specific languages to describe cooperative robotics and modular robotics systems,
@@ -27,9 +26,7 @@ This workshop will focus on the use of Domain-Specific Languages and Models for 
 - code generation and code transformation for robotics systems, variability in robotic systems,
 - frameworks to combine DSLs in an uniform manner,
 - benchmarks to compare use of DSL vs general-purpose programming, and
-- programming languages in the context of robotic systems.
-
-**Dynamic languages** are considered a topic of special interest at this year's workshop: dynamic languages becoming more popular in the robotics community and often lead to a natural development of "little languages" that are precursors to more structured DSLs.
+- programming languages in the context of robotic systems, visual languages for robots, languages to teach robotics.
 
 The intended audience is those robotics researchers throughout the entire robotics community who use DSLs and models as a key component of their robotics software infrastructure. In addition, robotics researchers with an interest in modern approaches to solving complex software-related issues will find the workshop inspirational.
 
