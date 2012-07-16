@@ -59,6 +59,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
  * [Julie Dugdale](http://membres-liglab.imag.fr/dugdale/), Université Pierre Mendès France, France
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC/MSI-IFI), Vietnam
  * Ho Tuong Vinh, MSI/IFI/Vietnam National University, Vietnam
+ * Nguyen Hong Phuong, Institute of Geophysics, Vietnam Academy of Science and Technology, Vietnam
 
 ## Program committee
  * Tung Bui, University of Hawaii, USA
