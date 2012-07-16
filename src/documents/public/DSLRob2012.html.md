@@ -8,7 +8,8 @@ description: '3rd International Workshop on Domain-Specific Languages and models
 
 The workshop will take place November 5th, 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
 
-Domain-Specific Languages (DSLs) and Model-driven Architecture (MDA) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
+
+Domain-Specific Languages (DSLs) and Model-driven Software Development (MDSD) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
 
 ## Description
 
@@ -21,8 +22,9 @@ This workshop will focus on the use of Domain-Specific Languages and Models for 
 - domain-specific languages to express reactive behaviors, composition of behaviors, motion description languages (MDL),
 - domain-specific languages to express uncertainty, modelling of physical system, real-time constraints,
 - domain-specific languages to describe cooperative robotics and modular robotics systems,
-- tools support and frameworks for describing and manipulating DSLs for robotic systems,
+- tools support and frameworks for describing and manipulating DSLs, models and meta-models for robotic systems,
 - code generation and code transformation for robotics systems, variability in robotic systems,
+- meta-models to express robotic specific structures and best practices,
 - frameworks to combine DSLs in an uniform manner,
 - benchmarks to compare use of DSL vs general-purpose programming, and
 - programming languages in the context of robotic systems, visual languages for robots, languages to teach robotics.
