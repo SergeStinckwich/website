@@ -62,15 +62,16 @@ We are looking for submission of **full research papers and experiences reports*
 # Program committee
 
  * [Alexandre Bergel](http://bergel.eu/), University of Chile, Chile
+ * [Geoffrey Biggs](http://staff.aist.go.jp/geoffrey.biggs/), AIST, Japan
  * [Mirko Bordignon](http://www.mip.sdu.dk/~mirko/), Digipack Automation, Sanovo Technology Group
- * Damien Cassou, INRIA, France
- * Akim Demaille, EPITA/LRDE, France
+ * [Damien Cassou](http://damiencassou.seasidehosting.st/), INRIA, France
+ * [Akim Demaille](http://www.lrde.epita.fr/cgi-bin/twiki/view/Main/AkimDemaille), EPITA/LRDE, France
  * [Jeff Gray](http://cs.ua.edu/~gray/), University of Alabama, USA
- * Sylvain Joyeux, DFKI, France
+ * [Sylvain Joyeux](http://www.mendeley.com/profiles/sylvain-joyeux/), DFKI, Germany
  * [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/) Henrik Nilsson, University of Nottingham, UK
  * [Patrick Martin](http://www.rawksolid.com/), York College of Pennsylvania, USA
- * Walid Taha, Halmstadt University, Sweden
- * Christina Vicente-Chicote, University of Cartagena, Spain
+ * [Walid Taha](http://www.cs.rice.edu/~taha/), Halmstadt University, Sweden
+ * [Christina Vicente-Chicote](https://sites.google.com/site/cvicentechicote/), University of Cartagena, Spain
  * [Mikal Ziane](http://pagesperso-systeme.lip6.fr/Mikal.Ziane/perso.html), LIP6, France
 
 # Contact
