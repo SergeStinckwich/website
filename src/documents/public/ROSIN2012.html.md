@@ -67,7 +67,7 @@ We are looking for submission of **full research papers and experiences reports*
 - Satoshi Tadokoro, Tohoku University, Japan
 
 ## Internet
-- Web site: http://www.doesnotunderstand.org/public/ROSIN12.html
+- Web site: http://www.doesnotunderstand.org/out/public/ROSIN2012.html
 
 ## Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
