@@ -47,10 +47,10 @@ We are looking for submission of **full research papers and experiences reports*
 
 ## Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">July 31, 2012</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>September 1, 2012</dt><dd>Final acceptance</dd>
-<dt>September 11, 2012</dt><dd>Camera-ready paper due/dd>
-<dt>October 11, 2012</dt><dd>Workshop date (half day)</dd>
+<dt><span class="label label-important">August 20, 2012</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>Sept 1, 2012</dt><dd>Final acceptance</dd>
+<dt>Sept 11, 2012</dt><dd>Camera-ready paper due</dd>
+<dt>Oct 11, 2012</dt><dd>Workshop date (half day)</dd>
 </dl>
 
 ## Organization committee
