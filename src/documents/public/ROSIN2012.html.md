@@ -37,7 +37,7 @@ After the workshop, extended version of the papers could be submitted to the fol
 Special issue of [Journal of Sensor and Actuator Networks](http://www.mdpi.com/journal/jsan) (ISSN 2224-2708) on [Multimedia Sensor Networks for Mission-Critical Surveillance Applications](http://www.mdpi.com/journal/jsan/special_issues/surveillance_app/)
 
 ## Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin12 Easychair website) and should use the IEEE US letter format.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin12) and should use the IEEE US letter format.
 
 - [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 - [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
