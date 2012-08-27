@@ -40,7 +40,7 @@ The proceedings of the first edition are freely available on arXiv: http://arxiv
 Serge Stinckwich also organized in International Workshop on DYnamic languages for RObotic and Sensors systems [DYROS 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DYROS10) during SIMPAR-2010 (Darmstadt, Germany) and [DYLA 2012](http://scg.unibe.ch/wiki/events/dyla2012) during ECOOP-2012 (Beijing, China).
 
 # Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2011) and should use the IEEE US letter format.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2012) and should use the IEEE US letter format.
 
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
