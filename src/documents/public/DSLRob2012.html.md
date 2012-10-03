@@ -49,7 +49,7 @@ We are looking for submission of **full research papers and experiences reports*
 
 # Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">September 1, 2012</span></dt><dd>Due date for workshop papers submission</dd>
+<dt><span class="label label-important">September 22, 2012</span></dt><dd>Due date for workshop papers submission</dd>
 <dt>October 1, 2012</dt><dd>Final acceptance</dd>
 <dt>November 5, 2012</dt><dd>Workshop date</dd>
 </dl>

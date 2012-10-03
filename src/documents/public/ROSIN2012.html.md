@@ -48,13 +48,31 @@ We are looking for submission of **full research papers and experiences reports*
 ## Important dates
 <dl class="dl-horizontal">
 <dt><span class="label label-important">August 20, 2012</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>Sept 1, 2012</dt><dd>Final acceptance</dd>
-<dt>Sept 11, 2012</dt><dd>Camera-ready paper due</dd>
+<dt>Sept 5, 2012</dt><dd>Final acceptance</dd>
+<dt>Sept 13, 2012</dt><dd>Camera-ready paper due</dd>
 <dt>Oct 11, 2012</dt><dd>Workshop date (half day)</dd>
 </dl>
 
+## Accepted papers
+
+- Levente Tamas and Silviu Folea, [3D Maps Augmented with Wireless Sensor Network Information](TW4_0001.pdf)
+- Justinas Miseikis and Paulo Borges, [Joint Human Detection from On-Board and Off-Board Cameras](TW4_0002.pdf)
+- Menna Siam and Mohamed Elhelw, [Robust Real-time Multiple Moving Targets Detection and Tracking Framework for UAV Imagery](TW4_0003.pdf)
+- Congduc Pham, [Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications](TW4_0004.pdf)
+- Eduardo Feo Flushing, Luca Gambardella and Gianni A. Di Caro, [GIS-based Mission Support System for Wilderness Search and Rescue with Heterogeneous Agents](TW4_0005.pdf)
+
+## Preliminary Program
+
+- Invited talk: Geert De Cubber, **ICARUS: An EU-FP7 project Providing Unmanned Search and Rescue Tools**
+- Menna Siam and Mohamed Elhelw, **Robust Real-time Multiple Moving Targets Detection and Tracking Framework for UAV Imagery**
+- Levente Tamas and Silviu Folea, **3D Maps Augmented with Wireless Sensor Network Information**
+- Eduardo Feo Flushing, Luca Gambardella and Gianni A. Di Caro, **GIS-based Mission Support System for Wilderness Search and Rescue with Heterogeneous Agents**
+- Invited talk: Fumitoshi Matsuno, **A Report of robot systems at the Great Eastern Japan Recovery**
+- Congduc Pham, **Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications**
+- Justinas Miseikis and Paulo Borges, **Joint Human Detection from On-Board and Off-Board Cameras**
+
 ## Organization committee
-- [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), International Rescue System Institute, Japan
+- [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), Kyoto University, Japan
 - [Congduc Pham](http://web.univ-pau.fr/~cpham/), LIUPPA, Université de Pau, France
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
