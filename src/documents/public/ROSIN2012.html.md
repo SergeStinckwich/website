@@ -63,13 +63,14 @@ We are looking for submission of **full research papers and experiences reports*
 
 ## Preliminary Program
 
-- Invited talk: Geert De Cubber, **ICARUS: An EU-FP7 project Providing Unmanned Search and Rescue Tools**
-- Menna Siam and Mohamed Elhelw, **Robust Real-time Multiple Moving Targets Detection and Tracking Framework for UAV Imagery**
-- Levente Tamas and Silviu Folea, **3D Maps Augmented with Wireless Sensor Network Information**
-- Eduardo Feo Flushing, Luca Gambardella and Gianni A. Di Caro, **GIS-based Mission Support System for Wilderness Search and Rescue with Heterogeneous Agents**
-- Invited talk: Fumitoshi Matsuno, **A Report of robot systems at the Great Eastern Japan Recovery**
-- Congduc Pham, **Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications**
-- Justinas Miseikis and Paulo Borges, **Joint Human Detection from On-Board and Off-Board Cameras**
+- 14:00-14:45 - Invited talk: Geert De Cubber, **ICARUS: An EU-FP7 project Providing Unmanned Search and Rescue Tools**
+- 14:45-15:05 - Menna Siam and Mohamed Elhelw, **Robust Real-time Multiple Moving Targets Detection and Tracking Framework for UAV Imagery**
+- 15:05-15:25 - Levente Tamas and Silviu Folea, **3D Maps Augmented with Wireless Sensor Network Information**
+- 15:25-15:45 - Eduardo Feo Flushing, Luca Gambardella and Gianni A. Di Caro, **GIS-based Mission Support System for Wilderness Search and Rescue with Heterogeneous Agents**
+- 15:45-16:15 -Break 
+- 16:15-16:45 - Invited talk: Fumitoshi Matsuno, **A Report of robot systems at the Great Eastern Japan Recovery**
+- 16:45-17:05 - Congduc Pham, **Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications**
+- 17:05-17:25 - Justinas Miseikis and Paulo Borges, **Joint Human Detection from On-Board and Off-Board Cameras**
 
 ## Organization committee
 - [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), Kyoto University, Japan
