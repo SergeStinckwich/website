@@ -68,9 +68,9 @@ We are looking for submission of **full research papers and experiences reports*
 - 15:05-15:25 - Levente Tamas and Silviu Folea, **3D Maps Augmented with Wireless Sensor Network Information**
 - 15:25-15:45 - Eduardo Feo Flushing, Luca Gambardella and Gianni A. Di Caro, **GIS-based Mission Support System for Wilderness Search and Rescue with Heterogeneous Agents**
 - 15:45-16:15 -Break 
-- 16:15-16:45 - Invited talk: Fumitoshi Matsuno, **A Report of robot systems at the Great Eastern Japan Recovery**
-- 16:45-17:05 - Congduc Pham, **Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications**
-- 17:05-17:25 - Justinas Miseikis and Paulo Borges, **Joint Human Detection from On-Board and Off-Board Cameras**
+- 16:15-17:00 - Invited talk: Fumitoshi Matsuno, **A Report of robot systems at the Great Eastern Japan Recovery**
+- 17:00-17:20 - Congduc Pham, **Fixed Image Sensors and Mobile Camera Robots Interactions for Mission-Critical Surveillance Applications**
+- 17:20-17:40 - Justinas Miseikis and Paulo Borges, **Joint Human Detection from On-Board and Off-Board Cameras**
 
 ## Organization committee
 - [Fumitoshi Matsuno](http://www.mechatronics.me.kyoto-u.ac.jp/matsuno/matsuno_eng.html), Kyoto University, Japan
