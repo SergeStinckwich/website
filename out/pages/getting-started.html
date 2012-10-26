@@ -48,6 +48,8 @@
                         
                     
                         
+                    
+                        
                         <li typeof="sioc:Page" about="/pages/supervizing.html" class="">
                             <a href="/pages/supervizing.html" property="dc:title">Students supervizing</a>
                         </li>
@@ -74,17 +76,15 @@
                         
                     
                         
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
                         <li typeof="sioc:Page" about="/pages/getting-started.html" class="active">
                             <a href="/pages/getting-started.html" property="dc:title">Getting Started</a>
                         </li>
+                        
+                    
+                        
+                    
+                        
+                    
                         
                     
                         
@@ -154,6 +154,10 @@
     
     
     
+    <li><a href="#haml-to-html.html.haml">HAML to HTML</a></li>
+    
+    
+    
     <li><a href="#html-to-coffeekup-example.coffee.html">HTML to CoffeeKup</a></li>
     
     
@@ -171,10 +175,6 @@
     
     
     <li><a href="#less-to-css.css.less">LessCSS to CSS</a></li>
-    
-    
-    
-    <li><a href="#haml-to-html.html.haml">HAML to HTML</a></li>
     
     
     
@@ -340,6 +340,30 @@ alert &quot;Three cubed is #{math.cube 3}&quot;</pre>
             
         
             
+            <tr typeof="sioc:Page" about="/markups/haml-to-html.html" id="haml-to-html.html.haml">
+                <td colspan="2">
+                    <strong>HAML to HTML</strong>
+                <td>
+            </tr>
+            <tr typeof="sioc:Page" about="/markups/haml-to-html.html">
+                <td>
+                    haml-to-html.html.haml
+                    <pre class="prettyprint lang-haml">%div.awesome
+  %h1 HAML Example
+  %p This page was coded with HAML.</pre>
+                </td>
+                <td>
+                    <a href="/markups/haml-to-html.html">
+                        haml-to-html.html
+                    </a>
+                    <pre class="prettyprint lang-haml">%div.awesome
+  %h1 HAML Example
+  %p This page was coded with HAML.</pre>
+                </td>
+            </tr>
+            
+        
+            
             <tr typeof="sioc:Page" about="/markups/html-to-coffeekup-example.coffee" id="html-to-coffeekup-example.coffee.html">
                 <td colspan="2">
                     <strong>HTML to CoffeeKup</strong>
@@ -475,30 +499,6 @@ alert &quot;Three cubed is #{math.cube 3}&quot;</pre>
                     </a>
                     <pre class="prettyprint lang-less">.box{color:#fe33ac;border-color:#fdcdea;}.box div{box-shadow:0 0 5px rgba(0, 0, 0, 0.4);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, 0.4);-moz-box-shadow:0 0 5px rgba(0, 0, 0, 0.4);}
 </pre>
-                </td>
-            </tr>
-            
-        
-            
-            <tr typeof="sioc:Page" about="/markups/haml-to-html.html" id="haml-to-html.html.haml">
-                <td colspan="2">
-                    <strong>HAML to HTML</strong>
-                <td>
-            </tr>
-            <tr typeof="sioc:Page" about="/markups/haml-to-html.html">
-                <td>
-                    haml-to-html.html.haml
-                    <pre class="prettyprint lang-haml">%div.awesome
-  %h1 HAML Example
-  %p This page was coded with HAML.</pre>
-                </td>
-                <td>
-                    <a href="/markups/haml-to-html.html">
-                        haml-to-html.html
-                    </a>
-                    <pre class="prettyprint lang-haml">%div.awesome
-  %h1 HAML Example
-  %p This page was coded with HAML.</pre>
                 </td>
             </tr>
             
@@ -732,6 +732,8 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         
     
         
+    
+        
         <li typeof="sioc:Page" about="/posts/bonjour.html" class="">
             <a href="/posts/bonjour.html" property="dc:title">Bonjour</a>
         </li>
@@ -741,8 +743,6 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         <li typeof="sioc:Page" about="/posts/hello.html" class="">
             <a href="/posts/hello.html" property="dc:title">Hello</a>
         </li>
-        
-    
         
     
         
@@ -801,15 +801,19 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         
     
         
-    
-        
-    
-        
-    
-        
         <li typeof="sioc:Page" about="/nifty/client-side-editing.html" class="">
             <a href="/nifty/client-side-editing.html" property="dc:title">Client-Side Editing Wooo!</a>
         </li>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
         
     
         
@@ -819,43 +823,39 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         
     
         
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
         <li typeof="sioc:Page" about="/nifty/dynamic.html" class="">
             <a href="/nifty/dynamic.html" property="dc:title">Dynamic Content Example</a>
         </li>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
         
     
     <li><a href="/search?query=coffee">A dynamic search page for <em>"coffee"</em></a></li>
@@ -864,7 +864,7 @@ form input{padding:5px;border:1px solid;-webkit-border-radius:5px;-moz-border-ra
         <footer>
             <p>&copy; Company 2011</p>
             <p style="float:right;">
-                This website was generated on 2012-10-08T14:16:42Z and has  documents
+                This website was generated on 2012-10-26T19:58:59Z and has  documents
             </p>
         </footer>
         <section id="source" class="source">
