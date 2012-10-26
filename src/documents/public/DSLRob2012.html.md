@@ -69,7 +69,7 @@ We are looking for submission of **full research papers and experiences reports*
 # Organization committee
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
  * [Ulrik P. Schultz](http://www.mip.sdu.dk/~ups/), University of Southern Denmark, Denmark
- * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Vietnam
+ * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Vietnam	
 
 # Program committee
 
