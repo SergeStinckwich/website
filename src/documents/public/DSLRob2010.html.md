@@ -6,9 +6,9 @@ description: '1st International Workshop on Domain-Specific Languages and models
 ---
 # 1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’10), October 2010
 
-{{image url="http://www.willowgarage.com/sites/default/files/IROS2010W100.jpg"}}
+<img src="http://www.willowgarage.com/sites/default/files/IROS2010W100.jpg" border="0" alt="IROS 2010" style="width: 800px;" />
 
-This workshop will take place in October 2010 in[Taipei](http://en.wikipedia.org/wiki/Taipei Taipei) (台北) Taiwan, during the [2010 IEEE/RSJ International Conference on Intelligent Robots and Systems](www.iros2010.org.tw/) (IROS'10).
+This workshop will take place in October 2010 in [Taipei](http://en.wikipedia.org/wiki/Taipei) (台北) Taiwan, during the [2010 IEEE/RSJ International Conference on Intelligent Robots and Systems](www.iros2010.org.tw/) (IROS'10).
 
 # Description
 

@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-10-08T14:16:42Z</updated>
+    <updated>2012-10-28T17:50:38.249Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -40,32 +40,24 @@
         
     
         
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
             <entry>
                 <title>Bonjour</title>
-                <link href="http://balupton.com/posts/bonjour.html"/>
-                <updated>2012-05-07T04:46:35Z</updated>
-                <id>http://balupton.com/posts/bonjour.html</id>
+                <link href="http://balupton.com/posts/bonjour"/>
+                <updated>2012-10-28T14:52:35.000Z</updated>
+                <id>http://balupton.com/posts/bonjour</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lange=&quot;en&quot;&gt;
+&lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
     &lt;!-- Meta --&gt;
     &lt;meta charset=&quot;utf-8&quot; /&gt;
     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;Bootstrap, from Twitter&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;Bonjour | #DNU&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -79,18 +71,9 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
-    
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
@@ -105,8 +88,42 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing.html&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/getting-started&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -135,45 +152,9 @@
                         
                     
                         
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                 &lt;/ul&gt;
@@ -184,6 +165,7 @@
         &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
 &lt;/div&gt;
 
 &lt;footer&gt;
@@ -191,9 +173,9 @@
 &lt;/footer&gt;
         &lt;/section&gt;
         &lt;footer&gt;
-            &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
+            &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-10-08T14:16:42Z and has  documents
+                This website was last updated at 2012-10-28T17:50:38.249Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -210,6 +192,12 @@ Bonjour **world**&lt;/pre&gt;
             &lt;/div&gt;
         &lt;/section&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
+
+    &lt;!-- Scripts --&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -217,22 +205,38 @@ Bonjour **world**&lt;/pre&gt;
         
     
         
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
             <entry>
                 <title>Hello</title>
-                <link href="http://balupton.com/posts/hello.html"/>
-                <updated>2012-05-07T04:46:35Z</updated>
-                <id>http://balupton.com/posts/hello.html</id>
+                <link href="http://balupton.com/posts/hello"/>
+                <updated>2012-10-28T14:52:35.000Z</updated>
+                <id>http://balupton.com/posts/hello</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lange=&quot;en&quot;&gt;
+&lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
     &lt;!-- Meta --&gt;
     &lt;meta charset=&quot;utf-8&quot; /&gt;
     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;Bootstrap, from Twitter&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
+    &lt;title&gt;Hello | #DNU&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -246,18 +250,9 @@ Bonjour **world**&lt;/pre&gt;
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
-    
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
@@ -272,8 +267,42 @@ Bonjour **world**&lt;/pre&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing.html&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/getting-started&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -302,45 +331,9 @@ Bonjour **world**&lt;/pre&gt;
                         
                     
                         
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/getting-started.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/getting-started.html&quot; property=&quot;dc:title&quot;&gt;Getting Started&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                 &lt;/ul&gt;
@@ -351,6 +344,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
 &lt;/div&gt;
 
 &lt;footer&gt;
@@ -358,9 +352,9 @@ Bonjour **world**&lt;/pre&gt;
 &lt;/footer&gt;
         &lt;/section&gt;
         &lt;footer&gt;
-            &lt;p&gt;&amp;copy; Company 2011&lt;/p&gt;
+            &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-10-08T14:16:42Z and has  documents
+                This website was last updated at 2012-10-28T17:50:38.249Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -377,6 +371,12 @@ Hello **world**&lt;/pre&gt;
             &lt;/div&gt;
         &lt;/section&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
+
+    &lt;!-- Scripts --&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -394,11 +394,13 @@ Hello **world**&lt;/pre&gt;
         
     
         
-    
-        
-    
-        
-    
+            <entry>
+                <title>Read More</title>
+                <link href="http://balupton.com/posts/readmore"/>
+                <updated>2012-10-28T14:52:35.000Z</updated>
+                <id>http://balupton.com/posts/readmore</id>
+                <content type="html">false</content>
+            </entry>
         
     
         
