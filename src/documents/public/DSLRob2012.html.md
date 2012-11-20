@@ -6,7 +6,7 @@ description: '3rd International Workshop on Domain-Specific Languages and models
 ---
 # 3rd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-12)
 
-The workshop will take place November 5th, 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org) conference venue.
+The workshop will take place November 5th, 2012 in Tsukuba (Japan) at the [SIMPAR 2012](http://www.2012.simpar.org/) conference venue.
 
 Domain-Specific Languages (DSLs) and Model-driven Software Development (MDSD) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
 
@@ -54,16 +54,16 @@ We are looking for submission of **full research papers and experiences reports*
 </dl>
 
 # Program
-* 10:00 - 10:15    Welcome and Opening / Christian Schlegel, Serge Stinckwich
-* 10:15 - 10:45    Juan Francisco Inglés-Romero, Alex Lotz, Cristina Vicente Chicote and Christian Schlegel. Dealing with Run-Time Variability in Service Robotics: Towards a DSL for Non-Functional Properties
-* 10:45 - 11:15    Andreas Angerer, Remi Smirra, Alwin Hoffmann, Andreas Schierl, Michael Vistein and Wolfgang Reif. A Graphical Language for Real-Time Critical Robot Commands
-* 11:15 - 11:45    Markus Klotzbücher, Herman Bruyninckx and Geoffrey Biggs. Pure Coordination using the Coordinator-Configurator Pattern
-* 11:45 - 12:15    Tinne De Laet, Wouter Schaekers, Jonas de Greef and Herman Bruyninckx. Domain Specific Language for Geometric Relations between Rigid Bodies targeted to robotic applications
-* 12:15 - 13:45    LUNCH BREAK
-* 13:45 - 14:15    Arne Nordmann and Sebastian Wrede. A Domain-Specific Language for Rich Motor Skill Architectures
-* 14:15 - 14:45    Walid Taha and Roland Philippsen. Modeling Basic Aspects of Cyber-Physical Systems
-* 14:45 - 15:15    COFFEE BREAK
-* 15:15 - 17:00    DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
+* 10:00 - 10:15		Welcome and Opening ([slides](http://www.doesnotunderstand.org/out/conf/DSLRob2012/slides/0-DSLRob2012-Introduction.pdf)) / Christian Schlegel, Serge Stinckwich
+* 10:15 - 10:45 	Juan Francisco Inglés-Romero, Alex Lotz, Cristina Vicente Chicote and Christian Schlegel. Dealing with Run-Time Variability in Service Robotics: Towards a DSL for Non-Functional Properties ()
+* 10:45 - 11:15		Andreas Angerer, Remi Smirra, Alwin Hoffmann, Andreas Schierl, Michael Vistein and Wolfgang Reif. A Graphical Language for Real-Time Critical Robot Commands
+* 11:15 - 11:45 	Markus Klotzbücher, Herman Bruyninckx and Geoffrey Biggs. Pure Coordination using the Coordinator-Configurator Pattern
+* 11:45 - 12:15		Tinne De Laet, Wouter Schaekers, Jonas de Greef and Herman Bruyninckx. Domain Specific Language for Geometric Relations between Rigid Bodies targeted to robotic applications
+* 12:15 - 13:45 	LUNCH BREAK
+* 13:45 - 14:15		Arne Nordmann and Sebastian Wrede. A Domain-Specific Language for Rich Motor Skill Architectures
+* 14:15 - 14:45 	Walid Taha and Roland Philippsen. Modeling Basic Aspects of Cyber-Physical Systems
+* 14:45 - 15:15    	COFFEE BREAK
+* 15:15 - 17:00    	DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
 
 # Organization committee
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
