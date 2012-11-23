@@ -36,8 +36,10 @@ The intended audience is those robotics researchers throughout the entire roboti
 # Submissions guidelines
 
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=dslrob10) and should use the IEEE US letter format.
-	- [[http://ras.papercept.net/conferences/support/files/ieeeconf.zip Download the LateX template in US Letter]]
-	- [[http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot Download the Word template in US Letter]]
+
+ * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
+ * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
+
 We are looking for submission of **full research papers and experiences reports** (up to 6 pages) and **work in progress submissions** (up to 4 pages).
 **Please create your account on Easychair website as soon as possible if you intend to submit a paper: http://www.easychair.org/conferences/?conf=dslrob10 **
 
@@ -54,37 +56,39 @@ We are looking for submission of **full research papers and experiences reports*
 
 ## Program committee
 - Jean-Christophe Baillie, GOSTAI
-- [Alexandre Bergel](http://bergel.eu/ Alexandre Bergel), University of Chile, Chile
-- [[http://www.mip.sdu.dk/~mirko/ Mirko Bordignon]], University of Southern Denmark, Denmark
+- [Alexandre Bergel](http://bergel.eu/), University of Chile, Chile
+- [Mirko Bordignon](http://www.mip.sdu.dk/~mirko/), University of Southern Denmark, Denmark
 - Sébastien Gerard, CEA LIST, France
-- [[http://www.cs.nott.ac.uk/~nhn/ Henrik Nilsson]], University of Nottingham, UK
-- [[http://www.mip.sdu.dk/~ups/ Ulrik P. Schultz]], University of Southern Denmark, Denmark
-- [[ttp://doesnotunderstand.org/ Serge Stinckwich]], UMMISCO (IRD/UPMC/MSI), Vietnam
-- [[http://pagesperso-systeme.lip6.fr/Mikal.Ziane/perso.html Mikal Ziane]], LIP6, France
+- [Henrik Nilsson](http://www.cs.nott.ac.uk/~nhn/), University of Nottingham, UK
+- [Ulrik P. Schultz](http://www.mip.sdu.dk/~ups/), University of Southern Denmark, Denmark
+- [Serge Stinckwich](http://doesnotunderstand.org/), UMMISCO (IRD/UPMC/MSI), Vietnam
+- [Mikal Ziane](http://pagesperso-systeme.lip6.fr/Mikal.Ziane/perso.html), LIP6, France
 - Tewfik Ziadi, LIP6, France
 
 ## Accepted papers
-Proceedings of the workshop are available on [[http://arxiv.org/abs/1102.4563 arXiv.org]]: 
-	- Andreas Angerer, Alwin Hoffmann, Henrik Mühe and Wolfgang Reif. [[http://arxiv.org/abs/1009.5004 On reverse-engineering the KUKA Robot Language]]
-	- Andreas Steck and Christian Schlegel. [[http://arxiv.org/abs/1009.4877v1 Towards Quality of Service and Resource Aware Robotic Systems through Model-Driven Software Development]]
-	- Jean-Christophe Baillie, Akim Demaille, Quentin Hocquet and Matthieu Nottale. [[http://arxiv.org/abs/1010.5694 Events! (Reactivity in urbiscript)]]
-	- Michael Reckhaus, Nico Hochgeschwender, Paul Ploeger and Gerhard Kraetzschmar. [[http://arxiv.org/abs/1010.0886 A Platform-independent Programming Environment for Robot Control]]
+Proceedings of the workshop are available on [arXiv](http://arxiv.org/abs/1102.4563): 
+
+- Andreas Angerer, Alwin Hoffmann, Henrik Mühe and Wolfgang Reif. [On reverse-engineering the KUKA Robot Language](http://arxiv.org/abs/1009.5004)
+- Andreas Steck and Christian Schlegel. [Towards Quality of Service and Resource Aware Robotic Systems through Model-Driven Software Development](http://arxiv.org/abs/1009.4877v1)
+- Jean-Christophe Baillie, Akim Demaille, Quentin Hocquet and Matthieu Nottale. [Events! (Reactivity in urbiscript)](http://arxiv.org/abs/1010.5694)
+- Michael Reckhaus, Nico Hochgeschwender, Paul Ploeger and Gerhard Kraetzschmar. [A Platform-independent Programming Environment for Robot Control](http://arxiv.org/abs/1010.0886)
 
 ## Program
 Pictures taken during the workshop are available here: http://www.flickr.com/photos/sergestinckwich/sets/72157626124825162/
-	- 8h20-8h30 [[http://www.slideshare.net/ulrikpaghschultz/dslrob10-opening-slides Welcome and introduction to the workshop]]
-	- 8h30-9h00 Andreas Angerer, Alwin Hoffmann, Henrik Mühe and Wolfgang Reif. **On reverse-engineering the KUKA Robot Language**
-	- 9h00-9h30 Andreas Steck and Christian Schlegel. **Towards Quality of Service and Resource Aware Robotic Systems through Model-Driven Software Development**
-	- 9h30-10h00 Invited talk : Ulrik Pagh Schultz, [[http://www.slideshare.net/ulrikpaghschultz/a-software-product-line-for-modular-robots A Software Product Line for Modular Robotics]]
-	- 10h00-10h20 Coffee break
-	- 10h20-10h45 Jean-Christophe Baillie, Akim Demaille, Quentin Hocquet and Matthieu Nottale. **Events! (Reactivity in urbiscript)**
-	- 10h45-11h10 Michael Reckhaus, Nico Hochgeschwender, Paul Ploeger and Gerhard Kraetzschmar. **A Platform-independent Programming Environment for Robot Control**
-	- 11h10-11h30 Invited talk: Alexandre Bergel, Serge Stinckwich, [[http://www.slideshare.net/SergeStinckwich/dsl-rob2010 A DSL for the visualization of multi-robots system]]
-	- 11h35-12h00 [[http://www.slideshare.net/ulrikpaghschultz/dslrob10-closing-slide Discussions/perspectives]]
+
+- 8h20-8h30 **[Welcome and introduction to the workshop](http://www.slideshare.net/ulrikpaghschultz/dslrob10-opening-slides)**
+- 8h30-9h00 Andreas Angerer, Alwin Hoffmann, Henrik Mühe and Wolfgang Reif. **On reverse-engineering the KUKA Robot Language**
+- 9h00-9h30 Andreas Steck and Christian Schlegel. **Towards Quality of Service and Resource Aware Robotic Systems through Model-Driven Software Development**
+- 9h30-10h00 Invited talk : Ulrik Pagh Schultz, **[A Software Product Line for Modular Robotics](http://www.slideshare.net/ulrikpaghschultz/a-software-product-line-for-modular-robots)**
+- 10h00-10h20 Coffee break
+- 10h20-10h45 Jean-Christophe Baillie, Akim Demaille, Quentin Hocquet and Matthieu Nottale. **Events! (Reactivity in urbiscript)**
+- 10h45-11h10 Michael Reckhaus, Nico Hochgeschwender, Paul Ploeger and Gerhard Kraetzschmar. **A Platform-independent Programming Environment for Robot Control**
+- 11h10-11h30 Invited talk: Alexandre Bergel, Serge Stinckwich, **[A DSL for the visualization of multi-robots system](http://www.slideshare.net/SergeStinckwich/dsl-rob2010)**
+- 11h35-12h00 [Discussions/perspectives](http://www.slideshare.net/ulrikpaghschultz/dslrob10-closing-slide)
 
 ## Internet	
-	- Web site: http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10
-	- Related workshop: [[http://www.artist-embedded.org/artist/RoSym-2010,2158.html 1st international workshop on Model Based Engineering for Robotics: RoSym’10]]
+- Web site: http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10
+- Related workshop: [1st international workshop on Model Based Engineering for Robotics: RoSym’10](http://www.artist-embedded.org/artist/RoSym-2010,2158.html)
 
 ## Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
