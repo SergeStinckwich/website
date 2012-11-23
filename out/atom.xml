@@ -3,13 +3,19 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-11-23T19:20:35.054Z</updated>
+    <updated>2012-11-23T19:33:41.361Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
+    
+        
+    
+        
     
         
     
@@ -112,6 +118,12 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
                         &lt;/li&gt;
@@ -127,12 +139,6 @@
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -187,7 +193,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-11-23T19:20:35.054Z
+                This website was last updated at 2012-11-23T19:33:41.361Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -285,6 +291,12 @@ socket.on('regenerated',function(){
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
                         &lt;/li&gt;
@@ -300,12 +312,6 @@ socket.on('regenerated',function(){
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -360,7 +366,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-11-23T19:20:35.054Z
+                This website was last updated at 2012-11-23T19:33:41.361Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -397,12 +403,6 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html">false</content>
             </entry>
-        
-    
-        
-    
-        
-    
         
     
         
