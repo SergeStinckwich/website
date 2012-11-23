@@ -54,10 +54,10 @@ We are looking for submission of **full research papers and experiences reports*
 </dl>
 
 # Program
-* 10:00 - 10:15		Welcome and Opening ([slides](http://www.doesnotunderstand.org/out/conf/DSLRob2012/slides/0-DSLRob2012-Introduction.pdf)) / Christian Schlegel, Serge Stinckwich
-* 10:15 - 10:45 	Juan Francisco Inglés-Romero, Alex Lotz, Cristina Vicente Chicote and Christian Schlegel. Dealing with Run-Time Variability in Service Robotics: Towards a DSL for Non-Functional Properties ()
-* 10:45 - 11:15		Andreas Angerer, Remi Smirra, Alwin Hoffmann, Andreas Schierl, Michael Vistein and Wolfgang Reif. A Graphical Language for Real-Time Critical Robot Commands
-* 11:15 - 11:45 	Markus Klotzbücher, Herman Bruyninckx and Geoffrey Biggs. Pure Coordination using the Coordinator-Configurator Pattern
+* 10:00 - 10:15		[Welcome and Opening](http://www.slideshare.net/SergeStinckwich/dslrob-2012-introduction) / Christian Schlegel, Serge Stinckwich
+* 10:15 - 10:45 	Juan Francisco Inglés-Romero, Alex Lotz, Cristina Vicente Chicote and Christian Schlegel. Dealing with Run-Time Variability in Service Robotics: Towards a DSL for Non-Functional Properties ([slides](http://www.slideshare.net/SergeStinckwich/dealing-with-runtime-variability-in-service-robotics-towards-a-dsl-for-nonfunctional-properties))
+* 10:45 - 11:15		Andreas Angerer, Remi Smirra, Alwin Hoffmann, Andreas Schierl, Michael Vistein and Wolfgang Reif. A Graphical Language for Real-Time Critical Robot Commands ([slides](http://www.slideshare.net/SergeStinckwich/a-graphical-language-for-realtime-critical-robot-commands))
+* 11:15 - 11:45 	Markus Klotzbücher, Herman Bruyninckx and Geoffrey Biggs. Pure Coordination using the Coordinator-Configurator Pattern ([slides](http://www.slideshare.net/SergeStinckwich/pure-coordination-using-the-coordinatorconfigurator-pattern))
 * 11:45 - 12:15		Tinne De Laet, Wouter Schaekers, Jonas de Greef and Herman Bruyninckx. Domain Specific Language for Geometric Relations between Rigid Bodies targeted to robotic applications
 * 12:15 - 13:45 	LUNCH BREAK
 * 13:45 - 14:15		Arne Nordmann and Sebastian Wrede. A Domain-Specific Language for Rich Motor Skill Architectures
