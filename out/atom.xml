@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-11-23T19:41:36.894Z</updated>
+    <updated>2012-11-26T14:00:50.200Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -193,7 +193,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-11-23T19:41:36.894Z
+                This website was last updated at 2012-11-26T14:00:50.200Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -366,7 +366,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Company 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-11-23T19:41:36.894Z
+                This website was last updated at 2012-11-26T14:00:50.200Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
