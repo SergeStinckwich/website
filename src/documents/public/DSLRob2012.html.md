@@ -32,7 +32,7 @@ The intended audience is those robotics researchers throughout the entire roboti
 
 ## Relation to previous workshops organized
 
-This is the third installment of this workshop: the first edition [DSLRob 2010](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10) was held at IROS 2010 and the second edition [DSLRob 2011](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob11) was collocated with IROS 2011. In the second edition, we accepted 6 papers and more than 20 people attended the full-day workshop. 
+This is the third installment of this workshop: the first edition [DSLRob 2010](DSLRob2010) was held at IROS 2010 and the second edition [DSLRob 2011](DSLRob2011) was collocated with IROS 2011. In the second edition, we accepted 6 papers and more than 20 people attended the full-day workshop. 
 
 The proceedings of the first edition are freely available on arXiv: http://arxiv.org/abs/1102.4563, and the proceedings of the second edition will be available soon (also on arXiv).
 
