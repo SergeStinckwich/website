@@ -52,10 +52,11 @@ description: 'Events'
 - PC Member of ["18èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'10)](http://www.ltim.org/jfsma10/), October 18-20, Mahdia, Tunisia (French domestic conference)
 - Invited Speaker at [2nd Open Source Developers Conference (OSDC 2010)](http://act.osdc.fr/osdc2010fr/), "Using Smalltalk for controlling robotics systems", video: [http://blip.tv/file/4673429](http://blip.tv/file/4673429) , October 9-10, Paris, France
 - Co-organizer of [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25, Bayonne, France (French domestic conference)
-- Co-organizer of the Track "Intelligent Systems" ISCRAM 2010 - 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010)\footnote{\url{http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf}}, 2-5 May, Seattle, USA
-- PC Member of ThaiSim 2010 - 2nd ThaiSim conference\footnote{\url{http://www.thaisim.org/en/thaisim_2010.htm}}, March 25-27, Rajamangala University of Technology Srivijaya, Thailand
-- PC Member of The 2nd Asian Conference on Intelligent Information and Database Systems (ACIIDS'10)\footnote{\url{http://aciids2010.hueuni.edu.vn/}}, March 24-26, Huế, Viêt Nam
-- Program co-chair of [The Eight International Conference on Creating, Connecting and Collaborating through Computing (C5 2010)\footnote{\url{http://www.cm.is.ritsumei.ac.jp/}}, January 25-27, Calit2, UC San Diego, La Jolla CA, USA
+
+- Co-organizer of the Track ["Intelligent Systems" ISCRAM 2010 - 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010)](http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf), 2-5 May, Seattle, USA
+- PC Member of [2nd ThaiSim conference (ThaiSim 2010)](http://www.thaisim.org/en/thaisim_2010.htm), March 25-27, Rajamangala University of Technology Srivijaya, Thailand
+- PC Member of the [2nd Asian Conference on Intelligent Information and Database Systems (ACIIDS'10)](http://aciids2010.hueuni.edu.vn/), March 24-26, Huế, Viêt Nam
+- Program co-chair of [The Eight International Conference on Creating, Connecting and Collaborating through Computing (C5 2010](http://www.cm.is.ritsumei.ac.jp/), January 25-27, Calit2, UC San Diego, La Jolla CA, USA
 - PC Member of ["17èmes Rencontres de Rochebrune : Le contexte" (Rochebrune'10)](http://s4.csregistry.org/tiki-calendar_edit_item.php?viewcalitemId=20), January 17-24, Rochebrune, France (French domestic conference)
 
 ###2009
