@@ -67,18 +67,18 @@ description: 'Events'
 - PC Member of ["16èmes Rencontres de Rochebrune : Ontologie et dynamique des systèmes complexes, perspectives interdisciplinaires" (Rochebrune 2009)](http://gemas.msh-paris.fr/dphan/rochebrune09/), Rochebrune, France
 
 ###2008
-- Conference co-chair of The Sixth International Conference on Creating, Connecting and Collaborating through Computing (C5 2008)\footnote{\url{http://www.cm.is.ritsumei.ac.jp/c5-08/}}, January 14-16, Poitiers, France
-- PC Member of "16ème Journées Francophones des Systèmes Multi-Agents" (JFSMA'08)\footnote{\url{http://www.cerv.fr/jfsma08/}}, October 15-17, Brest, France (French domestic conference)
+- Conference co-chair of [The Sixth International Conference on Creating, Connecting and Collaborating through Computing (C5 2008](http://www.cm.is.rit]sumei.ac.jp/c5-08/), January 14-16, Poitiers, France
+- PC Member of ["16ème Journées Francophones des Systèmes Multi-Agents" (JFSMA 2008)](http://www.cerv.fr/jfsma08/), October 15-17, Brest, France (French domestic conference)
 - PC Member of "15èmes Rencontres de Rochebrune" (Rochebrune'08) (French domestic conference)
 
 ###2007
-- PC Member of "15èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'07)\footnote{\url{http://www.irit.fr/JFSMA07/}}, October 17-19, Carcassone, France
-- PC Member of 4th International Symposium on Autonomous Minirobots for Research and Edutainment (AMIRE'07)\footnote{\url{http://www.amire2007.fit.qut.edu.au/}}, October 2-5, Buenos Aires, Argentina
+- PC Member of ["15èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA 2007)](http://www.irit.fr/JFSMA07/), October 17-19, Carcassone, France
+- PC Member of [4th International Symposium on Autonomous Minirobots for Research and Edutainment (AMIRE 2007)](http://www.amire2007.fit.qut.edu.au/), October 2-5, Buenos Aires, Argentina
 - Member of 14èmes Rencontres de Rochebrune (Rochebrune'07), Rochebrune, France (French domestic conference)
-- Member of International Conference on Dynamic Languages\footnote{\url{http://www.esug.org/wiki/pier/Conferences/2007/International Conference on Dynamic Languages}} (co-located with ESUG 2007), August 25-31, Lugano, Switzerland
+- Member of [International Conference on Dynamic Languages](http://www.esug.org/wiki/pier/Conferences/2007/International Conference on Dynamic Languages) (co-located with ESUG 2007), August 25-31, Lugano, Switzerland
 
 ###2006
-- PC Member of Research Track of the ESUG 2006 conference\footnote{\url{http://www.esug.org/wiki/pier/Conferences/2006/Call-for-Papers-for-the-Research-Conference}}, September 4-8, Prague, Czech Republic
+- PC Member of [Research Track of the ESUG 2006 conference](http://www.esug.org/wiki/pier/Conferences/2006/Call-for-Papers-for-the-Research-Conference), September 4-8, Prague, Czech Republic
 
 ###2005
 - PC Member of Research Track of the Thirteenth International Conference 2005 in Brussels, Belgium.
@@ -93,4 +93,4 @@ description: 'Events'
 - PC Member of CAPS'3 Learning's WWW\footnote{\url{http://europia.org/communication/CAPS/}}, December 13-14, Paris, France
 
 ###1996
-- Co-organizer of Fifth International World Wide Web Conference - Workshop on "Artificial Intelligence-based tools to help W3 users"\footnote{\url{http://www.w3.org/Conferences/WWW5/fich_html/workshops/Stinckwich.html}}, May 6-10, Paris
+- Co-organizer of [Fifth International World Wide Web Conference - Workshop on "Artificial Intelligence-based tools to help W3 users"](http://www.w3.org/Conferences/WWW5/fich_html/workshops/Stinckwich.html), May 6-10, Paris
