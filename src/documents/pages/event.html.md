@@ -13,7 +13,7 @@ description: 'Events'
 ###2012
 - Co-organizer ["Ecole d'automne: Réseaux de capteurs, mesure et environnement"](http://ecole-capteurs.univ-brest.fr/), October 23-26 2012, Brest, France.
 - PC Member of [Smalltalks 12 (6th International Conference on Smalltalk Technologies)](http://scg.unibe.ch/wiki/events/smalltalks12) Research Track, November 7-9, Puerto Madryn, Argentina
-- Co-organizer of [3nd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’12)](http://www.doesnotunderstand.org/out/public/DSLRob2012.html), November 5, Tsukuba, Japan, colocated with SIMPAR 2012 conference.
+- Co-organizer of [3nd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’12)](http://www.doesnotunderstand.org/public/DSLRob2012), November 5, Tsukuba, Japan, colocated with SIMPAR 2012 conference.
 - European Regional Chair for the [10th IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR 2012)](http://www.ssrr2012.org/), November 5-8, Texas, USA
 - PC Member of [2012 IEEE IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2012)](http://www.iros2012.org/), October 7-12, Vilamoura, Algarve, Portugal
 - Co-organizer of [2nd Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2012)](http://www.doesnotunderstand.org/out/public/ROSIN2012.html) October 11, Vilamoura, Algarve, Portugal (collocated with [IROS 2012](http://www.iros2012.org/)).
@@ -34,7 +34,7 @@ description: 'Events'
 - PC Member of [9th IEEE International Symposium on Safety, security, and Rescue Robotics (SRRR 2011)](http://ssrr2011.mif.sys.okayama-u.ac.jp/), November 1-5, Kyoto, Japan
 - PC Member of ["19èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'11)](http://www.univ-valenciennes.fr/congres/jfsma2011/), October 17-19, Valenciennes, France (french domestic conference) 
 - PC Member of [2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)](http://www.iros2011.org/), September 25-30, San Francisco, USA
-- Co-organizer of [2nd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’11)](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob11), September 26, San Francisco, USA
+- Co-organizer of [2nd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’11)](http://www.doesnotunderstand.org/public/DSLRob2011), September 26, San Francisco, USA
 - Co-organizer of [Track "Collaborative Technology for Coordinating Crisis Management" of the 20th IEEE International Conference on Collaboration Technologies and Infrastructures (WETICE 2011)](http://www.doesnotunderstand.org/wikka.php?wakka=CT2CM2011), June 27-29, Paris
 - PC Member of ["Journées thématiques Réseaux et Systèmes pour les Applications Critiques de Surveillance" (RSACS 2011)](http://rsacs11.net23.net/), June 22-23, Oran, Algeria (French domestic conference)
 - Co-organizer of ["Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance" (RESSACS 2011)](http://web.univ-pau.fr/~cpham/iWEB/RESSACS2011/), June 17, Anglet, France (French domestic conference)
@@ -47,7 +47,7 @@ description: 'Events'
 ###2010
 - Speaker at the [3rd Japan-Vietnam Workshop on Software Engineering 2010 (JVSE 2010)](http://www.coltech.vnu.edu.vn/~hoangta/jvse2010/), December 9-10, Hanoi, Vietnam
 - Co-organizer of [International Workshop on Dynamic languages for RObotic and Sensors systems (DYROS 2010)](http://www.doesnotunderstand.org/wikka.php?wakka=DYROS10), November 15, Darmstadt, Germany
-- Co-organizer of [1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob 2010)](http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10), October 22, Taipei, Taiwan
+- Co-organizer of [1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob 2010)](http://www.doesnotunderstand.org/public/DSLRob2010), October 22, Taipei, Taiwan
 - Co-organizer of [IROS'10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2010)](http://www.doesnotunderstand.org/wikka.php?wakka=ROSIN10), October 18, Taipei, Taiwan.
 - PC Member of ["18èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'10)](http://www.ltim.org/jfsma10/), October 18-20, Mahdia, Tunisia (French domestic conference)
 - Invited Speaker at [2nd Open Source Developers Conference (OSDC 2010)](http://act.osdc.fr/osdc2010fr/), "Using Smalltalk for controlling robotics systems", video: [http://blip.tv/file/4673429](http://blip.tv/file/4673429) , October 9-10, Paris, France
@@ -60,5 +60,37 @@ description: 'Events'
 - PC Member of ["17èmes Rencontres de Rochebrune : Le contexte" (Rochebrune'10)](http://s4.csregistry.org/tiki-calendar_edit_item.php?viewcalitemId=20), January 17-24, Rochebrune, France (French domestic conference)
 
 ###2009
+- Co-organizer of [2nd International Workshop on Agent Technology for Disaster Management (ATDM'09)](http://www.doesnotunderstand.org/wikka.php?wakka=ATDM2009), December 13, Nagoya, Japan
+- PC Member of [International Workshop on Smalltalk Technologies 2009 (IWST'09)](http://www.esug.org/Conferences/2009/InternationalWorkshop), August 31, Brest, France
+- PC Member of ["17èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'09)](http://bat710.univ-lyon1.fr/~sycosma/JFSMA09/), October 19-21, Lyon, France (French domestic conference)
+- Program co-chair of [The Seventh International Conference on Creating, Connecting and Collaborating through Computing (C5 2009)](http://www.cm.is.ritsumei.ac.jp/c5-09/), January 19-22, Kyoto, Japan
+- PC Member of ["16èmes Rencontres de Rochebrune : Ontologie et dynamique des systèmes complexes, perspectives interdisciplinaires" (Rochebrune 2009)](http://gemas.msh-paris.fr/dphan/rochebrune09/), Rochebrune, France
 
 ###2008
+- Conference co-chair of The Sixth International Conference on Creating, Connecting and Collaborating through Computing (C5 2008)\footnote{\url{http://www.cm.is.ritsumei.ac.jp/c5-08/}}, January 14-16, Poitiers, France
+- PC Member of "16ème Journées Francophones des Systèmes Multi-Agents" (JFSMA'08)\footnote{\url{http://www.cerv.fr/jfsma08/}}, October 15-17, Brest, France (French domestic conference)
+- PC Member of "15èmes Rencontres de Rochebrune" (Rochebrune'08) (French domestic conference)
+
+###2007
+- PC Member of "15èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'07)\footnote{\url{http://www.irit.fr/JFSMA07/}}, October 17-19, Carcassone, France
+- PC Member of 4th International Symposium on Autonomous Minirobots for Research and Edutainment (AMIRE'07)\footnote{\url{http://www.amire2007.fit.qut.edu.au/}}, October 2-5, Buenos Aires, Argentina
+- Member of 14èmes Rencontres de Rochebrune (Rochebrune'07), Rochebrune, France (French domestic conference)
+- Member of International Conference on Dynamic Languages\footnote{\url{http://www.esug.org/wiki/pier/Conferences/2007/International Conference on Dynamic Languages}} (co-located with ESUG 2007), August 25-31, Lugano, Switzerland
+
+###2006
+- PC Member of Research Track of the ESUG 2006 conference\footnote{\url{http://www.esug.org/wiki/pier/Conferences/2006/Call-for-Papers-for-the-Research-Conference}}, September 4-8, Prague, Czech Republic
+
+###2005
+- PC Member of Research Track of the Thirteenth International Conference 2005 in Brussels, Belgium.
+
+###2004
+- PC Member of Research Track of Twelfth Smalltalk Joint Event 2004\footnote{\url{http://www.esug.org/data/ReportsFromNiallRoss/nfrESUG2004report.pdf}}, September 6-12, Koethen, Germany
+
+###2002
+- Co-organizer of ESUG 2002 Smalltalk Join Event\footnote{\url{http://vst.ensm-douai.fr/esug2002/}}, August 26-30, Douai, France
+
+###2000
+- PC Member of CAPS'3 Learning's WWW\footnote{\url{http://europia.org/communication/CAPS/}}, December 13-14, Paris, France
+
+###1996
+- Co-organizer of Fifth International World Wide Web Conference - Workshop on "Artificial Intelligence-based tools to help W3 users"\footnote{\url{http://www.w3.org/Conferences/WWW5/fich_html/workshops/Stinckwich.html}}, May 6-10, Paris
