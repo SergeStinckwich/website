@@ -31,7 +31,7 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
+				<a class="brand" href="/">#DNU Home</a>
 				<ul class="nav">
 					<% for document in @getCollection('documents').toJSON(): %>
 						<% if document.url.indexOf('/pages') == 0: %>
