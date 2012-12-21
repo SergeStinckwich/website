@@ -84,13 +84,13 @@ description: 'Events'
 - PC Member of Research Track of the Thirteenth International Conference 2005 in Brussels, Belgium.
 
 ###2004
-- PC Member of Research Track of Twelfth Smalltalk Joint Event 2004\footnote{\url{http://www.esug.org/data/ReportsFromNiallRoss/nfrESUG2004report.pdf}}, September 6-12, Koethen, Germany
+- PC Member of [Research Track of Twelfth Smalltalk Joint Event 2004](http://www.esug.org/data/ReportsFromNiallRoss/nfrESUG2004report.pdf), September 6-12, Koethen, Germany
 
 ###2002
-- Co-organizer of ESUG 2002 Smalltalk Join Event\footnote{\url{http://vst.ensm-douai.fr/esug2002/}}, August 26-30, Douai, France
+- Co-organizer of [ESUG 2002 Smalltalk Join Event](http://vst.ensm-douai.fr/esug2002/), August 26-30, Douai, France
 
 ###2000
-- PC Member of CAPS'3 Learning's WWW\footnote{\url{http://europia.org/communication/CAPS/}}, December 13-14, Paris, France
+- PC Member of [CAPS'3 Learning's WWW](http://europia.org/communication/CAPS/), December 13-14, Paris, France
 
 ###1996
 - Co-organizer of [Fifth International World Wide Web Conference - Workshop on "Artificial Intelligence-based tools to help W3 users"](http://www.w3.org/Conferences/WWW5/fich_html/workshops/Stinckwich.html), May 6-10, Paris
