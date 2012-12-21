@@ -75,7 +75,7 @@ description: 'Events'
 - PC Member of ["15èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA 2007)](http://www.irit.fr/JFSMA07/), October 17-19, Carcassone, France
 - PC Member of [4th International Symposium on Autonomous Minirobots for Research and Edutainment (AMIRE 2007)](http://www.amire2007.fit.qut.edu.au/), October 2-5, Buenos Aires, Argentina
 - Member of 14èmes Rencontres de Rochebrune (Rochebrune'07), Rochebrune, France (French domestic conference)
-- Member of [International Conference on Dynamic Languages](http://www.esug.org/wiki/pier/Conferences/2007/International Conference on Dynamic Languages) (co-located with ESUG 2007), August 25-31, Lugano, Switzerland
+- Member of [International Conference on Dynamic Languages](http://www.esug.org/wiki/pier/Conferences/2007/International%20Conference%20on%20Dynamic%20Languages) (co-located with ESUG 2007), August 25-31, Lugano, Switzerland
 
 ###2006
 - PC Member of [Research Track of the ESUG 2006 conference](http://www.esug.org/wiki/pier/Conferences/2006/Call-for-Papers-for-the-Research-Conference), September 4-8, Prague, Czech Republic
