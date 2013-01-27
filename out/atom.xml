@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-03T15:26:11.524Z</updated>
+    <updated>2013-01-27T20:21:53.074Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -79,7 +79,7 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Markup --&gt;
@@ -167,6 +167,8 @@
                     
                         
                     
+                        
+                    
                 &lt;/ul&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -185,7 +187,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Serge Stinckwich 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-03T15:26:11.524Z
+                This website was last updated at 2013-01-27T20:21:53.074Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -246,7 +248,7 @@ socket.on('regenerated',function(){
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Markup --&gt;
@@ -334,6 +336,8 @@ socket.on('regenerated',function(){
                     
                         
                     
+                        
+                    
                 &lt;/ul&gt;
             &lt;/div&gt;
         &lt;/div&gt;
@@ -352,7 +356,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Serge Stinckwich 2012&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-03T15:26:11.524Z
+                This website was last updated at 2013-01-27T20:21:53.074Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -387,8 +391,10 @@ socket.on('regenerated',function(){
                 <link href="http://balupton.com/posts/readmore"/>
                 <updated>2012-10-28T14:52:35.000Z</updated>
                 <id>http://balupton.com/posts/readmore</id>
-                <content type="html">false</content>
+                <content type="html"></content>
             </entry>
+        
+    
         
     
         
