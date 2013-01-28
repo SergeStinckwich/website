@@ -4,12 +4,17 @@ layout: 'public'
 author: 'Serge Stinckwich'
 description: 'CloudSimBot'
 ---
-# 2012-2014 - CloudSimBot (Large-Scale Rescue Robotics Simulation Engine in the Cloud) Project
+# CloudSimBot (Large-Scale Rescue Robotics Simulation Engine in the Cloud) Project
+
+***Supported and funded by the Asia-ICT program (French Ministry of Foreign Affairs) and CNRS***
+
+***Project leader : [Serge Stinckwich](http://www.doesnotunderstand.org/)*** ([MSI/Institut de la Francophonie pour l’Informatique](http://www.ifi.auf.org/)/Vietnam National University, Vietnam)
+
+***Project Duration: 24 months (2013-2015)***
 
 ￼Research on Search&Rescue systems involve a complex mixture of humans performing high level decision-making, intelligent agents coordinating the response, sensing capabilities to provide real-time observations and mobile robots undertaking physical tasks in order to provide an efficient disaster response on a large-scale environment. One way to be able to explore such complex scenarios is to use simulations. Robotics simulation has been developed to provide the research community an efficient way to test algorithms independently of the costs associated with maintaining functional robots.This work will rely mostly on an existing open-source robotic simulation software called [MORSE (Modular OpenRobots Simulation Engine)](http://www.openrobots.org/wiki/morse/) developed by two partners of this project: LAAS/CNRS and MSI/IFI/VNU since nearly 3 years. It is a framework to evaluate robotic algorithms and their integration in complex environments. Today, MORSE is a mature enough tool that provides many innovative features, such as: reconfigurable components, varying levels of simulation abstraction, distributed implementation for large scale multi-robot simulations and a human avatar that can interact with robots in virtual environments.The project's main objective is to deploy a robotic simulator on a cloud computer in order to model and simulate complex setup such as those found in search & rescue scenarios. To do that, we aim to apply a model-driven software development approach to design a domain specific language (DSL) suitable to specify missions, environments and robot behaviours that will be specified by robotics experts to design their systems. This DSL will be used to automatically deploy a set of robotic simulation engines on a cloud computer.
 
 ## Partners
-
 - University of Engineering and Technology (UET)/ Vietnam National University (VNU) Hanoi, Vietnam
 - [MSI/Institut de la Francophonie pour l’Informatique](http://www.ifi.auf.org/)/Vietnam National University, Vietnam
 - [Matsuno Lab](http://www.mechatronics.me.kyoto-u.ac.jp/), Kyoto University, Japan
