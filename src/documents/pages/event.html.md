@@ -9,7 +9,7 @@ description: 'Events'
 ###2013
 - Co-organizer of the Track "Intelligent System" of the 10th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2013),
 - Co-organizer of [Third "Collaborative Technology for Coordinating Crisis Management" (CT2CM 2013) Track](/../public/CT2CM2013) of the 22th IEEE International Conference on Collaboration Technologies and Infrastructures (WETICE 2013), June 17-20, Hammamet, Tunisia
-- Co-organizer of [7th Workshop on Dynamic Languages and Applications (DYLA 2013)]() (collocated with ECOOP 2013), Montpellier, France
+- Co-organizer of [7th Workshop on Dynamic Languages and Applications (DYLA 2013)](http://rmod.lille.inria.fr/web/pier/Events/Dyla13) (collocated with ECOOP 2013), Montpellier, France
 - Associate Editor [IEEE ICRA 2013 (IEEE International Conference on Robotics and Automation)](http://www.icra2013.org/), May 6-10, Karlsruhe, Germany
 - PC Member of The [5th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2013)](http://seminar.utmspace.edu.my/aciids2013), March 18–20, Kuala Lumpur, Malaysia
 

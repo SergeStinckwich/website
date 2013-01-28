@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-28T07:59:46.942Z</updated>
+    <updated>2013-01-28T16:23:33.777Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -35,6 +35,183 @@
     
         
     
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <entry>
+                <title>Hello</title>
+                <link href="http://balupton.com/posts/hello"/>
+                <updated>2012-10-28T14:52:35.000Z</updated>
+                <id>http://balupton.com/posts/hello</id>
+                <content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;!-- Meta --&gt;
+    &lt;meta charset=&quot;utf-8&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+    &lt;title&gt;Hello | #DNU&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
+
+    &lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+
+    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+    &lt;!--[if lt IE 9]&gt;
+        &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+
+    &lt;!-- Styles --&gt;
+    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;!-- Markup --&gt;
+    &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+        &lt;div class=&quot;navbar-inner&quot;&gt;
+            &lt;div class=&quot;container&quot;&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
+                &lt;ul class=&quot;nav&quot;&gt;
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+            &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+    &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;footer&gt;
+    
+&lt;/footer&gt;
+        &lt;/section&gt;
+        &lt;footer&gt;
+            &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
+            &lt;p style=&quot;float:right;&quot;&gt;
+                This website was last updated at 2013-01-28T16:23:33.777Z
+            &lt;/p&gt;
+        &lt;/footer&gt;
+        &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
+            &lt;h3 id=&quot;source-header&quot;&gt;&lt;a&gt;Click to view this page's source&lt;/a&gt;&lt;/h3&gt;
+            &lt;div id=&quot;source-code&quot;&gt;
+                &lt;div&gt;src/posts/hello.html.md&lt;/div&gt;
+                &lt;pre class=&quot;prettyprint&quot;&gt;---
+title: 'Hello'
+layout: 'post'
+tags: ['greeting','english']
+---
+
+Hello **world**&lt;/pre&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+    &lt;/div&gt;&lt;!-- /container --&gt;
+
+    &lt;!-- Scripts --&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+            </entry>
         
     
         
@@ -118,21 +295,21 @@
                         
                     
                         
-                    
-                        
-                    
-                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
                         
                     
                         
@@ -187,7 +364,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-28T07:59:46.942Z
+                This website was last updated at 2013-01-28T16:23:33.777Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -217,173 +394,6 @@ socket.on('regenerated',function(){
         
     
         
-            <entry>
-                <title>Hello</title>
-                <link href="http://balupton.com/posts/hello"/>
-                <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/hello</id>
-                <content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;!-- Meta --&gt;
-    &lt;meta charset=&quot;utf-8&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;Hello | #DNU&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
-    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
-
-    &lt;!-- Icons --&gt;
-    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
-
-    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
-    &lt;!--[if lt IE 9]&gt;
-        &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-
-    &lt;!-- Styles --&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;!-- Markup --&gt;
-    &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
-        &lt;div class=&quot;navbar-inner&quot;&gt;
-            &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
-                &lt;ul class=&quot;nav&quot;&gt;
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                &lt;/ul&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
-            &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
-    &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;footer&gt;
-    
-&lt;/footer&gt;
-        &lt;/section&gt;
-        &lt;footer&gt;
-            &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
-            &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-28T07:59:46.942Z
-            &lt;/p&gt;
-        &lt;/footer&gt;
-        &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
-            &lt;h3 id=&quot;source-header&quot;&gt;&lt;a&gt;Click to view this page's source&lt;/a&gt;&lt;/h3&gt;
-            &lt;div id=&quot;source-code&quot;&gt;
-                &lt;div&gt;src/posts/hello.html.md&lt;/div&gt;
-                &lt;pre class=&quot;prettyprint&quot;&gt;---
-title: 'Hello'
-layout: 'post'
-tags: ['greeting','english']
----
-
-Hello **world**&lt;/pre&gt;
-            &lt;/div&gt;
-        &lt;/section&gt;
-    &lt;/div&gt;&lt;!-- /container --&gt;
-
-    &lt;!-- Scripts --&gt;
-    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
-socket.on('regenerated',function(){
-	document.location.reload();
-});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-</content>
-            </entry>
-        
     
         
             <entry>
@@ -393,16 +403,6 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html"></content>
             </entry>
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
         
     
         
