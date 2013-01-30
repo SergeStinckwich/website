@@ -6,7 +6,12 @@ description: 'CloudSimBot'
 ---
 # CloudSimBot (Large-Scale Rescue Robotics Simulation Engine in the Cloud) Project
 
-***Supported and funded by the Asia-ICT program (French Ministry of Foreign Affairs) and CNRS***
+
+<img src="/images/MAE.jpeg" width="100" class="img-rounded">
+<img src="/images/CNRSfilaire-grand.jpeg" width="100" class="img-rounded">
+
+
+***Supported and funded by the Asia-ICT program (French Ministry of Foreign and European Affairs) and CNRS***
 
 ***Project leader : [Serge Stinckwich](http://www.doesnotunderstand.org/)*** ([MSI/Institut de la Francophonie pour l’Informatique](http://www.ifi.auf.org/)/Vietnam National University, Vietnam)
 
@@ -21,7 +26,7 @@ description: 'CloudSimBot'
 - [LAAS](http://www.laas.fr/) (Laboratoire d'Analyse et d'Architecture des Systèmes)/CNRS, France
 
 ## Links
-- Google group (private)
+- [Google group](https://groups.google.com/d/forum/cloudsimbot) (private)
 
 ## Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this project.
