@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-30T14:54:31.350Z</updated>
+    <updated>2013-01-30T16:55:50.311Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -46,13 +46,11 @@
         
     
         
-    
-        
             <entry>
                 <title>Bonjour</title>
-                <link href="http://balupton.com/posts/bonjour.html"/>
+                <link href="http://balupton.com/posts/bonjour"/>
                 <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/bonjour.html</id>
+                <id>http://balupton.com/posts/bonjour</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -118,18 +116,8 @@
                         
                     
                         
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/event.html&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing.html&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -157,6 +145,16 @@
                     
                         
                     
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                         
@@ -187,7 +185,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-30T14:54:31.350Z
+                This website was last updated at 2013-01-30T16:55:50.311Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -206,7 +204,10 @@ Bonjour **world**&lt;/pre&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
 
     &lt;!-- Scripts --&gt;
-    &lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -216,9 +217,9 @@ Bonjour **world**&lt;/pre&gt;
         
             <entry>
                 <title>Hello</title>
-                <link href="http://balupton.com/posts/hello.html"/>
+                <link href="http://balupton.com/posts/hello"/>
                 <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/hello.html</id>
+                <id>http://balupton.com/posts/hello</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -284,18 +285,8 @@ Bonjour **world**&lt;/pre&gt;
                         
                     
                         
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/event.html&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing.html&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -323,6 +314,16 @@ Bonjour **world**&lt;/pre&gt;
                     
                         
                     
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                         
@@ -353,7 +354,7 @@ Bonjour **world**&lt;/pre&gt;
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-30T14:54:31.350Z
+                This website was last updated at 2013-01-30T16:55:50.311Z
             &lt;/p&gt;
         &lt;/footer&gt;
         &lt;section id=&quot;source&quot; class=&quot;source&quot;&gt;
@@ -372,7 +373,10 @@ Hello **world**&lt;/pre&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
 
     &lt;!-- Scripts --&gt;
-    &lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -382,11 +386,13 @@ Hello **world**&lt;/pre&gt;
         
             <entry>
                 <title>Read More</title>
-                <link href="http://balupton.com/posts/readmore.html"/>
+                <link href="http://balupton.com/posts/readmore"/>
                 <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/readmore.html</id>
+                <id>http://balupton.com/posts/readmore</id>
                 <content type="html"></content>
             </entry>
+        
+    
         
     
         
