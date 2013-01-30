@@ -10,8 +10,7 @@ description: 'CloudSimBot'
 <img src="/images/MAE.jpeg" width="100" class="img-rounded">
 <img src="/images/CNRSfilaire-grand.jpeg" width="100" class="img-rounded">
 
-
-***Supported and funded by the Asia-ICT program (French Ministry of Foreign and European Affairs) and CNRS***
+***Supported and funded by the [8th ICT-ASIA Regional Programme](http://service-scientifique.francejoomla.net/index.php?option=com_content&view=article&id=419:ict-stic-asie&catid=35:opportunities-france&Itemid=138) (French Ministry of Foreign and European Affairs) and CNRS***
 
 ***Project leader : [Serge Stinckwich](http://www.doesnotunderstand.org/)*** ([MSI/Institut de la Francophonie pour l’Informatique](http://www.ifi.auf.org/)/Vietnam National University, Vietnam)
 
