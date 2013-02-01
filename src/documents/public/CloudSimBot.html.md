@@ -26,6 +26,8 @@ description: 'CloudSimBot'
 
 ## Links
 - [Google group](https://groups.google.com/d/forum/cloudsimbot) (private)
-
+- [MORSE simulation platform](http://www.openrobots.org/wiki/morse/)
+- [MORSE users mailing-list](https://sympa.laas.fr/sympa/subscribe/morse-users)
+- 
 ## Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this project.
