@@ -135,37 +135,9 @@
         <footer>
             <p>&copy; Serge Stinckwich 2012-2013</p>
             <p style="float:right;">
-                This website was last updated at 2013-02-01T13:09:58.761Z
+                This website was last updated at 2013-02-04T07:09:31.896Z
             </p>
         </footer>
-        <section id="source" class="source">
-            <h3 id="source-header"><a>Click to view this page's source</a></h3>
-            <div id="source-code">
-                <div>src/nifty/coffee-parser.html.md.eco</div>
-                <pre class="prettyprint">--- coffee
-(-&gt;
-    capitalize = (str) -&gt; str.toUpperCase()
-
-    meta =
-        layout: &quot;default&quot;
-        title: &quot;Coffee Parser Example&quot;
-    
-    meta.capitalize = capitalize
-    meta.titleCapitalized = capitalize meta.title
-
-    meta
-)()
----
-
-This is a Coffee Parser Example.
-
-The title of this page is: &lt;%- @document.title %&gt;
-
-The capitlized title of this page is: &lt;%- @document.capitalize @document.title %&gt;
-
-The capitlized title of this page is: &lt;%- @document.titleCapitalized %&gt;</pre>
-            </div>
-        </section>
     </div><!-- /container -->
 
     <!-- Scripts -->
