@@ -26,6 +26,9 @@ description: 'CloudSimBot'
 
 ## News
 * February 1st, 2013: Kickoff Meeting
+* April 15th, 2013: Project meeting in Ha Noi, Vietnam
+* April 16th-18th, 2013: [MORSE](http://www.openrobots.org/wiki/morse/) tutorial organized in Ha Noi, Vietnam
+
 ## Links
 * [Google group](https://groups.google.com/d/forum/cloudsimbot) (private)
 * [MORSE simulation platform](http://www.openrobots.org/wiki/morse/)
