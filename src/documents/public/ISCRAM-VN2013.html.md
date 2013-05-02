@@ -5,12 +5,16 @@ author: 'Serge Stinckwich'
 description: 'ISCRAM Vietnam 2013'
 ---
 
-#ISCRAM Vietnam 2013 CFP
+#ISCRAM Vietnam 2013 Conference
 
 
-<img src="/images/ISCRAM.jpg" width="100" class="img-rounded">
+<img src="/images/DSC_0676.jpg" width="800" class="img-rounded">
 
-The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 23rd to the 25th September 2013 at the Institut de la Francophonie pour l'Informatique (http://www.ifi.auf.org/) (IFI).
+***Supported and funded by the [ISCRAM Association](http://www.iscram.org/) and [IRD Institut de recherche pour le développement](http://www.ird.fr/)***
+
+<img src="/images/ISCRAM.jpg" width="200" class="img-rounded">
+
+The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 23rd to the 25th September 2013 at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
 
 ##Description
 
@@ -42,7 +46,7 @@ Topics include, but are not limited to:
 - Serious Games for Crisis Management 
 
 ## Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least three reviews for each paper will be conducted. We are looking for submission of full research papers or reports on field studies (up to 8 pages). Please note that practitioners papers are most welcome. All track papers should be written in English and submitted electronically in PDF format through the Easychair website http://www.easychair.org/conferences/?conf=iscram-vietnam-2013 and should use the IEEE US letter format. Every submitted paper will be evaluated by at least three members of the program committee. An ISBN number for the proceedings will be available and the papers available as arxiv proceedings.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least three reviews for each paper will be conducted. We are looking for submission of full research papers or reports on field studies (up to 8 pages). Please note that practitioners papers are most welcome. All track papers should be written in English and submitted electronically in PDF format through the Easychair website https://www.easychair.org/account/signin.cgi?conf=iscramvn2013 and should use the IEEE US letter format. Every submitted paper will be evaluated by at least three members of the program committee. An ISBN number for the proceedings will be available and the papers available as arxiv proceedings.
 
 * [Download the LateX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
@@ -76,11 +80,6 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Bartel Van de Walle, Tilburg University, The Netherlands
 - Song Yan, Harbin University, Peoples Republic of China 
 
-#Sponsors
-Kind thanks to our sponsors for supporting this event:
-
-- [IRD Institut de recherche pour le développement](http://www.ird.fr/)
-- [ISCRAM Association](http://www.iscram.org/)
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference.
