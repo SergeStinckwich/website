@@ -74,9 +74,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Song Yan, Harbin University, Peoples Republic of China 
 
 #Sponsors
-Kind thanks to our sponsors for supporting this event
-- IRD Institut de recherche pour le développement
-- ISCRAM Association
+Kind thanks to our sponsors for supporting this event:
+
+- [IRD Institut de recherche pour le développement](http://www.ird.fr/)
+- [ISCRAM Association](http://www.iscram.org/)
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference.
