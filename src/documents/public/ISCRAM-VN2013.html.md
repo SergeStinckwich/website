@@ -7,6 +7,9 @@ description: 'ISCRAM Vietnam 2013'
 
 #ISCRAM Vietnam 2013 CFP
 
+
+<img src="/images/ISCRAM.jpg" width="100" class="img-rounded">
+
 The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 23rd to the 25th September 2013 at the Institut de la Francophonie pour l'Informatique (http://www.ifi.auf.org/) (IFI).
 
 ##Description
