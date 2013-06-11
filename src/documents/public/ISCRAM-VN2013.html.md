@@ -15,7 +15,7 @@ description: 'ISCRAM Vietnam 2013'
 <img src="/images/ISCRAM.jpg" width="200" class="img-rounded">
 <img src="/images/logo-ird.png" width="200" class="img-rounded">
 
-The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 23rd to the 25th September 2013 at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
+The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 30th October to November 1st at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
 
 ##Description
 
@@ -55,10 +55,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 ##Important dates
 <dl class="dl-horizontal">
-	<dt><span class="label label-important">June 21, 2013</span></dt><dd>Due date for papers submission</dd>
-	<dt>August 16, 2013</dt><dd>Final acceptance</dd>
-	<dt>August 28, 2013</dt><dd>Camera-ready paper due</dd>
-	<dt>23 to 25th September</dt><dd>ISCRAM Vietnam 2013 conference</dd>
+	<dt><span class="label label-important">August 30th, 2013</span></dt><dd>Due date for papers submission</dd>
+	<dt>September 21st, 2013</dt><dd>Final acceptance</dd>
+	<dt>October 5th, 2013</dt><dd>Camera-ready paper due</dd>
+	<dt>October 30th-November 1st, 2013</dt><dd>ISCRAM Vietnam 2013 conference</dd>
 </dl>
 
 ## Conference organizers
@@ -80,7 +80,6 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Murray Turroff, New Jersey Institute of Technology, USA
 - Bartel Van de Walle, Tilburg University, The Netherlands
 - Song Yan, Harbin University, Peoples Republic of China 
-
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference.
