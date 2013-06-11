@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Benjamin Lupton</title>
-    <link href="http://balupton.com/atom.xml" rel="self"/>
-    <link href="http://balupton.com"/>
-    <updated>2013-04-14T03:18:56.657Z</updated>
-    <id>http://balupton.com</id>
-    <author>
-        <name>Benjamin Lupton</name>
-        <email>b@lupton.cc</email>
-    </author>
+	<title>Benjamin Lupton</title>
+	<link href="http://balupton.com/atom.xml" rel="self"/>
+	<link href="http://balupton.com"/>
+	<updated>2013-06-11T07:02:47.717Z</updated>
+	<id>http://balupton.com</id>
+	<author>
+		<name>Benjamin Lupton</name>
+		<email>b@lupton.cc</email>
+	</author>
 
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-            <entry>
-                <title>Bonjour</title>
-                <link href="http://balupton.com/posts/bonjour"/>
-                <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/bonjour</id>
-                <content type="html">&lt;!DOCTYPE html&gt;
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+			<entry>
+				<title>Bonjour</title>
+				<link href="http://balupton.com/posts/bonjour"/>
+				<updated>2012-10-28T14:52:35.000Z</updated>
+				<id>http://balupton.com/posts/bonjour</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
-    &lt;!-- Meta --&gt;
-    &lt;meta charset=&quot;utf-8&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;Bonjour | #DNU&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
-    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Bonjour | #DNU&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.38.1&quot;/&gt;
 
-    &lt;!-- Icons --&gt;
-    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
 
-    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
-    &lt;!--[if lt IE 9]&gt;
-        &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
 
-    &lt;!-- Styles --&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 
-    &lt;script&gt;var _gaq = _gaq || [];
+	&lt;script&gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-9711668-1']);
 _gaq.push(['_trackPageview']);
 (function() {
@@ -87,118 +91,120 @@ _gaq.push(['_trackPageview']);
 })();&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Markup --&gt;
-    &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
-        &lt;div class=&quot;navbar-inner&quot;&gt;
-            &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
-                &lt;ul class=&quot;nav&quot;&gt;
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                &lt;/ul&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
-            &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
-    &lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;footer&gt;
-    
+	
 &lt;/footer&gt;
-        &lt;/section&gt;
-        &lt;footer&gt;
-            &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
-            &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-04-14T03:18:56.657Z
-            &lt;/p&gt;
-        &lt;/footer&gt;
-    &lt;/div&gt;&lt;!-- /container --&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-06-11T07:02:47.717Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
 
-    &lt;!-- Scripts --&gt;
-    &lt;script &gt;(function(){
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
 	// Did we just livereload?
 var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
 if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
@@ -236,44 +242,44 @@ var inject = function(){
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
-            </entry>
-        
-    
-        
-            <entry>
-                <title>Hello</title>
-                <link href="http://balupton.com/posts/hello"/>
-                <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/hello</id>
-                <content type="html">&lt;!DOCTYPE html&gt;
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Hello</title>
+				<link href="http://balupton.com/posts/hello"/>
+				<updated>2012-10-28T14:52:35.000Z</updated>
+				<id>http://balupton.com/posts/hello</id>
+				<content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
-    &lt;!-- Meta --&gt;
-    &lt;meta charset=&quot;utf-8&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;Hello | #DNU&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
-    &lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+	&lt;title&gt;Hello | #DNU&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.38.1&quot;/&gt;
 
-    &lt;!-- Icons --&gt;
-    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
-    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
+	&lt;!-- Icons --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
+	&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
 
-    &lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
-    &lt;!--[if lt IE 9]&gt;
-        &lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
 
-    &lt;!-- Styles --&gt;
-    &lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 
-    &lt;script&gt;var _gaq = _gaq || [];
+	&lt;script&gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-9711668-1']);
 _gaq.push(['_trackPageview']);
 (function() {
@@ -283,118 +289,120 @@ _gaq.push(['_trackPageview']);
 })();&lt;/script&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Markup --&gt;
-    &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
-        &lt;div class=&quot;navbar-inner&quot;&gt;
-            &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
-                &lt;ul class=&quot;nav&quot;&gt;
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                &lt;/ul&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;container&quot;&gt;
-        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
-            &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
-    &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;footer&gt;
-    
+	
 &lt;/footer&gt;
-        &lt;/section&gt;
-        &lt;footer&gt;
-            &lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
-            &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-04-14T03:18:56.657Z
-            &lt;/p&gt;
-        &lt;/footer&gt;
-    &lt;/div&gt;&lt;!-- /container --&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
+			&lt;p style=&quot;float:right;&quot;&gt;
+				This website was last updated at 2013-06-11T07:02:47.717Z
+			&lt;/p&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
 
-    &lt;!-- Scripts --&gt;
-    &lt;script &gt;(function(){
+	&lt;!-- Scripts --&gt;
+	&lt;script &gt;(function(){
 	// Did we just livereload?
 var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
 if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
@@ -432,51 +440,49 @@ var inject = function(){
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
-            </entry>
-        
-    
-        
-            <entry>
-                <title>Read More</title>
-                <link href="http://balupton.com/posts/readmore"/>
-                <updated>2012-10-28T14:52:35.000Z</updated>
-                <id>http://balupton.com/posts/readmore</id>
-                <content type="html"></content>
-            </entry>
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
+			</entry>
+		
+	
+		
+			<entry>
+				<title>Read More</title>
+				<link href="http://balupton.com/posts/readmore"/>
+				<updated>2012-10-28T14:52:35.000Z</updated>
+				<id>http://balupton.com/posts/readmore</id>
+				<content type="html"></content>
+			</entry>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
 </feed>

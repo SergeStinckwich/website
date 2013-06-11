@@ -55,10 +55,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 ##Important dates
 <dl class="dl-horizontal">
-	<dt><span class="label label-important">August 30th, 2013</span></dt><dd>Due date for papers submission</dd>
-	<dt>September 21st, 2013</dt><dd>Final acceptance</dd>
-	<dt>October 5th, 2013</dt><dd>Camera-ready paper due</dd>
-	<dt>October 30th-November 1st, 2013</dt><dd>ISCRAM Vietnam 2013 conference</dd>
+	<dt><span class="label label-important">Aug 30th, 2013</span></dt><dd>Due date for papers submission</dd>
+	<dt>Sept 21st, 2013</dt><dd>Final acceptance</dd>
+	<dt>Oct 5th, 2013</dt><dd>Camera-ready paper due</dd>
+	<dt>Oct 30th-Nov 1st, 2013</dt><dd>ISCRAM Vietnam 2013 conference</dd>
 </dl>
 
 ## Conference organizers
@@ -74,7 +74,8 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Chihab Hanachi, Toulouse University, France
 - David Crookall, Nice University, France
 - Julie Dugdale, Université Pierre Mendès France, France
-- Benoit Gaudou, Toulouse University, France 
+- Benoit Gaudou, Toulouse University, France
+- Nicolas Marilleau, UMI 209 UMMISCO (IRD/UPMC), France
 - Tony Norris, Massey University, New Zealand
 - Serge Stinckwich, UCBN & UMI 209 UMMISCO (IRD/UPMC), France
 - Murray Turroff, New Jersey Institute of Technology, USA
