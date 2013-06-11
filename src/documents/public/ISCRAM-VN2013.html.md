@@ -71,6 +71,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Carole Adam, Université Joseph Fourier, France
 - Tung Bui, University of Hawaii, USA
 - Luong Chi Mai, IOIT, Vietnam 
+- Alexis Drogoul, UMI 209 UMMISCO (IRD/UPMC), France
 - Chihab Hanachi, Toulouse University, France
 - David Crookall, Nice University, France
 - Julie Dugdale, Université Pierre Mendès France, France
