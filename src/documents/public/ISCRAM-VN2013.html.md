@@ -5,7 +5,7 @@ author: 'Serge Stinckwich'
 description: 'ISCRAM Vietnam 2013'
 ---
 
-#ISCRAM Vietnam 2013 Conference
+#ISCRAM (Information Systems for Crisis Response and Management) Vietnam 2013 Conference
 
 
 <img src="/images/DSC_0676.jpg" width="800" class="img-rounded">
@@ -15,7 +15,7 @@ description: 'ISCRAM Vietnam 2013'
 <img src="/images/ISCRAM.jpg" width="200" class="img-rounded">
 <img src="/images/logo-ird.png" width="200" class="img-rounded">
 
-The conference is intended for researchers and practitioners in the South-East Asia region. This conference will take place in Ha Noi, Vietnam from the 30th October to November 1st at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
+The conference is intended for researchers and practitioners in the South-East Asia region who are working in the area of disasters and risks. This conference will take place in Ha Noi, Vietnam from the 30th October to November 1st at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
 
 ##Description
 
