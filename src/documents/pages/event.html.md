@@ -7,9 +7,16 @@ description: 'Events'
 ##Conferences, Workshops PC & Organization
 
 ###2013
-- Co-organizer of the Track "Intelligent System" of the 10th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2013),
+- PC Member of [10th IEEE RIVF International Conference on Computing and Communication Technologies](http://uet.vnu.edu.vn/rivf2013/), November 10-13, Ha Noi, Vietnam
+- Co-organizer of [Third Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2013)](../public/ROSIN2013.html) November 7, Tokyo, Japan (collocated with [IROS 2013](http://www.iros2013.org/))
+- PC Member of [2013 IEEE IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013)](http://www.iros2013.org/), November 3-7, Tokyo, Japan
+- Publication Chair of SSRR 2013 the [11th IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR 2013)](http://www.ssrr-conference.org/2013/), Oct 21-26, Linköping, Sweden
+- PC Member of [Fifth International Conference on Knowledge and Systems Engineering (KSE 2013)](http://kse2013.hnue.edu.vn/), October 17-19, Ha Noi, Vietnam
+- Co-organizer of [ISCRAM (Information System for Crisis Response and Management) Vietnam Conference 2013](http://www.doesnotunderstand.org/public/ISCRAM-VN2013.html), Oct 30-Nov 1, Ha Noi, Vietnam
+- Co-organizer of [7th Workshop on Dynamic Languages and Applications (DYLA 2013)](http://rmod.lille.inria.fr/web/pier/Events/Dyla13) (collocated with ECOOP 2013), July 1, Montpellier, France
 - Co-organizer of [Third "Collaborative Technology for Coordinating Crisis Management" (CT2CM 2013) Track](/../public/CT2CM2013) of the 22th IEEE International Conference on Collaboration Technologies and Infrastructures (WETICE 2013), June 17-20, Hammamet, Tunisia
-- Co-organizer of [7th Workshop on Dynamic Languages and Applications (DYLA 2013)](http://rmod.lille.inria.fr/web/pier/Events/Dyla13) (collocated with ECOOP 2013), Montpellier, France
+- Co-organizer of ["Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance" (RESSACS 2013)](http://web.univ-pau.fr/~cpham/iWEB/RESSACS2013/), June 3-4, Brest, France (french domestic conference)
+- Co-organizer of the [Track "Intelligent System" of the 10th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2013)](http://iscram2013.org/), May 12-15, Baden Baden, Germany
 - Associate Editor [IEEE ICRA 2013 (IEEE International Conference on Robotics and Automation)](http://www.icra2013.org/), May 6-10, Karlsruhe, Germany
 - PC Member of The [5th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2013)](http://seminar.utmspace.edu.my/aciids2013), March 18–20, Kuala Lumpur, Malaysia
 
@@ -55,7 +62,6 @@ description: 'Events'
 - PC Member of ["18èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'10)](http://www.ltim.org/jfsma10/), October 18-20, Mahdia, Tunisia (French domestic conference)
 - Invited Speaker at [2nd Open Source Developers Conference (OSDC 2010)](http://act.osdc.fr/osdc2010fr/), "Using Smalltalk for controlling robotics systems", video: [http://blip.tv/file/4673429](http://blip.tv/file/4673429) , October 9-10, Paris, France
 - Co-organizer of [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25, Bayonne, France (French domestic conference)
-
 - Co-organizer of the Track ["Intelligent Systems" ISCRAM 2010 - 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010)](http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf), 2-5 May, Seattle, USA
 - PC Member of [2nd ThaiSim conference (ThaiSim 2010)](http://www.thaisim.org/en/thaisim_2010.htm), March 25-27, Rajamangala University of Technology Srivijaya, Thailand
 - PC Member of the [2nd Asian Conference on Intelligent Information and Database Systems (ACIIDS'10)](http://aciids2010.hueuni.edu.vn/), March 24-26, Huế, Viêt Nam
