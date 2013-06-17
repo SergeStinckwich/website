@@ -70,8 +70,9 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 ## Program committee (confirmed)
 - Carole Adam, Université Joseph Fourier, France
 - Tung Bui, University of Hawaii, USA
-- Luong Chi Mai, IOIT, Vietnam 
+- Luong Chi Mai, IOIT, Vietnam
 - Alexis Drogoul, UMI 209 UMMISCO (IRD/UPMC), France
+- Raphael Duboz, CSIM, Asian Institute of Technology, Thailand
 - Chihab Hanachi, Toulouse University, France
 - David Crookall, Nice University, France
 - Julie Dugdale, Université Pierre Mendès France, France
@@ -83,7 +84,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Serge Stinckwich, UCBN & UMI 209 UMMISCO (IRD/UPMC), France
 - Murray Turroff, New Jersey Institute of Technology, USA
 - Bartel Van de Walle, Tilburg University, The Netherlands
-- Song Yan, Harbin University, Peoples Republic of China 
+- Song Yan, Harbin University, Peoples Republic of China
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about the conference.
