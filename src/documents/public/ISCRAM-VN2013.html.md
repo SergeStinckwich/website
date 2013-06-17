@@ -78,6 +78,8 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 - Benoit Gaudou, Toulouse University, France
 - Nicolas Marilleau, UMI 209 UMMISCO (IRD/UPMC), France
 - Tony Norris, Massey University, New Zealand
+- Cong Duc Pham, Université de Pau, France
+- Bernard Pottier, Université de Bretagne Occidentale, France
 - Serge Stinckwich, UCBN & UMI 209 UMMISCO (IRD/UPMC), France
 - Murray Turroff, New Jersey Institute of Technology, USA
 - Bartel Van de Walle, Tilburg University, The Netherlands
