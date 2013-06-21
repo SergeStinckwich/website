@@ -6,7 +6,7 @@ description: 'IROS 2013 3rd Workshop on Robots and Sensors integration in future
 ---
 # IROS'13 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN'13), November 7th, 2013
 
-This **full-day** workshop will take place November 7th, 2013 during the [2013 IEEE/RSJ International Conference on Intelligent Robots and Systems](http://www.iros2013.org/) (IROS'12). This workshop is supported by the IEEE Robotics and Automation’s Technical Committee on [Safety Security and Rescue Robotics](http://tab.ieee-ras.org/committeeinfo.php?tcid=21).
+This **full-day** workshop will take place November 7th, 2013 during the [2013 IEEE/RSJ International Conference on Intelligent Robots and Systems](http://www.iros2013.org/) (IROS'13). This workshop is supported by the IEEE Robotics and Automation’s Technical Committee on [Safety Security and Rescue Robotics](http://tab.ieee-ras.org/committeeinfo.php?tcid=21).
 
 ## Motivation and objectives
 Intelligent rescue systems including <abbr title='Information and Communications Technology'>ITC</abbr> and robotics technology have been proposed to mitigate disasters, especially in Japan after the 1995 Hanshin-Awaji Earthquake. Ideally, these future search&rescue systems will involve a complex mixture of humans performing high level decision-making, intelligent agents coordinating the response, sensing capabilities to provide real-time observations and possibly mobile robots undertaking physical tasks at difficult or risky remote places in order to provide an efficient disaster response on a large-scale environment. However, there are several challenges to address before such a scenario could take place because the considered environments are prone to uncertainty, ambiguity and incompleteness given their dynamic and evolving nature. First, in the robotic domain for search&rescue most of nowadays robots are operated by humans. While this is required by the harsh conditions commonly found in disaster sites (collapsed buildings, gaps, holes, flooding ...), there are many limitations in human operated robots where the dependency on well-trained operators obviously limits the deployment of such robots. In addition, due the very limited number of available robots and their very customized hardware (both in terms of mobility and actuation capabilities), it is necessary in a disaster recovery campaign to carefully and rapidly identify both the deployment location and the type of the robots to be deployed. Secondly, while the monitoring capability of Wireless Sensor Networks (WSN) make them very suitable for large scale surveillance systems random deployment can not guarantee coverage both for sensing and connectivity and concerns. In addition, while scalar sensors are quite easy to manage they however provide very limited information compared to what multimedia sensors could bring if video or images were available. In general, a wide range of wireless sensor network applications can be strengthened by introducing a vision capability and, in the domain of search&rescue, which is extremely mission-critical in nature, adding visual capabilities is considered to be of the utmost importance. Unfortunately, video or image sensors are much more difficult to manage on a large scale because of the more demanding resources they need for their operation and for transmitting visual information to a control center. 
@@ -30,25 +30,21 @@ This workshop will focus on the tight integration of sensors-robots and informat
 
 The primary audience of the proposed workshop is intended to be researchers and practitioners both from academia and industry with an interest on integration robots, sensors and information systems in the context of disaster or emergency management. In addition, researchers and practitioners from related communities (disaster management, SDDS, GIS) will find this workshop quite useful.
 
-## Journal Special Issue
-After the workshop, extended version of the papers could be submitted to the following journal special issue:
-Special issue of [Journal of Sensor and Actuator Networks](http://www.mdpi.com/journal/jsan) (ISSN 2224-2708) on [Multimedia Sensor Networks for Mission-Critical Surveillance Applications](http://www.mdpi.com/journal/jsan/special_issues/surveillance_app/)
-
 ## Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin12) and should use the IEEE US letter format.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [Easychair website](http://www.easychair.org/conferences/?conf=rosin13) and should use the IEEE US letter format.
 
 - [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 - [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
 We are looking for submission of **full research papers and experiences reports** (up to 6 pages) and **work in progress submissions** (up to 4 pages).
-*Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin12
+*Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin13
 
 ## Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">August 20, 2012</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>Sept 5, 2012</dt><dd>Final acceptance</dd>
-<dt>Sept 13, 2012</dt><dd>Camera-ready paper due</dd>
-<dt>Oct 11, 2012</dt><dd>Workshop date (full day)</dd>
+<dt><span class="label label-important">September 9, 2013</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>Oct 1, 2013</dt><dd>Final acceptance</dd>
+<dt>Oct 15, 2013</dt><dd>Camera-ready paper due</dd>
+<dt>November 7, 2013</dt><dd>Workshop date (full day)</dd>
 </dl>
 
 ## Organization committee
