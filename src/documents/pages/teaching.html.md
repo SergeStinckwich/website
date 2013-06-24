@@ -19,3 +19,6 @@ I'm involved in a Computer Science department at at Caen-Lower Normandy Universi
 ##Master level courses
 
 - Master of [Information & Communication Technology of USTH](http://usth.edu.vn/studycourses/mastercourses/master-of-information-communication-technology/) (University of Science and Technology of Ha Noi) - EDSS (Environmental Decision Support Systems) Speciality / Module 2.1 : Environmental Sensing and Monitoring (25 hours)
+
+
+See also: [Student Supervizing](supervizing.html)
