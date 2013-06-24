@@ -55,9 +55,11 @@ We are looking for submission of **full research papers and experiences reports*
 ## Program committee
 - Geert De Cubber, Royal Military Academy, Belgium
 - [Tetsushi Kamegawa](http://www.mif.sys.okayama-u.ac.jp/~kamegawa/), Okayama University, Japan
+- Itsuki Noda, AIST, Japan
 - [Simon Lacroix](http://homepages.laas.fr/simon/HomePage/Home.html), LAAS/CNRS, France
 - [Robin Murphy](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA
 - [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
+- Koichi Osuka, Osaka University, Japan
 - Satoshi Tadokoro, Tohoku University, Japan
 
 ## Internet
