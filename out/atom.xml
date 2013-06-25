@@ -3,13 +3,15 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2013-06-24T12:07:24.261Z</updated>
+	<updated>2013-06-25T09:12:00.916Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
 		<email>b@lupton.cc</email>
 	</author>
 
+	
+		
 	
 		
 	
@@ -139,14 +141,20 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -206,7 +214,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-06-24T12:07:24.261Z
+				This website was last updated at 2013-06-25T09:12:00.916Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -343,14 +351,20 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;/li&gt;
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/event&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/event&quot; property=&quot;dc:title&quot;&gt;Events&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/projects&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/projects&quot; property=&quot;dc:title&quot;&gt;Projects&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
@@ -410,7 +424,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-06-24T12:07:24.261Z
+				This website was last updated at 2013-06-25T09:12:00.916Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -458,6 +472,8 @@ var inject = function(){
 		
 	
 		
+	
+		
 			<entry>
 				<title>Read More</title>
 				<link href="http://balupton.com/posts/readmore"/>
@@ -465,8 +481,6 @@ var inject = function(){
 				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
-		
-	
 		
 	
 		

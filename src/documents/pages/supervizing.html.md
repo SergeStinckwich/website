@@ -7,6 +7,11 @@ description: 'Students supervizing'
 Currently supervizing 3 students in PhD thesis: 2 in collaboration with Paris 6 University and one in collaboration with Toulouse
 University and IRD.
 
+Until now, I was involved in 2 PhD Defense Committee (outside my supervized students):
+
+- October 5, 2012 - Arnaud Degroote, "Une architecture de contrôle distribuée pour l'autonomie des robots", Toulouse University doctoral school
+- December 11, 2012 - Thibault Gateau, "Supervision de mission pour une équipe de véhicules autonomes hétérogènes", Toulouse University doctoral school
+
 ## PhD students
 - 2013-2015 (on going work), Lê Nguyễn Tuấn Thành, PhD., **Models/Forms of coordination for crisis resolution: analysis, discover and efficiency**, co-supervised with Pr. Chihab Hanachi and Dr. Ho Tường Vinh
 - 2012-2014 (on going work) Bui Thi Mai Anh, PhD., **[Domain-Specific modelling applied to Epidemiology](https://edite-de-paris.fr/public//phd/html/10208701)**, co-supervised with Dr. Mikal Ziane, Dr. Ho Tường Vinh and Dr. Benjamin Roche

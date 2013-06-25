@@ -53,14 +53,21 @@ We are looking for submission of **full research papers and experiences reports*
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
 ## Program committee
+
+- Andreas Birk, Jacobs University, Germany
 - Geert De Cubber, Royal Military Academy, Belgium
+- Michinori Hatayama, DPRI, Kyoto University, Japan
 - [Tetsushi Kamegawa](http://www.mif.sys.okayama-u.ac.jp/~kamegawa/), Okayama University, Japan
-- Itsuki Noda, AIST, Japan
 - [Simon Lacroix](http://homepages.laas.fr/simon/HomePage/Home.html), LAAS/CNRS, France
 - [Robin Murphy](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA
-- [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
+- Hiroaki Nakanishi, Kyoto University, Japan
+- Daniele Nardi, Sapienza Universita di Roma, Italy
+- Itsuki Noda, AIST, Japan
 - Koichi Osuka, Osaka University, Japan
+- Masahiko Onosato, Hokkaido University, Japan
+- [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
 - Satoshi Tadokoro, Tohoku University, Japan
+- Richard Voyles, Denver University, USA
 
 ## Internet
 - Web site: http://www.doesnotunderstand.org/public/ROSIN2013.html
