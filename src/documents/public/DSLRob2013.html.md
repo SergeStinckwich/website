@@ -34,7 +34,7 @@ The intended audience is those robotics researchers throughout the entire roboti
 
 This is the fourth installment of this workshop: the first edition [DSLRob 2010](DSLRob2010) was held at IROS 2010, the second edition [DSLRob 2011](DSLRob2011) collocated with IROS 2011 and third edition [DSLRob 2012](DSLRob2012) was organized during SIMPAR 2012.
 
-The proceedings of the previous editions are freely available on arXiv: [DSLRob 2010 proceedings](http://arxiv.org/abs/1102.4563), [DSLRob 2011 proceedings](), [DSLRob 2012 proceedings]().
+The proceedings of the previous editions are freely available on arXiv: [DSLRob 2010 proceedings](http://arxiv.org/abs/1102.4563), [DSLRob 2011 proceedings](http://arxiv.org/abs/1212.3308), [DSLRob 2012 proceedings](http://arxiv.org/abs/1302.5082).
 
 # Submissions guidelines
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2012) and should use the IEEE US letter format.
@@ -44,8 +44,16 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper**: http://www.easychair.org/conferences/?conf=dslrob2013
 
+#Journal Special Issue
+
+After the workshop, extended version of the papers could be submitted to the following journal special issue: Special issue of [Journal of Software Engineering for Robotics](http://www.joser.org/).
+
 # Important dates
-TBD
+<dl class="dl-horizontal">
+<dt><span class="label label-important">September 22, 2013</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>October 1, 2013</dt><dd>Final acceptance</dd>
+<dt>November 8, 2013</dt><dd>Workshop date</dd>
+</dl>
 
 # Organization committee
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
@@ -53,6 +61,20 @@ TBD
  * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC), France
 
 # Program committee
+ * Alexandre Bergel, University of Chile, Chile
+ * Geoffrey Biggs, AIST, Japan
+ * Mirko Bordignon, Digipack Industrial Automation, Sanovo Technology Group
+ * Herman Bruyninckx, University of Leuven, Belgium
+ * Saadia Dhouib, CEA LIST, France
+ * Hugo A. Garcia, University of Leuven, Belgium
+ * Issa Nesnas, JPL Robotics, USA
+ * Cyril Novales, PRISME, France
+ * Jeff Gray, University of Alabama, USA
+ * Henrik Nilsson, University of Nottingham, UK
+ * Patrick Martin, York College of Pennsylvania, USA
+ * Walid Taha, Halmstad University, Sweden
+ * Cristina Vicente-Chicote, University of Cartagena, Spain
+ * Mikal Ziane, LIP6, France
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
