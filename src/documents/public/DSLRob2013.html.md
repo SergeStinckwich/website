@@ -6,7 +6,7 @@ description: '4th International Workshop on Domain-Specific Languages and models
 ---
 # 4th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-13)
 
-The Fourth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob'13) will be held November 8th 2013 at Tokyo (Japan), just after IROS 2013 conference. 
+The Fourth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob'13) will be held November 8th 2013 at Tokyo (Japan), just after the IROS 2013 conference.
 
 Domain-Specific Languages (DSLs) and Model-driven Software Development (MDSD) are emerging areas of interest in the robotics research community. Both have been instrumental for resolving complex issues in a wide range of domains, including e.g. distributed and modular robotics, control, and vision. The goal of this workshop is to bring together robotics researchers working with DSLs and models in different aspects of robotics.
 
@@ -50,8 +50,8 @@ After the workshop, extended version of the papers could be submitted to the fol
 
 # Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">September 22, 2013</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>October 1, 2013</dt><dd>Final acceptance</dd>
+<dt><span class="label label-important">September 1, 2013</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>September 20, 2013</dt><dd>Final acceptance</dd>
 <dt>November 8, 2013</dt><dd>Workshop date</dd>
 </dl>
 
