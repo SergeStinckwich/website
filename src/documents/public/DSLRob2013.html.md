@@ -37,7 +37,7 @@ This is the fourth installment of this workshop: the first edition [DSLRob 2010]
 The proceedings of the previous editions are freely available on arXiv: [DSLRob 2010 proceedings](http://arxiv.org/abs/1102.4563), [DSLRob 2011 proceedings](http://arxiv.org/abs/1212.3308), [DSLRob 2012 proceedings](http://arxiv.org/abs/1302.5082).
 
 # Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2012) and should use the IEEE US letter format.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2013) and should use the IEEE US letter format.
 
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
