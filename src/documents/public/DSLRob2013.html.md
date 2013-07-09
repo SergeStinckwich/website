@@ -50,9 +50,9 @@ After the workshop, extended version of the papers could be submitted to the fol
 
 # Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">September 1, 2013</span></dt><dd>Due date for workshop papers submission</dd>
-<dt>September 20, 2013</dt><dd>Final acceptance</dd>
-<dt>November 8, 2013</dt><dd>Workshop date</dd>
+<dt><span class="label label-important">Sept 1, 2013</span></dt><dd>Due date for workshop papers submission</dd>
+<dt>Sept 20, 2013</dt><dd>Final acceptance</dd>
+<dt>Nov 8, 2013</dt><dd>Workshop date</dd>
 </dl>
 
 # Organization committee
