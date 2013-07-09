@@ -45,8 +45,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper**: http://www.easychair.org/conferences/?conf=dslrob2013
 
 #Journal Special Issue
-
-After the workshop, extended version of the papers could be submitted to the following journal special issue: Special issue of [Journal of Software Engineering for Robotics](http://www.joser.org/).
+After the workshop, authors of the last previous DSLROB editions since 2010 will be asked to submit an extended version of their papers to the following journal special issue: Special issue of [Journal of Software Engineering for Robotics](http://www.joser.org/).
 
 # Important dates
 <dl class="dl-horizontal">
