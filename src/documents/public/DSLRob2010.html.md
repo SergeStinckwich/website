@@ -87,7 +87,7 @@ Pictures taken during the workshop are available here: http://www.flickr.com/pho
 - 11h35-12h00 [Discussions/perspectives](http://www.slideshare.net/ulrikpaghschultz/dslrob10-closing-slide)
 
 ## Internet	
-- Web site: http://www.doesnotunderstand.org/wikka.php?wakka=DSLRob10
+- Web site: http://www.doesnotunderstand.org/public/DSLRob2010
 - Related workshop: [1st international workshop on Model Based Engineering for Robotics: RoSym’10](http://www.artist-embedded.org/artist/RoSym-2010,2158.html)
 
 ## Contact
