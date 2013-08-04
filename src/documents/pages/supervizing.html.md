@@ -29,7 +29,7 @@ Until now, I was involved in 2 PhD Defense Committee (outside my supervized stud
 - Vũ Hồng Thuận, Master 1 project, Simultaneous Mapping and Localization based on Computer Vision, co-supervised with Dr. Alain Boucher (IFI)
 - Lê Trung Nghĩa, Master 1 project, UML for modelling robots family, co-supervised with Dr. Tewfik Ziadi
 - Trần Hữu Nam, TPE: Evaluation d'algorithmes d'exploration pour des robots mobiles, co-supervised with Patrick Taillandier
-- Hà Đắc Long, TPE: Couverture radio et adoption de formations spatiales par un groupe de robots équipé de Wi-Fi co-supervized with Victor Moraru and François Sempé
+- Hà Đắc Long, TPE: [Couverture radio et adoption de formations spatiales par un groupe de robots équipé de Wi-Fi](http://www.ifi.auf.org/site_data/rapports/tpe-promo15/hdlong_rapport.pdf) co-supervized with Victor Moraru and François Sempé
 - Võ Quang Huy, Master 1 project, Design of a behavior-based architecture for mobile robot
 - Mathurin Petit, Master 2 internship, Conception d'un DSL pour la robotique*, co-supervised with Tewfik Ziadi (LIP6), Mikal Ziane (LIP6)
 
@@ -42,7 +42,7 @@ Until now, I was involved in 2 PhD Defense Committee (outside my supervized stud
 
 ###Before 2008
 - 2006 Remi Moueza, DEA internship, co-supervised with Dr. Noury Bouraqadi.
-- 2005 Ludovic Guégan, DEA internship: Hybridation d'agents pour systèmes embarqués, co-supervised with Dr. Noury Bouraqadi.
+- 2005 Ludovic Guégan, DEA internship: [Hybridation d'agents pour systèmes embarqués](http://csl.mines-douai.fr/research/uploads/guegan2005MasterThesis.pdf), co-supervised with Dr. Noury Bouraqadi.
 - 2005 Séverin Lemaignan, DEA internship : EIAH et langage - Etude d'une architecture multi-agent en Squeak.
 - 2004 Olivier Sagit, DEA internship : Robotique reconfigurable et Apprentissage par Renforcement.
 - 2004 Michaël Piel, DEA internship (ingénieur de recherche à l'École des Mines de Douai): Un outil de modélisation et d'analyse de systèmes de classeurs mono et multi-agents.
