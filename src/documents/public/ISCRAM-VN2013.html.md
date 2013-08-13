@@ -52,7 +52,10 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 * [Download the LateX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
+##Colocated Workshop and Seminars
 
+* a [SahanaCamp](http://sahanafoundation.org/programs/sahanacamp/) will be organized before the conference (October 29th 2013).
+ 
 ##Important dates
 <dl class="dl-horizontal">
 	<dt><span class="label label-important">Aug 30th, 2013</span></dt><dd>Due date for papers submission</dd>
