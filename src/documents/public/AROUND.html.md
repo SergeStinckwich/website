@@ -18,20 +18,24 @@ AROUND aims at designing an automated observation system based on the deployment
 - Ecole des Mines de Douai, France
 - Geophysical Institute of the Vietnam Acamedy of Science and Technology (VAST), Vietnam
 - Hanoi University of Technology, Vietnam
+- IFI, National Vietnamese University, Vietnam
 
 ##PhD thesis
-* 2010, Le Van Tuan, [Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation](http://sma.lip6.fr/Csma/theses/THESE_LE2010.pdf), co-supervised by Pr. François Bourdon, Dr. Serge Stinckwich, Dr. Noury Bouraqadi and Dr. Victor Moraru
-* 2011, Thanh-Quang Chu, [Using agent-based models and machine learning to enhance spatial decision support systems](http://www2.ifi.auf.org/personnel/Alain.Boucher/recherche/these-Chu_Thanh_Quang.pdf), co-supervized by …
-* 2011, Nhu-Van Nguyen, [Représentation visuelles de concepts textuels pour la recherche et l'annotation interactives d'images](http://tel.archives-ouvertes.fr/docs/00/73/07/07/PDF/2011Nguyen22135.pdf), co-supervised by Pr. Jean-Marc Ogier, Dr. Alain Boucher and Dr. Salvatore Tabbone
-* 2012, Quang Anh Nguyen Vu, [Cohérence et robustess dans un système multi-agent perturbé; application à un système décentralisé de collection d'information distribué](http://liris.cnrs.fr/publis/?id=5899), co-supervised by Pr. Salima Hassas, Dr. Benoit Gaudon, Dr. Richard Canal, Dr. Armetta Frédéric
+* 2010, Le Van Tuan, [Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation](http://sma.lip6.fr/Csma/theses/THESE_LE2010.pdf), co-supervised by Pr. François Bourdon, Dr. Serge Stinckwich, Dr. Noury Bouraqadi and Dr. Victor Moraru (in french)
+* 2011, Thanh-Quang Chu, [Using agent-based models and machine learning to enhance spatial decision support systems - Application to resource allocation in situations of urban catastrophes](http://www2.ifi.auf.org/personnel/Alain.Boucher/recherche/these-Chu_Thanh_Quang.pdf), co-supervised by Pr. Alexis Drogoul and Dr. Alain Boucher (in english)
+* 2011, Nhu-Van Nguyen, [Représentation visuelles de concepts textuels pour la recherche et l'annotation interactives d'images](http://tel.archives-ouvertes.fr/docs/00/73/07/07/PDF/2011Nguyen22135.pdf), co-supervised by Pr. Jean-Marc Ogier, Dr. Alain Boucher and Dr. Salvatore Tabbone (in french)
+* 2012, Quang Anh Nguyen Vu, [Cohérence et robustesse dans un système multi-agent perturbé; application à un système décentralisé de collection d'information distribué](http://liris.cnrs.fr/publis/?id=5899), co-supervised by Pr. Salima Hassas, Dr. Benoit Gaudou, Dr. Richard Canal, Dr. Armetta Frédéric (in french)
 
 ##Seminars & Workshops
 - [2nd International Workshop on Agent Technology for Disaster Management (ATDM'09)](http://www.doesnotunderstand.org/public/ATDM2009.html), Dec. 13rd, 2009, Nagoya, Japan
-- [First Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2011](http://www.doesnotunderstand.org/public/CT2CM2011), Paris, France
-- [Second Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2012](http://www.doesnotunderstand.org/public/CT2CM2012), Toulouse, France  
+
+- Track [Intelligent Systems](http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf) of the 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010), 2-5 May 2010, Seattle, USA
+
+- [IROS'10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN'10)](http://www.doesnotunderstand.org/public/ROSIN2010.html), October 18th 2010, Taiwan, Taipei
+- [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25th 2010, Bayonne, France (French domestic conference)
 - Track "Intelligent System" of the 8th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2011), May 8-11 2011, Lisbon, Portugal
-- Track [Intelligent Systems](http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf) of the 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010), 2-5 May, Seattle, USA
-- http://www.doesnotunderstand.org/public/ROSIN2010.html
+- [First Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2011](http://www.doesnotunderstand.org/public/CT2CM2011), Paris, France
+- [Second Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2012](http://www.doesnotunderstand.org/public/CT2CM2012), Toulouse, France
 
 ##Publications
 * Van Tuan Le, Victor Moraru, Noury Bouraqadi, Serge Stinckwich, François Bourdon and H.Q. Nguyen, ***Issues and Challenges in building a Robust Communication Platform for USAR Robots***, Third National Symposium Fundamental and Applied IT Research (FAIR'07), Vietnam, 2007
