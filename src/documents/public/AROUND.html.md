@@ -20,6 +20,13 @@ AROUND aims at designing an automated observation system based on the deployment
 - Hanoi University of Technology, Vietnam
 - IFI, National Vietnamese University, Vietnam
 
+##Citation
+If you want to cite the AROUND programme in your work, the most suitable reference is:
+
+```Alain Boucher, Richal Canal, Thanh-Quang Chu, Alexis Drogoul, Benoit Gaudou, Van Tuan Le, Victor Moraru, Nhu-Van Nguyen, Quang Anh Nguyen Vu, Patrick Taillandier, François Sempé and Serge Stinckwich, The AROUND project : Adapting robotic disaster response to developing countries, in Proceedings of 2009 IEEE International Workshop on Safety, Security and Rescue Robotics, IEEE Computer Society, 2009.```
+
+This paper is available here: [http://hal.archives-ouvertes.fr/docs/00/53/68/57/PDF/SSRR2009.pdf](http://hal.archives-ouvertes.fr/docs/00/53/68/57/PDF/SSRR2009.pdf)
+
 ##PhD thesis
 * 2010, Le Van Tuan, [Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation](http://sma.lip6.fr/Csma/theses/THESE_LE2010.pdf), co-supervised by Pr. François Bourdon, Dr. Serge Stinckwich, Dr. Noury Bouraqadi and Dr. Victor Moraru (in french)
 * 2011, Thanh-Quang Chu, [Using agent-based models and machine learning to enhance spatial decision support systems - Application to resource allocation in situations of urban catastrophes](http://www2.ifi.auf.org/personnel/Alain.Boucher/recherche/these-Chu_Thanh_Quang.pdf), co-supervised by Pr. Alexis Drogoul and Dr. Alain Boucher (in english)
@@ -47,9 +54,9 @@ AROUND aims at designing an automated observation system based on the deployment
 * Q.A. Nguyen Vu, B. Gaudou, R. Canal, and S. Hassas, ***Coherence and robustness in a disturbed multi-agents system***, in Proceedings of IEEE-RIVF 09, Da Nang City, Viet Nam, 2009.
 * Arnaud Doniec, Noury Bouraqadi, M. Defoort, V. T. Le, and S. Stinckwich, ***Distributed constraint reasoning applied to multi-robot exploration***, in Proceedings of the 21st International Conference on Tools with Artificial Intelligence, pages 159–166. IEEE Computer Society, 2009.
 * V.T. Le, N. Bouraqadi, S. Stinckwich, and V. Moraru, ***Connectivity awareness in robotics system***, in RIVF International Conference on Computing and Telecommunication Technologies, pages 245–248. IEEE, 2009.
-* V.T. Le, S. Stinckwich, N. Bouraqadi, and A. Doniec, ***Dynamic role assignment for large-scale multi-agent robotic systems***, in Springer Verlag, editor, Proceedings of the 2nd International Workshop on Agent Technology for Disaster Management (ATDM’09), SCI, 2009.
-* V.T. Le, N. Bouraqadi, V. Moraru, S. Stinckwich and D. Doniec, ***Making networked robot connectivity-aware**, in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), p. 3502-3507, 2009.
-* A. Boucher, R. Canal, T.-Q. Chu, A. Drogoul, B. Gaudou, V.T. Le, V. Moraru, N.V. Nguyen, Q.A.N Vu, P. Taillandier, F. Sempé and S. Stinckwich, [The AROUND project : Adapting robotic disaster response to developing countries](http://hal.archives-ouvertes.fr/docs/00/53/68/57/PDF/SSRR2009.pdf), in Proceedings of 2009 IEEE International Workshop on Safety, Security and Rescue Robotics, IEEE Computer Society, 2009.
+* Van Tuan Le, Serge Stinckwich, Noury Bouraqadi, and Arnaud Doniec, ***Dynamic role assignment for large-scale multi-agent robotic systems***, in Springer Verlag, editor, Proceedings of the 2nd International Workshop on Agent Technology for Disaster Management (ATDM’09), SCI, 2009.
+* V.T. Le, Noury Bouraqadi, Victor Moraru, Serge Stinckwich and Arnaud Doniec, ***Making networked robot connectivity-aware**, in Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), p. 3502-3507, 2009.
+* Alain Boucher, Richal Canal, Thanh-Quang Chu, Alexis Drogoul, Benoit Gaudou, Van Tuan Le, Victor Moraru, Nhu-Van Nguyen, Quang Anh Nguyen Vu, Patrick Taillandier, François Sempé and Serge Stinckwich, [The AROUND project : Adapting robotic disaster response to developing countries](http://hal.archives-ouvertes.fr/docs/00/53/68/57/PDF/SSRR2009.pdf), in Proceedings of 2009 IEEE International Workshop on Safety, Security and Rescue Robotics, IEEE Computer Society, 2009.
 * N. V. Nguyen, J.-M. Ogier, S. Tabbone, and A. Boucher. ***Text retrieval relevance feedback techniques for bag of words model in CBIR***, in Proceedings of the International Conference on Machine Learning and Pattern Recognition (ICMLPR), July 2009
 * Thanh-Quang Chu, Alexis Drogoul, Alain Boucher, Jean-Daniel Zucker: Towards a Methodology for the Participatory Design of Agent-Based Models. PRIMA 2010: 428-442
 * M. Guru, S.D. Ramchurn, S. Stinckwich and A. Terhost (eds), Part 3: Agent Technology for Environmental Monitoring and Disaster Management in Advances in Practical Multi-Agent Systems book, Studies in Computational Intelligence Series, Vol. 325, Springer Verlag, 2010.
