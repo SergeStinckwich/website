@@ -26,16 +26,19 @@ AROUND aims at designing an automated observation system based on the deployment
 * 2011, Nhu-Van Nguyen, [Représentation visuelles de concepts textuels pour la recherche et l'annotation interactives d'images](http://tel.archives-ouvertes.fr/docs/00/73/07/07/PDF/2011Nguyen22135.pdf), co-supervised by Pr. Jean-Marc Ogier, Dr. Alain Boucher and Dr. Salvatore Tabbone (in french)
 * 2012, Quang Anh Nguyen Vu, [Cohérence et robustesse dans un système multi-agent perturbé; application à un système décentralisé de collection d'information distribué](http://liris.cnrs.fr/publis/?id=5899), co-supervised by Pr. Salima Hassas, Dr. Benoit Gaudou, Dr. Richard Canal, Dr. Armetta Frédéric (in french)
 
-##Seminars & Workshops
+##Seminars & Workshops Organization
 - [2nd International Workshop on Agent Technology for Disaster Management (ATDM'09)](http://www.doesnotunderstand.org/public/ATDM2009.html), Dec. 13rd, 2009, Nagoya, Japan
-
 - Track [Intelligent Systems](http://www.iscram.org/ISCRAM2010/Track_ISCRAM2010_Intell_Sys.pdf) of the 7th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2010), 2-5 May 2010, Seattle, USA
-
 - [IROS'10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN'10)](http://www.doesnotunderstand.org/public/ROSIN2010.html), October 18th 2010, Taiwan, Taipei
-- [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25th 2010, Bayonne, France (French domestic conference)
-- Track "Intelligent System" of the 8th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2011), May 8-11 2011, Lisbon, Portugal
+- [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25th 2010, Bayonne, France (french domestic conference)
+- ["Intelligent System" Track of the 8th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2011)](http://iscram2011.lnec.pt/), May 8-11 2011, Lisbon, Portugal
 - [First Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2011](http://www.doesnotunderstand.org/public/CT2CM2011), Paris, France
+- ["Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance" (RESSACS 2011)](http://web.univ-pau.fr/~cpham/iWEB/RESSACS2011/Accueil.html), June 17, Anglet, France (french domestic conference)
+- ["Ecole d'automne: Réseaux de capteurs, mesure et environnement"](http://ecole-capteurs.univ-brest.fr/), October 23-26 2012, Brest, France (French domestic school)
+- [2nd Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2012)](http://www.doesnotunderstand.org/public/ROSIN2012.html) October 11, Vilamoura, Algarve, Portugal (collocated with IROS 2012)
 - [Second Collaborative Technology for Coordinating Crisis Management (CT2CM) Track of WETICE-2012](http://www.doesnotunderstand.org/public/CT2CM2012), Toulouse, France
+- Co-organizer of "Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance" (RESSACS 2012), June 7, Anglet, France (french domestic conference)
+- ["Intelligent System" Track of the 9th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2012)](http://www.iscramlive.org/portal/taxonomy/term/11), April 22-25, Vancouver, USA
 
 ##Publications
 * Van Tuan Le, Victor Moraru, Noury Bouraqadi, Serge Stinckwich, François Bourdon and H.Q. Nguyen, ***Issues and Challenges in building a Robust Communication Platform for USAR Robots***, Third National Symposium Fundamental and Applied IT Research (FAIR'07), Vietnam, 2007

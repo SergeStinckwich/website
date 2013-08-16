@@ -32,7 +32,7 @@ description: 'Events'
 - Co-organizer of [6th Workshop on Dynamic Languages and Applications (DYLA 2012)](http://scg.unibe.ch/wiki/events/dyla2012) (collocated with [ECOOP 2012](http://ecoop12.cs.purdue.edu/)), June 11-16, Beijing, China
 - Co-organizer of ["Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance" (RESSACS 2012)](http://web.univ-pau.fr/~cpham/iWEB/RESSACS2012/), June 7, Anglet, France (french domestic conference)
 - PC Member of [2012 IEEE International Conference on Robotics and Automation (ICRA 2012)](http://www.icra2012.org/), May 14-18, St. Paul, Minnesota, USA
-- Co-organizer of the [Track "Intelligent System" of the 9th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2012)](http://iscram2012.org/), April 22-25, Vancouver, USA
+- Co-organizer of the [Track "Intelligent System" of the 9th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2012)](http://www.iscramlive.org/portal/taxonomy/term/11), April 22-25, Vancouver, USA
 - PC Member of [Smalltalk Directions](http://www.stic.st/about/academic-advisory-council/smalltalk-directions/) (collocated with [Smalltalk Industry Conference ’12](http://www.stic.st/conferences/stic12/), March 19-21, Biloxi, Mississippi, USA
 - PC Member of [The Fourth Asian Conference on Intelligent Information and Database Systems (ACIIDS 2012)](http://bit.kuas.edu.tw/~aciids12/), March 19-11, Kaohsiung, Taiwan
 - PC Member of [The Tenth International Conference on Creating, Connecting and Collaborating through Computing (C5 2012)](http://www.cm.is.ritsumei.ac.jp/c5-12/), Jan 18-20, Southern California University, USA
