@@ -7,8 +7,16 @@ description: 'AROUND Programme'
 #AROUND (Autonomous Robots for Observation of Urban Networks) Programme
 
 ##Project duration: 48 months (from 2007 to 2010)
+##Project description
+The global climate is changing, affecting the planet with more and more frequent and devastating natural disasters. With growing conﬁdence, scientists predict an increase in extreme weather affecting people worldwide, especially in developing countries. Vietnam, the target country for the project described in this paper, is considered as one of the most disaster-prone countries. In addition, the fast pace of industrialization and urbanization shapes disaster risks through a complex association of concentrated populations and higher industrial hazards. As a consequence, in cities like Hanoi, not only are disasters (ﬂoods, storms, cyclones, ﬁres, earthquakes, transportation and industrial accidents, or incidents stemming from hazardous substances) much more likely to happen, but these two uncontrolled dynamics make any intervention more difficult (like during the 1983 Hanoi earthquake).
 
-AROUND aims at designing an automated observation system based on the deployment for simple mobile autonomous sensors that deals with specificities of developing countries in terms of “search and rescue” robotics. The system is based on (i) a local level with the deployment of autonomous mobile robots able to collect information in impacted urban sites and to dynamically maintain the communication links between rescuers, and (ii) a global level based on a Spatial Decision Support System (SDSS).
+We identify three major issues that must be faced during the conception and deployment of a robotic rescue program in a developing country:
+
+- The cost of rescue robotic solutions,
+- An uncontrolled urbanization,
+- the lack of logistic and infrastructural capability.
+
+The AROUND (Autonomous Robots for Observation of Urban Network after Disaster) programme launched by several French and Vietnamese partners (see below) aims at addressing concerns expressed in the previous section by designing an automated observation system. The system is based on (i) a local level with the deployment of autonomous mobile robots able to collect information in impacted urban sites and to dynamically maintain the communication links between rescuers, and (ii) a global level based on a Spatial Decision Support System (SDSS).
 
 ##Partners
 - UMMISCO, IRD/UPMC, France
@@ -71,3 +79,6 @@ This paper is available here: [http://hal.archives-ouvertes.fr/docs/00/53/68/57/
 * Patrick Taillandier and Serge Stinckwich, ***Using the PROMETHEE multi-criteria decision making method to define new exploration strategies for rescue robots***, in Proceedings of the 9th IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR 2011). IEEE, 2011.
 * Van Tuan Le, Noury Bouraqadi, Arnaud Doniec and Serge Stinckwich, ***Role-based Dynamic Coalitions of Multi-Tasked Rescue Robots***, in Proceedings of ISCRAM 2012.
 * Nhu-Van Nguyen, Alain Boucher, Jean-Marc Ogier & Salvatore Tabbone: ***Cluster-based relevance feedback for CBIR: a combination of query point movement and query expansion***, in Journal of Ambient Intelligence and Humanized Computing, 2012.
+
+##Contact
+Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this research programme.
