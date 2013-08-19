@@ -7,6 +7,10 @@ description: 'AROUND Programme'
 #AROUND (Autonomous Robots for Observation of Urban Networks) Programme
 
 ##Project duration: 48 months (from 2007 to 2010)
+
+##Support
+The AROUND programme has been supported by 3 research projects funded by the ICT-Asia program (French Ministry of Foreign Affairs/INRIA/CNRS): [SCOUT project (Survey of Catastrophes and Observation in Urban Territories, 2006-2008)](http://www.mica.edu.vn/scout/), [IDEA project (Images of natural Disasters from robot Exploration in urban Area, 2007-2009)](http://www.ifi.auf.org/IDEA/) and ***ISSUE project (Integrated Spatial Support Systems for Urban Environment, 2009-2010)***. It also has received support from IRD (Institut de la Recherche pour le Développement, France), AUF(Agence Universitaire de la Francophonie) and Ecole des Mines de Douai (France).
+
 ##Project description
 The global climate is changing, affecting the planet with more and more frequent and devastating natural disasters. With growing conﬁdence, scientists predict an increase in extreme weather affecting people worldwide, especially in developing countries. Vietnam, the target country for the project described in this paper, is considered as one of the most disaster-prone countries. In addition, the fast pace of industrialization and urbanization shapes disaster risks through a complex association of concentrated populations and higher industrial hazards. As a consequence, in cities like Hanoi, not only are disasters (ﬂoods, storms, cyclones, ﬁres, earthquakes, transportation and industrial accidents, or incidents stemming from hazardous substances) much more likely to happen, but these two uncontrolled dynamics make any intervention more difficult (like during the 1983 Hanoi earthquake).
 
