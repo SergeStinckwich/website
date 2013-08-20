@@ -6,7 +6,7 @@ description: 'AROUND Programme'
 ---
 #AROUND (Autonomous Robots for Observation of Urban Networks) Programme
 
-##Project duration: 48 months (from 2007 to 2010)
+##Project duration: 48 months (from 2008 to 2012)
 
 ##Support
 The AROUND programme has been supported by 3 research projects funded by the ICT-Asia program (French Ministry of Foreign Affairs/INRIA/CNRS): [SCOUT project (Survey of Catastrophes and Observation in Urban Territories, 2006-2008)](http://www.mica.edu.vn/scout/), [IDEA project (Images of natural Disasters from robot Exploration in urban Area, 2007-2009)](http://www.ifi.auf.org/IDEA/) and ***ISSUE project (Integrated Spatial Support Systems for Urban Environment, 2009-2010)***. It also has received support from IRD (Institut de la Recherche pour le Développement, France), AUF(Agence Universitaire de la Francophonie) and Ecole des Mines de Douai (France).
@@ -79,8 +79,8 @@ This paper is available here: [http://hal.archives-ouvertes.fr/docs/00/53/68/57/
 * Siddeswara M. Guru, Sarvapali D. Ramchurn, Serge Stinckwich and Andrew Terhost (eds), [Part 3: Agent Technology for Environmental Monitoring and Disaster Management in Advances in Practical Multi-Agent Systems book](http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-16097-4), Studies in Computational Intelligence Series, Vol. 325, Springer Verlag, 2010.
 * Quang Anh Nguyen Vu, Benoit Gaudou, Richal Canal, Salima Hassas, Frédéric Armetta, and Serge Stinckwich, ***Using trust and cluster organisation to improve robot swarm mapping***, In IROS’10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2010), 2010.
 * Van Tuan Le, Noury Bouraqadi, Serge Stinckwich, Victor Moraru, and Arnaud Doniec: ***Maintaining connectivity in multi-robot systems through connectivity awareness***, in 5th National Conference on “Control Architecture of Robots”, pages 93–97, 2010.
-* Arnaud Doniec, Noury Bouraqadi, Mikael Defoort, Van Tuan Le, and Serge Stinckwich: ***Multi-robot exploration under communication constraint: a DISCSP approach***, in 5th National Conference on “Control Architecture of Robots”, pages 98–109, 2010.
-* Patrick Taillandier and Serge Stinckwich, ***Using the PROMETHEE multi-criteria decision making method to define new exploration strategies for rescue robots***, in Proceedings of the 9th IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR 2011). IEEE, 2011.
+* Arnaud Doniec, Noury Bouraqadi, Michael Defoort, Van Tuan Le, and Serge Stinckwich: ***Multi-robot Exploration under Communication Constraint: a DISCSP Approach***, in 5th National Conference on “Control Architecture of Robots”, pages 98–109, 2010.
+* Patrick Taillandier and Serge Stinckwich, [Using the PROMETHEE multi-criteria decision making method to define new exploration strategies for rescue robots](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6106747&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6106747), in Proceedings of the 9th IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR 2011), pp. 321-326, IEEE, 2011.
 * Van Tuan Le, Noury Bouraqadi, Arnaud Doniec and Serge Stinckwich, ***Role-based Dynamic Coalitions of Multi-Tasked Rescue Robots***, in Proceedings of ISCRAM 2012.
 * Nhu-Van Nguyen, Alain Boucher, Jean-Marc Ogier & Salvatore Tabbone: ***Cluster-based relevance feedback for CBIR: a combination of query point movement and query expansion***, in Journal of Ambient Intelligence and Humanized Computing, 2012.
 
