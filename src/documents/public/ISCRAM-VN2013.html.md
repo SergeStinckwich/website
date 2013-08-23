@@ -52,6 +52,14 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 * [Download the LateX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
 
+##Registration fees
+
+These fees cover coffee breaks, lunches and conference proceeding. 
+
+- Regular registration: 400 USD (300 euros)
+- Regular registration (attendees from ASEAN countries): 133 USD (100 euros)
+- Students (only non-authors participant): 0 USD (0 euros)
+
 ##Colocated Workshop and Seminars
 
 * a [SahanaCamp](http://sahanafoundation.org/programs/sahanacamp/) will be organized before the conference (October 29th 2013).
