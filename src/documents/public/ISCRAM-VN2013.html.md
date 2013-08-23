@@ -84,6 +84,7 @@ These fees cover coffee breaks, lunches and conference proceeding.
 - Luong Chi Mai, IOIT, Vietnam
 - Alexis Drogoul, UMI 209 UMMISCO (IRD/UPMC), France
 - Raphael Duboz, CSIM, Asian Institute of Technology, Thailand
+- Lutz Frommberger, Universität Bremen, Germany
 - Chihab Hanachi, Toulouse University, France
 - David Crookall, Nice University, France
 - Julie Dugdale, Université Pierre Mendès France, France
