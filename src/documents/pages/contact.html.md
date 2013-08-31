@@ -2,12 +2,13 @@
 title: 'Contact Info'
 layout: 'default'
 author: 'Serge Stinckwich'
-ignored: true
 description: 'Contact Info'
 ---
 #Contact Info
 
 ##Email
+
+If you want to reach me, use the following email adress :
 
 Serge DOT Stinckwich AT gmail DOT com
 
@@ -23,6 +24,3 @@ Serge DOT Stinckwich AT gmail DOT com
 ##Web Presence
 [github](http://github.com/SergeStinckwich), [twitter](https://github.com/SergeStinckwich), [LinkedIn](fr.linkedin.com/in/sergestinckwich/), [slideshare](http://www.slideshare.net/SergeStinckwich), Facebook, [Flickr](http://www.flickr.com/photos/sergestinckwich/), [citeulike](http://www.citeulike.org/profile/SergeStinckwich)
 
-##Agenda
-
-Embed Google Agenda here

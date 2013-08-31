@@ -60,6 +60,11 @@ These fees cover coffee breaks, lunches and conference proceeding.
 - Regular registration (attendees from ASEAN countries): 133 USD (100 euros)
 - Students (only non-authors participant): 0 USD (0 euros)
 
+I you want to register for the conference, please send an email to: iscramvn2013@gmail.com
+with the following information: your name, institution name, country, date of arrivals and departures.
+
+If you need some help for visas issues, you can also send us an email.
+
 ##Colocated Workshop and Seminars
 
 * a [SahanaCamp](http://sahanafoundation.org/programs/sahanacamp/) will be organized before the conference (October 29th 2013).

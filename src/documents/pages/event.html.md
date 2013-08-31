@@ -8,6 +8,7 @@ description: 'Events'
 
 ###2013
 - PC Member of [10th IEEE RIVF International Conference on Computing and Communication Technologies](http://uet.vnu.edu.vn/rivf2013/), November 10-13, Ha Noi, Vietnam
+- Co-organizer of [4th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’13)](../public/DSLRob2013), November 8, Tokyo, Japan
 - Co-organizer of [Third Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2013)](../public/ROSIN2013.html) November 7, Tokyo, Japan (collocated with [IROS 2013](http://www.iros2013.org/))
 - PC Member of [2013 IEEE IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2013)](http://www.iros2013.org/), November 3-7, Tokyo, Japan
 - Publication Chair of SSRR 2013 the [11th IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR 2013)](http://www.ssrr-conference.org/2013/), Oct 21-26, Linköping, Sweden
@@ -90,7 +91,7 @@ description: 'Events'
 - PC Member of [Research Track of the ESUG 2006 conference](http://www.esug.org/wiki/pier/Conferences/2006/Call-for-Papers-for-the-Research-Conference), September 4-8, Prague, Czech Republic
 
 ###2005
-- PC Member of Research Track of the Thirteenth International Conference 2005 in Brussels, Belgium.
+- PC Member of Research Track of the ESUG 2005 Conference, Brussels, Belgium.
 
 ###2004
 - PC Member of [Research Track of Twelfth Smalltalk Joint Event 2004](http://www.esug.org/data/ReportsFromNiallRoss/nfrESUG2004report.pdf), September 6-12, Koethen, Germany
