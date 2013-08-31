@@ -49,7 +49,7 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 
 # Important dates
 <dl class="dl-horizontal">
-<dt><span class="label label-important">Sept 1, 2013</span></dt><dd>Due date for workshop papers submission</dd>
+<dt><span class="label label-important">Sept 6, 2013 (<del>Sept 1</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
 <dt>Sept 20, 2013</dt><dd>Final acceptance</dd>
 <dt>Nov 8, 2013</dt><dd>Workshop date</dd>
 </dl>
