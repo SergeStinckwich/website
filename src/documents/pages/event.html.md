@@ -6,6 +6,9 @@ description: 'Events'
 ---
 ##Conferences, Workshops PC & Organization
 
+###2014
+- PC Member of The [6th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2014)](http://www.ic.kmitl.ac.th/aciids2014/index.html), April 7-9, Bangkok, Thailand
+
 ###2013
 - PC Member of [10th IEEE RIVF International Conference on Computing and Communication Technologies](http://uet.vnu.edu.vn/rivf2013/), November 10-13, Ha Noi, Vietnam
 - Co-organizer of [4th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’13)](../public/DSLRob2013), November 8, Tokyo, Japan
