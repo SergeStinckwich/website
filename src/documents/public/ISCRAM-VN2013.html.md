@@ -47,7 +47,9 @@ Topics include, but are not limited to:
 - Serious Games for Crisis Management 
 
 ## Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least three reviews for each paper will be conducted. We are looking for submission of full research papers or reports on field studies (up to 8 pages). Please note that practitioners papers are most welcome. All track papers should be written in English and submitted electronically in PDF format through the Easychair website https://www.easychair.org/account/signin.cgi?conf=iscramvn2013 and should use the IEEE US letter format. Every submitted paper will be evaluated by at least three members of the program committee. An ISBN number for the proceedings will be available and the papers available as arxiv proceedings.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least three reviews for each paper will be conducted. We are looking for submission of full research papers or reports on field studies (up to 8 pages).
+
+Please note that practitioners papers are most welcome (up to 3 pages). All track papers should be written in English and submitted electronically in PDF format through the Easychair website https://www.easychair.org/account/signin.cgi?conf=iscramvn2013 and should use the IEEE US letter format. Every submitted paper will be evaluated by at least three members of the program committee. An ISBN number for the proceedings will be available and the papers available as arxiv proceedings.
 
 * [Download the LateX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
 * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
