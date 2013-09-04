@@ -8,7 +8,7 @@ description: 'Events'
 
 ###2014
 - PC Member of The [6th Asian Conference on Intelligent Information and Database Systems (ACIIDS 2014)](http://www.ic.kmitl.ac.th/aciids2014/index.html), April 7-9, Bangkok, Thailand
-- Associate Editor [IEEE ICRA 2014 (IEEE International Conference on Robotics and Automation](http://web.utk.edu/~jtan10/icra2014/), May 31-June 5, Hong Kong, China
+- Associate Editor [IEEE ICRA 2014 (IEEE International Conference on Robotics and Automation](http://www.icra2014.com/), May 31-June 5, Hong Kong, China
 
 ###2013
 - PC Member of [10th IEEE RIVF International Conference on Computing and Communication Technologies](http://uet.vnu.edu.vn/rivf2013/), November 10-13, Ha Noi, Vietnam
