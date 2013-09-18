@@ -3,7 +3,7 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2013-09-18T07:53:19.037Z</updated>
+	<updated>2013-09-18T09:00:38.552Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
@@ -67,11 +67,11 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-	&lt;title&gt;Bonjour | #DNU&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+	&lt;title&gt;Bonjour | Kitchensink Skeleton for DocPad&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using Twitter Bootstrap.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.45.0&quot;/&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -85,7 +85,11 @@
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 
 	&lt;script&gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-9711668-1']);
@@ -228,44 +232,55 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-09-18T07:53:19.037Z
+				This website was last updated at 2013-09-18T09:00:38.552Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
 	&lt;script &gt;(function(){
-	// Did we just livereload?
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
 if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
 	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
+	console.log('LiveReload completed at', new Date())
 }
 
-// Listen for the regenerated event
-// and perform a reload of the page when the event occurs
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
 var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
 }
-document.location.reload();
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
 	});
 };
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		// Inject socket.io into our page then listen once loaded
+	/* Inject socket into our page */
 var inject = function(){
 	var t = document.createElement('script');
 	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
 	t.onload = listen;
 	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
+	s.parentNode.insertBefore(t, s);
 };
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
 		inject();
 	}
 })();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
@@ -289,11 +304,11 @@ var inject = function(){
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-	&lt;title&gt;Hello | #DNU&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;Website of Serge Stinckwich&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD				&quot; /&gt;
+	&lt;title&gt;Hello | Kitchensink Skeleton for DocPad&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using Twitter Bootstrap.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.45.0&quot;/&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.0&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -307,7 +322,11 @@ var inject = function(){
 	&lt;![endif]--&gt;
 
 	&lt;!-- Styles --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
+	&lt;style &gt;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&lt;/style&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 
 	&lt;script&gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-9711668-1']);
@@ -450,44 +469,55 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-09-18T07:53:19.037Z
+				This website was last updated at 2013-09-18T09:00:38.552Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
 
 	&lt;!-- Scripts --&gt;
 	&lt;script &gt;(function(){
-	// Did we just livereload?
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
 if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
 	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
+	console.log('LiveReload completed at', new Date())
 }
 
-// Listen for the regenerated event
-// and perform a reload of the page when the event occurs
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
 var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
 }
-document.location.reload();
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
 	});
 };
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		// Inject socket.io into our page then listen once loaded
+	/* Inject socket into our page */
 var inject = function(){
 	var t = document.createElement('script');
 	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
 	t.onload = listen;
 	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
+	s.parentNode.insertBefore(t, s);
 };
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
 		inject();
 	}
 })();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;

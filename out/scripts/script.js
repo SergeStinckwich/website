@@ -1,5 +1,4 @@
 (function() {
-
   $(function() {
     var $source, $sourceCode, $sourceHeader;
     $source = $('#source');
