@@ -1,5 +1,5 @@
 ---
-title: 'IROS 2013 2nd Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN-2013)'
+title: 'IROS 2013 3rd Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN-2013)'
 layout: 'public'
 author: 'Serge Stinckwich'
 description: 'IROS 2013 3rd Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN-2013)'
@@ -66,7 +66,6 @@ We are looking for submission of **full research papers and experiences reports*
 - Koichi Osuka, Osaka University, Japan
 - Masahiko Onosato, Hokkaido University, Japan
 - [Ye-Qiong Song](http://www.loria.fr/~song/), LORIA, France
-- Satoshi Tadokoro, Tohoku University, Japan
 - Richard Voyles, Denver University, USA
 
 ## Internet
