@@ -42,7 +42,7 @@ We are looking for submission of **full research papers and experiences reports*
 ## Important dates
 
 <dl class="dl-horizontal">
-<dt><span class="label label-important">Sept 9, 2013 (<del>Sept 16</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
+<dt><span class="label label-important">Sept 16, 2013 (<del>Sept 9</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
 <dt>Oct 4, 2013</dt><dd>Final acceptance</dd>
 <dt>Oct 18, 2013</dt><dd>Camera-ready paper due</dd>
 <dt>November 7, 2013</dt><dd>Workshop date (full day)</dd>
