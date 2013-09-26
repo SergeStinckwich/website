@@ -69,7 +69,19 @@ If you need some help for registration and visas issues, you can also send us an
 ##Colocated Workshop and Seminars
 
 * a [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM) will be organized before the conference (October 29th 2013).
- 
+
+##Selected Papers
+- Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. **Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario**
+- Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models**
+- Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR**
+- Hong Van Truong, Elise Beck, Julie Dugdale and Carole Adam. **Developing a Model of Evacuation After an Earthquake in Lebanon**
+- Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach**
+- Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam**
+- Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
+- Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
+
+##Program
+TBA
 ##Important dates
 <dl class="dl-horizontal">
 	<dt><span class="label label-important">Sept 9, 2013(<del>Aug 30th)</del></span></dt><dd>Due date for papers submission</dd>
