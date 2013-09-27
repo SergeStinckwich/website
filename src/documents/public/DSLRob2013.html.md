@@ -47,6 +47,15 @@ We are looking for submission of **full research papers and experiences reports*
 #Journal Special Issue
 After the workshop, authors of the last previous DSLROB editions since 2010 will be asked to submit an extended version of their papers to the following journal special issue: Special issue of [Journal of Software Engineering for Robotics](http://www.joser.org/).
 
+# Selected Papers
+- Selma	Kchir, Tewfik Ziadi, Mikal	Ziane, Serge Stinckwich, **A Top-Down Approach to Managing Variability in Robotics Algorithms**
+- Md. Abdullah Al Mamun, Christian Berger and Jorgen Hansson. ***Engineering the Hardware/Software Interface for Robotic Platforms – A Comparison of Applied Model Checking with Prolog and Alloy***
+- Yingfu Zeng, Chad Rose, Paul Brauner, Walid Taha, Jawad Masood, Roland Philippsen, Marcia O'Malley and Robert Cartwright. ***Modeling Basic Aspects of Cyber-Physical Systems, Part II***
+- Thomas Buchmann, Johannes Baumgartl, Dominik Henrich and Bernhard Westfechtel. ***Towards A Domain-specific Language For Pick-And-Place Applications***
+- Nico Hochgeschwender, Sven Schneider, Holger Voos and Gerhard K. Kraetzschmar. ***Towards a Robot Perception Speciﬁcation Language***
+- Anders Lange, Anders Sorensen and Ulrik Schultz. ***Towards Automatic Migration of ROS Components from Software to Hardware***
+- Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
+
 # Important dates
 <dl class="dl-horizontal">
 <dt><span class="label label-important">Sept 6, 2013 (<del>Sept 1</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
