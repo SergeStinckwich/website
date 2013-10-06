@@ -56,6 +56,11 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 - Anders Lange, Anders Sorensen and Ulrik Schultz. ***Towards Automatic Migration of ROS Components from Software to Hardware***
 - Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
 
+# Program
+Program and venue for the workshop will be announced soon. The workshop will be the day after IROS 2013.
+
+Preliminary proceedings will be available to workshop participants prior to the workshop in electronic form; final proceedings after the workshop at arXiv.
+
 # Important dates
 <dl class="dl-horizontal">
 <dt><span class="label label-important">Sept 6, 2013 (<del>Sept 1</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
