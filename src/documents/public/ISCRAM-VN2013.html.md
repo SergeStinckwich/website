@@ -81,7 +81,39 @@ If you need some help for registration and visas issues, you can also send us an
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
 
 ##Program
-TBA
+### Tuesday
+8:30-18:00 SahanaCamp
+### Wednesday
+- 8:30-9:00 Conference registration
+- 9:00-9:15 Welcome
+- 9:15-10:30 Keynote : TBA
+- 10:30-11:00 Coffee break
+
+#### Track: Tsunami and Earthquake models and simulation
+- 11:00-11:30 Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models** (long paper)
+- 11:30-12:00 Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation** (long paper)
+- 12:00-14:00 Lunch
+
+#### Track: Reporting and Surveillance Systems
+- 14:00-14:30 Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR** (long paper)
+- 14:30-15:00 Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach** (long paper)
+
+#### Case study: Resilience
+- 15:30-16:00 Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam** (long paper)
+
+### Thursday
+- 9:00-10:15 Keynote: TBA
+- 10:15-10:45 Coffee
+
+#### Case study: Coordination networks
+- 10:45-11:15 Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach** (long paper)
+- 11:15-11.30 Fadl Bdeir, Liaquat Hossain, John Crawford and Shahadat Uddin. **Exploring formal coordination during pandemic H1N1 2009 outbreak using social network theory** (Short paper)
+- 11.30–11.45 Chien Huynh and Phuong Huynh, **Student-based Collaborative Network for Delivering Information of Natural Disasters and Climate Adaptation** (short paper)
+- 12:00-14 Lunch
+
+### Friday
+- Tutorial: TBA
+
 ##Important dates
 <dl class="dl-horizontal">
 	<dt><span class="label label-important">Sept 9, 2013(<del>Aug 30th)</del></span></dt><dd>Due date for papers submission</dd>
