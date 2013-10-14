@@ -80,39 +80,50 @@ If you need some help for registration and visas issues, you can also send us an
 - Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
 
-##Program
-### Tuesday
-8:30-18:00 SahanaCamp
-### Wednesday
+##Program (draft)
+### Tuesday October 29th
+8:30-18:00 [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM)
+### Wednesday October 30th
 - 8:30-9:00 Conference registration
 - 9:00-9:15 Welcome
 - 9:15-10:30 Keynote : TBA
 - 10:30-11:00 Coffee break
 
 #### Track: Tsunami and Earthquake models and simulation
-- 11:00-11:30 Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models** (long paper)
-- 11:30-12:00 Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation** (long paper)
+- 11:00-11:30 Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models** (Long Paper)
+- 11:30-12:00 Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation** (Long Paper)
+
 - 12:00-14:00 Lunch
 
 #### Track: Reporting and Surveillance Systems
-- 14:00-14:30 Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR** (long paper)
-- 14:30-15:00 Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach** (long paper)
+- 14:00-14:30 Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR** (Long Paper)
+- 14:30-15:00 Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach** (Long Paper)
 
 #### Case study: Resilience
-- 15:30-16:00 Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam** (long paper)
+- 15:30-16:00 Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam** (Long Paper)
 
-### Thursday
+### Thursday October 31th
 - 9:00-10:15 Keynote: TBA
 - 10:15-10:45 Coffee
 
 #### Case study: Coordination networks
-- 10:45-11:15 Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach** (long paper)
+- 10:45-11:15 Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach** (Long paper)
 - 11:15-11.30 Fadl Bdeir, Liaquat Hossain, John Crawford and Shahadat Uddin. **Exploring formal coordination during pandemic H1N1 2009 outbreak using social network theory** (Short paper)
-- 11.30–11.45 Chien Huynh and Phuong Huynh, **Student-based Collaborative Network for Delivering Information of Natural Disasters and Climate Adaptation** (short paper)
+- 11.30–11.45 Chien Huynh and Phuong Huynh, **Student-based Collaborative Network for Delivering Information of Natural Disasters and Climate Adaptation** (Short paper)
 - 12:00-14 Lunch
 
-### Friday
-- Tutorial: TBA
+#### Track: Tsunami and Earthquake models and simulation
+- 14:00-14:30 Hong Van Truong, Elise Beck, Julie Dugdale and Carole Adam. ***Developing a Model of Evacuation After an Earthquake in Lebanon*** (Long Paper)
+- 14:30-15:00 Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. ***Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario*** (Long Paper)
+- 15:00-15:30 Lam Thu Bui and Van Vien Mac. ***Toward an Agent Based Distillation Approach for Protesting Crowd Simulation*** (Short Paper)
+
+- 18:00-21:00 Dinner
+
+### Friday November 1st
+
+#### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
+Practical work with various sensors and [Arduino boards](http://www.arduino.cc/)
+
 
 ##Important dates
 <dl class="dl-horizontal">
