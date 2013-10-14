@@ -139,7 +139,7 @@ Practical work with various sensors and [Arduino boards](http://www.arduino.cc/)
  * Nguyen Hong Phuong, Institute of Geophysics, Vietnam Academy of Science and Technology, Vietnam
  * [Serge Stinckwich](http://doesnotunderstand.org/) Serge Stinckwich, UMI 209 UMMISCO (IRD/UPMC), France
 
-## Program committee (confirmed)
+## Program committee
 - Carole Adam, Université Joseph Fourier, France
 - Tung Bui, University of Hawaii, USA
 - Luong Chi Mai, IOIT, Vietnam
