@@ -62,6 +62,7 @@ These fees cover coffee breaks, lunches and conference proceeding.
 - Regular registration: 400 USD (300 euros)
 - Regular registration (attendees from ASEAN countries): 133 USD (100 euros)
 - Students (only non-authors participant): 0 USD (0 euros)
+- NGOs registration: 50 USD (proceedigns, lunches/coffee without the dinner)
 
 <span class="label label-warning">Register for the conference</span> [here](https://docs.google.com/forms/d/1ZsXKur3nTLPYPg5lpVKwallPHt07Zu26i3GL3xNUV9A/viewform).
 
