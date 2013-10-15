@@ -67,6 +67,12 @@ These fees cover coffee breaks, lunches and conference proceeding.
 
 If you need some help for registration and visas issues, you can also send us an email at: iscramvn2013@gmail.com
 
+##Conference Venue
+
+The conference (and the SahanaCamp) will be located at IFI (Institut pour la Francophonie pour l'Informatique): Viện Tin học Pháp ngữ (IFI) Nhà D, ngõ 42 Tạ Quang Bửu
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=105.84440410137177%2C21.00150450090484%2C105.84974706172943%2C21.004990073573218&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/21.00325/105.84708">View Larger Map</a></small>
+
 ##Colocated Workshop and Seminars
 
 * a [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM) will be organized before the conference (October 29th 2013).
