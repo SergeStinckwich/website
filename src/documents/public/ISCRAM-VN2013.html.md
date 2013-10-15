@@ -73,9 +73,12 @@ The conference (and the SahanaCamp) will be located at IFI (Institut pour la Fra
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=105.84440410137177%2C21.00150450090484%2C105.84974706172943%2C21.004990073573218&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/21.00325/105.84708">View Larger Map</a></small>
 
-##Colocated Workshop and Seminars
+##Colocated Workshop and Tutorial
 
-* a [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM) will be organized before the conference (October 29th 2013).
+* Following on from prevously succesful **SahanaCamps** including at previous ISCRAM events, the Sahana Software Foundation is holding a [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM) the day before ISCRAM Vietnam 2013 (October 29th 2013).
+* A tutorial on **Wireless Sensors for Environmental Surveillance**
+(November 1st 2013). Practical work with various sensors and [Arduino boards](http://arduino.cc). Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or
+environments. 
 
 ##Selected Papers
 - Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. **Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario**
