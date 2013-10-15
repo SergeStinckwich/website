@@ -14,6 +14,7 @@ description: 'ISCRAM Vietnam 2013'
 
 <img src="/images/ISCRAM.jpg" width="200" class="img-rounded">
 <img src="/images/logo-ird.png" width="200" class="img-rounded">
+<img src="/images/IFI.png" width="200" class="img-rounded">
 
 The conference is intended for researchers and practitioners in the South-East Asia region who are working in the area of disasters and risks. This conference will take place in Ha Noi, Vietnam from the 30th October to November 1st at the [Institut de la Francophonie pour l'Informatique](http://www.ifi.auf.org/) (IFI).
 
