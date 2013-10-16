@@ -97,7 +97,7 @@ environments.
 ### Wednesday October 30th
 - 8:30-9:00 Conference registration
 - 9:00-9:15 Welcome
-- 9:15-10:30 Keynote : TBA
+- 9:15-10:30 Keynote : **ISCRAM commmunity**, Julie Dugdale, ISCRAM Vice-President
 - 10:30-11:00 Coffee break
 
 #### Track: Tsunami and Earthquake models and simulation
