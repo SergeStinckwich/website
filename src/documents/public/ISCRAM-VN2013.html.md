@@ -62,7 +62,7 @@ These fees cover coffee breaks, lunches and conference proceeding.
 - Regular registration: 400 USD (300 euros)
 - Regular registration (attendees from ASEAN countries): 133 USD (100 euros)
 - Students (only non-authors participant): 0 USD (0 euros)
-- NGOs registration: 50 USD (proceedigns, lunches/coffee without the dinner)
+- NGOs & practionners registration: 50 USD (proceedigns, lunches/coffee without the dinner)
 
 <span class="label label-warning">Register for the conference</span> [here](https://docs.google.com/forms/d/1ZsXKur3nTLPYPg5lpVKwallPHt07Zu26i3GL3xNUV9A/viewform).
 
@@ -132,9 +132,8 @@ environments.
 
 ### Friday November 1st
 
-#### Practionners Session
-If you are a practionner, please contact us in order to present your activities.
-ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
+#### Practionners and NGOs Session
+If you are a practionner or member of an NGO, please contact us in order to present your activities. ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for practionners and NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
 
 #### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
 Practical work with various sensors and [Arduino boards](http://www.arduino.cc/).
