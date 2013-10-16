@@ -134,6 +134,7 @@ environments.
 
 #### Practionners Session
 If you are a practionner, please contact us in order to present your activities.
+ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
 
 #### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
 Practical work with various sensors and [Arduino boards](http://www.arduino.cc/).
