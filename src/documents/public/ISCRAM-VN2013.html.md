@@ -70,7 +70,7 @@ If you need some help for registration and visas issues, you can also send us an
 
 ##Conference Venue
 
-The conference (and the SahanaCamp) will be located at IFI (Institut pour la Francophonie pour l'Informatique): Viện Tin học Pháp ngữ (IFI) Nhà D, ngõ 42 Tạ Quang Bửu
+The conference (and the SahanaCamp) will be located at IFI (Institut pour la Francophonie pour l'Informatique), 42 Ta Quang Buu, Hanoi (Viện Tin học Pháp ngữ (IFI) Nhà D, ngõ 42 Tạ Quang Bửu).
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=105.84440410137177%2C21.00150450090484%2C105.84974706172943%2C21.004990073573218&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=18/21.00325/105.84708">View Larger Map</a></small>
 
@@ -132,9 +132,12 @@ environments.
 
 ### Friday November 1st
 
-#### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
-Practical work with various sensors and [Arduino boards](http://www.arduino.cc/)
+#### Practionners Session
+If you are a practionner, please contact us in order to present your activities.
 
+#### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
+Practical work with various sensors and [Arduino boards](http://www.arduino.cc/).
+Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or environments.
 
 ##Important dates
 <dl class="dl-horizontal">
