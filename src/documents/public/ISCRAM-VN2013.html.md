@@ -114,7 +114,7 @@ environments.
 - 15:30-16:00 Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam** (Long Paper)
 
 ### Thursday October 31th
-- 9:00-10:15 Keynote: TBA
+- 9:00-10:15 Keynote: ***Information Systems for Crisis Response and Management: Initiatives in the Philippines***, Raphael Saldana (Ateneo de Manila University, Philippines)
 - 10:15-10:45 Coffee
 
 #### Case study: Coordination networks

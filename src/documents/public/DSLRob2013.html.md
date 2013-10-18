@@ -57,9 +57,22 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 - Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
 
 # Program
-Program and venue for the workshop will be announced soon. The workshop will be the day after IROS 2013.
-
 Preliminary proceedings will be available to workshop participants prior to the workshop in electronic form; final proceedings after the workshop at arXiv.
+
+- 10:00 - 10:15 Welcome and Opening / Christian Schlegel, Serge Stinckwich
+- 10:15 - 10:45 Talk 1
+- 10:45 - 11:15 Talk 2
+- 11:15 - 11:45 Talk 3
+- 11:45 - 12:15 Talk 4
+- 12:15 - 13:45 LUNCH BREAK
+- 13:45 - 14:15 Talk 5
+- 14:15 - 14:45 Talk 6
+- 14:45 - 15:15 Talk 7
+- 15:15 - 15:30 COFFEE BREAK
+- 15:15 - 17:00 DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
+
+# Conference Venue
+The workshop will organized at the Tokyo University, Faculty of engineering Bldg.14, [Hongo Campus](http://www.u-tokyo.ac.jp/en/about/documents/Hongo_CampusMap_E.pdf). [Access Map](http://www.u-tokyo.ac.jp/en/about/documents/accessmap_E.pdf)
 
 # Important dates
 <dl class="dl-horizontal">
