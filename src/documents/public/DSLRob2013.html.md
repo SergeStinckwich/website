@@ -74,6 +74,8 @@ Preliminary proceedings will be available to workshop participants prior to the 
 # Conference Venue
 The workshop will organized at the Tokyo University, Faculty of engineering Bldg.14, [Hongo Campus](http://www.u-tokyo.ac.jp/en/about/documents/Hongo_CampusMap_E.pdf). [Access Map](http://www.u-tokyo.ac.jp/en/about/documents/accessmap_E.pdf)
 
+<span class="label label-warning">Free registration for the workshop</span> [here](https://docs.google.com/forms/d/10QyOaU65e4Weu2Y_n0OmHYDmPZP_ZuyU3hSvgOZijN8/viewform)
+
 # Important dates
 <dl class="dl-horizontal">
 <dt><span class="label label-important">Sept 6, 2013 (<del>Sept 1</del>)</span></dt><dd>Due date for workshop papers submission (deadline extension)</dd> 
