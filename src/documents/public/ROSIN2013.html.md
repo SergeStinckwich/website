@@ -47,9 +47,30 @@ We are looking for submission of **full research papers and experiences reports*
 - Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro. **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
 - David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi. **New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots**
 - Vaibhav Kumar Mehta and Filippo Arrichiello. **Connectivity maintenance by robotic Mobile Ad-hoc NETwork**
+
 ### Short papers
 
 ## Program
+
+- 9:00-10:00 Keynote Prof. Hajime Asama (Tokyo University), **Robot & Remote-Controlled Machine Technology toward Social Resilience against Disasters**
+- 10:00-10:30 Presentation 1
+
+- 10:30-11:00 Coffee break
+
+- 11:00-11:30 Presentation 2
+- 11:30-12:00 Presentation 3
+- 12:00-12:30 Presentation 4
+
+- 12:30-13:30 Lunch
+
+- 13:30-14:00 Presentation 5
+- 14:00-15:00 Keynote Prof. Richard Voyles (Denver University), 
+
+- 15:00-15:30 Coffee break
+
+- 15:30-16:00 Presentation 6
+- 16:00-16:30 Presentation 7
+- 16:30-17:00 Presentation 8
 
 ## Important dates
 
