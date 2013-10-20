@@ -59,22 +59,22 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 # Program
 Preliminary proceedings will be available to workshop participants prior to the workshop in electronic form; final proceedings after the workshop at arXiv.
 
-- 10:00 - 10:15 Welcome and Opening / Christian Schlegel, Serge Stinckwich
-- 10:15 - 10:45 Talk 1
-- 10:45 - 11:15 Talk 2
-- 11:15 - 11:45 Talk 3
-- 11:45 - 12:15 Talk 4
-- 12:15 - 13:45 LUNCH BREAK
+- 9:45 - 10:00 Welcome and Opening / Christian Schlegel, Serge Stinckwich
+- 10:00 - 10:30 Talk 1
+- 10:30 - 11:00 Talk 2
+- 11:00 - 11:30 Talk 3
+- 11:30 - 13:15 LUNCH BREAK
+- 13:15 - 13:45 Talk 4
 - 13:45 - 14:15 Talk 5
 - 14:15 - 14:45 Talk 6
 - 14:45 - 15:15 Talk 7
 - 15:15 - 15:30 COFFEE BREAK
-- 15:15 - 17:00 DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
+- 15:30 - 17:00 DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
 
 # Workshop Venue
 The workshop will organized at the Tokyo University, Faculty of engineering Bldg.14, [Hongo Campus](http://www.u-tokyo.ac.jp/en/about/documents/Hongo_CampusMap_E.pdf). [Access Map](http://www.u-tokyo.ac.jp/en/about/documents/accessmap_E.pdf)
 
-The closest station to the Workshop venue is TODAIMAE. If you want to go from IROS 2013 venue (Tokyo big sight)to the DSLRob 2013 venue, please follow this [schedule](http://www.hyperdia.com/en/cgi/en/search.html?dep_node=KOKUSAI-TENJIJO-SEIMON&arv_node=TODAIMAE&via_node01=&via_node02=&via_node03=&year=2013&month=11&day=08&hour=09&minute=45&search_type=1&search_way=&transtime=undefined&sort=0&max_route=5&ship=off&lmlimit=null&search_target=route&facility=reserved&sum_target=7). It takes 7 min by foot from TODAIMAE station to the Building 14.
+The closest station to the Workshop venue is TODAIMAE. If you want to go from IROS 2013 venue (Tokyo big sight)to the DSLRob 2013 venue, please follow this [schedule](http://www.hyperdia.com/en/cgi/en/search.html?dep_node=KOKUSAI-TENJIJO-SEIMON&arv_node=TODAIMAE&via_node01=&via_node02=&via_node03=&year=2013&month=11&day=08&hour=09&minute=30&search_type=1&search_way=&transtime=undefined&sort=0&max_route=5&ship=off&lmlimit=null&search_target=route&facility=reserved&sum_target=7). It takes 7 min by foot from TODAIMAE station to the Building 14.
 
 <span class="label label-warning">Free registration for the workshop</span> [here](https://docs.google.com/forms/d/10QyOaU65e4Weu2Y_n0OmHYDmPZP_ZuyU3hSvgOZijN8/viewform)
 
