@@ -39,6 +39,18 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 We are looking for submission of **full research papers and experiences reports** (up to 6 pages) and **work in progress submissions** (up to 4 pages).
 *Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin13
 
+## Selected papers
+### Long papers
+- Congduc Pham, Mamour Diop and Ousmane Thiare. **Selecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations**
+- Tohru Ishii, Yasutake Takahashi, Yoichiro Maeda and Takayuki Nakamura. **Tethered Flying Robot for Information Gathering System**
+- Noritaka Sato, Masataka Ito and Fumitoshi Matsuno. **Teleoperation System Using Past Image Records Considering Narrow Communication Band**
+- Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro. **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
+- David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi. **New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots**
+- Vaibhav Kumar Mehta and Filippo Arrichiello. **Connectivity maintenance by robotic Mobile Ad-hoc NETwork**
+### Short papers
+
+## Program
+
 ## Important dates
 
 <dl class="dl-horizontal">
@@ -54,7 +66,6 @@ We are looking for submission of **full research papers and experiences reports*
 - [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC/MSI-IFI), Viet Nam
 
 ## Program committee
-
 - Andreas Birk, Jacobs University, Germany
 - Geert De Cubber, Royal Military Academy, Belgium
 - Michinori Hatayama, DPRI, Kyoto University, Japan
