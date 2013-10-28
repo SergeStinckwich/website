@@ -91,7 +91,19 @@ environments.
 - Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
 
-##Program (draft)
+##Keynotes
+The conferenre will have two invited speakers: Raffy Seldana and Julie Dugdale.
+###Raffy Seldana
+
+**"Information Systems for Crisis Response and Management: Initiatives in the Philippines"**
+
+**Abstract** Located in the “Pacific Ring of Fire,” the Philippines is a hotbed of natural disasters. Every year, the country experiences a series of calamities such as typhoons, earthquakes, floods, volcanic eruptions and other disasters that result to loss of precious lives and valuable properties. Records of the Center for Research on the Epidemiology of Disasters (CRED) showed that the Philippines topped the list of countries with the highest mortality rate due to natural disasters in 2012.
+ 
+This talk will focus on major projects in the Philippines in the area of information systems for crisis response and management with emphasis on disasters. These projects include government and non-government initiatives such as  (1) Project NOAH (Rainfall Monitoring and Flood Mapping Online), (2) Hazard Mapping in Metro Manila and other parts of the Philippines, and (3) Project "Agos" (Use of Social Media in Disaster Response and Management). Relevant experiences on how information and communications technologies help in disaster prevention and mitigation will be discussed. Possible areas of research collaboration will also be tackled.
+
+**About the speaker** Dr. Rafael P. Saldana is an Associate Professor of Applied Mathematics and Computing at the Department of Mathematics, School of Science and Engineering, Ateneo de Manila University. He obtained a Ph.D. in Computational Physics from Monash Univesity, Australia in 1998. He is also a member of the Technical Panel on Information and Communications Technologies (ICT) of the Philippine Council for Industry, Energy and Emerging Technology Research and Development (PCIEERD), Department of Science and Technology, Republic of the Philippines. He is a former president of the Computing Society of the Philippines (CSP), founding editor-in-chief of the Philippine Information Technology Journal (PITJ), former director of the Environmental Research Center of De La Salle University-Manila, and former consultant of the Asian Development Bank (ADB). He has undergone special training on supercomputing and high-performance computing. His research interests include mathematical modeling and computer simulation of complex systems, including natural and man-made disasters.
+
+##Program
 ### Tuesday October 29th
 8:30-18:00 [SahanaCamp](http://eden.sahanafoundation.org/wiki/Event/2013/ISCRAM)
 ### Wednesday October 30th
