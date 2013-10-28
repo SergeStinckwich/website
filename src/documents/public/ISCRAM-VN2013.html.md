@@ -92,7 +92,7 @@ environments.
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
 
 ##Keynotes
-The conferenre will have two invited speakers: Raffy Seldana and Julie Dugdale.
+The conference will have two invited speakers: Raffy Seldana and Julie Dugdale.
 ###Raffy Seldana
 
 **"Information Systems for Crisis Response and Management: Initiatives in the Philippines"**
