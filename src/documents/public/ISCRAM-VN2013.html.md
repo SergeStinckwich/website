@@ -155,12 +155,9 @@ This talk will focus on major projects in the Philippines in the area of informa
 
 ### Friday November 1st
 
-#### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
+9:00-12:00 Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
 Practical work with various sensors and [Arduino boards](http://www.arduino.cc/).
 Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or environments.
-
-#### Practionners and NGOs Session
-If you are a practionner or member of an NGO, please contact us in order to present your activities. ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for practionners and NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
 
 ##Important dates
 <dl class="dl-horizontal">
