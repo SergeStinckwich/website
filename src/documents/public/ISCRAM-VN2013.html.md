@@ -81,7 +81,10 @@ The conference (and the SahanaCamp) will be located at IFI (Institut pour la Fra
 (November 1st 2013). Practical work with various sensors and [Arduino boards](http://arduino.cc). Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or
 environments. 
 
-##Selected Papers
+##Selected papers : 8 long papers, 2 shorts papers
+
+[Temporary proceedings](http://www.doesnotunderstand.org/ISCRAM-VN2013-PROCEEDINGS.zip)
+
 - Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. **Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario**
 - Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models**
 - Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR**
@@ -135,12 +138,11 @@ This talk will focus on major projects in the Philippines in the area of informa
 - 15:30-16:00 Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam** (Long Paper)
 
 ### Thursday October 31th
-- 9:00-10:15 Keynote: ***Information Systems for Crisis Response and Management: Initiatives in the Philippines***, Raphael Saldana (Ateneo de Manila University, Philippines)
-- 10:15-10:45 Coffee
+- 9:15-10:30 Keynote: ***Information Systems for Crisis Response and Management: Initiatives in the Philippines***, Raphael Saldana (Ateneo de Manila University, Philippines)
+- 10:30-11:00 Coffee break
 
 #### Case study: Coordination networks
-- 10:45-11:15 Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach** (Long paper)
-- 11:15-11.30 Fadl Bdeir, Liaquat Hossain, John Crawford and Shahadat Uddin. **Exploring formal coordination during pandemic H1N1 2009 outbreak using social network theory** (Short paper)
+- 11:00-11:30 Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach** (Long paper)
 - 11.30–11.45 Chien Huynh and Phuong Huynh, **Student-based Collaborative Network for Delivering Information of Natural Disasters and Climate Adaptation** (Short paper)
 - 12:00-14 Lunch
 
@@ -153,12 +155,12 @@ This talk will focus on major projects in the Philippines in the area of informa
 
 ### Friday November 1st
 
-#### Practionners and NGOs Session
-If you are a practionner or member of an NGO, please contact us in order to present your activities. ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for practionners and NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
-
 #### Tutorial : Wireless Sensors for Environmental Surveillance (Bernard Pottier, UBS, Serge Stinckwich, IRD/UPMC)
 Practical work with various sensors and [Arduino boards](http://www.arduino.cc/).
 Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or environments.
+
+#### Practionners and NGOs Session
+If you are a practionner or member of an NGO, please contact us in order to present your activities. ISCRAM Vietnam 2013 is offering a special rate of only 50 USD for practionners and NGOs registration! By encouraging NGOs participation the aim is to facilitate exchange of information, knowledge, research results, best practices and cases studies between researchers and practitioners.
 
 ##Important dates
 <dl class="dl-horizontal">
