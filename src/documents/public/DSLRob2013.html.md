@@ -60,14 +60,14 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 Preliminary proceedings will be available to workshop participants prior to the workshop in electronic form; final proceedings after the workshop at arXiv.
 
 - 9:45 - 10:00 Welcome and Opening / Christian Schlegel, Serge Stinckwich
-- 10:00 - 10:30 Talk 1
-- 10:30 - 11:00 Talk 2
-- 11:00 - 11:30 Talk 3
+- 10:00 - 10:30 Selma Kchir, Tewfik Ziadi, Mika Ziane, Serge Stinckwich, **A Top-Down Approach to Managing Variability in Robotics Algorithms**
+- 10:30 - 11:00 Md. Abdullah Al Mamun, Christian Berger and Jorgen Hansson. ***Engineering the Hardware/Software Interface for Robotic Platforms – A Comparison of Applied Model Checking with Prolog and Alloy***
+- 11:00 - 11:30 Yingfu Zeng, Chad Rose, Paul Brauner, Walid Taha, Jawad Masood, Roland Philippsen, Marcia O'Malley and Robert Cartwright. ***Modeling Basic Aspects of Cyber-Physical Systems, Part II***
 - 11:30 - 13:15 LUNCH BREAK
-- 13:15 - 13:45 Talk 4
-- 13:45 - 14:15 Talk 5
-- 14:15 - 14:45 Talk 6
-- 14:45 - 15:15 Talk 7
+- 13:15 - 13:45 Thomas Buchmann, Johannes Baumgartl, Dominik Henrich and Bernhard Westfechtel. ***Towards A Domain-specific Language For Pick-And-Place Applications***
+- 13:45 - 14:15 Nico Hochgeschwender, Sven Schneider, Holger Voos and Gerhard K. Kraetzschmar. ***Towards a Robot Perception Speciﬁcation Language***
+- 14:15 - 14:45 Anders Lange, Anders Sorensen and Ulrik Schultz. ***Towards Automatic Migration of ROS Components from Software to Hardware***
+- 14:45 - 15:15 Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
 - 15:15 - 15:30 COFFEE BREAK
 - 15:30 - 17:00 DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
 
