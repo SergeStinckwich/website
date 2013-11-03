@@ -4,7 +4,7 @@ layout: 'public'
 author: 'Serge Stinckwich'
 description: 'AROUND Programme'
 ---
-#AROUND (Autonomous Robots for Observation of Urban Networks) Programme
+#AROUND (Autonomous Robots for Observation of Urban Networks after Disasters) Programme
 
 ##Project duration: 48 months (from 2008 to 2012)
 
