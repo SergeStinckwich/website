@@ -52,25 +52,26 @@ We are looking for submission of **full research papers and experiences reports*
 
 ## Program
 
-- 9:00-10:00 Keynote Prof. Hajime Asama (Tokyo University), **Robot & Remote-Controlled Machine Technology toward Social Resilience against Disasters**
-- 10:00-10:30 Presentation 1
+- 9:00-9:20 Short Paper :  Reza Nourjou, Michinori Hatayama, Stephen F. Smith, Atabak Sadeghi and Pedro Szekely, **Design of a GIS-based Assistant Software Agent for the Incident Commander to Coordinate Emergency Response Operations**
+- 9:20-9:40 Short Paper : Konstantinos Charalampous, Ioannis Kostavelis, Dimitrios Chrysostomou,  Angelos Amanatiadis and Antonios Gasteratos, **3D Maps Registration and Path Planning for Autonomous Robot Navigation**
+- 9:40-10:40 Keynote : Prof. Hajime Asama (The University of Tokyo), **Robot & Remote-Controlled Machine Technology toward Social Resilience against Disasters**
 
-- 10:30-11:00 Coffee break
+- 10:40-11:10 Coffee break
 
-- 11:00-11:30 Presentation 2
-- 11:30-12:00 Presentation 3
-- 12:00-12:30 Presentation 4
+- 11:10-11:40 Full Paper : Congduc Pham, Mamour Diop and Ousmane Thiare, **Selecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations**
+- 11:40-12:10 Full Paper :  Tohru Ishii, Yasutake Takahashi, Yoichiro Maeda and Takayuki Nakamura, **Tethered Flying Robot for Information Gathering System**
+- 12:10-12:40 Full Paper :  Noritaka Sato, Masataka Ito and Fumitoshi Matsuno, **Teleoperation System Using Past Image Records Considering Narrow Communication Band**
 
-- 12:30-13:30 Lunch
+- 12:40-13:40 Lunch
 
-- 13:30-14:00 Presentation 5
-- 14:00-15:00 Keynote Prof. Richard Voyles (Denver University), 
+- 13:40-14:00 Short paper : Tomofumi Fujiwara, Tetsushi Kamegawa and Akio Gofuku, **Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds**
+- 14:00-15:00 Keynote : Prof. Richard Voyles (Purdue University)
 
 - 15:00-15:30 Coffee break
 
-- 15:30-16:00 Presentation 6
-- 16:00-16:30 Presentation 7
-- 16:30-17:00 Presentation 8
+- 15:30-16:00 Full Paper : Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro, **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
+- 16:00-16:30 Full Paper : David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi, **New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots**
+- 16:30-17:00  Full Paper : Vaibhav Kumar Mehta and Filippo Arrichiello, **Connectivity maintenance by robotic Mobile Ad-hoc NETwork**
 
 ## Important dates
 
