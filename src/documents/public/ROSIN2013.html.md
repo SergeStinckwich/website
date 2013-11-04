@@ -66,7 +66,7 @@ We are looking for submission of **full research papers and experiences reports*
 - 12:40-13:40 Lunch
 
 - 13:40-14:00 Short paper : Tomofumi Fujiwara, Tetsushi Kamegawa and Akio Gofuku, **Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds**
-- 14:00-15:00 Keynote : Prof. Richard Voyles (Purdue University)
+- 14:00-15:00 Keynote : Prof. Richard Voyles (Purdue University), **Self-Adaptive Infrastructure for Robotic Sensor Networks**
 - 15:00-15:30 Coffee break
 - 15:30-16:00 Full Paper : Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro, **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
 - 16:00-16:30 Full Paper : David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi, **New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots**
