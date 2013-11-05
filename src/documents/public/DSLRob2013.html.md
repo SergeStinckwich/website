@@ -8,13 +8,13 @@ description: '4th International Workshop on Domain-Specific Languages and models
 
 
 
-<div class="bs-callout bs-callout-warning">
+<span class="bs-callout bs-callout-warning">
 <h4>Updated Information</h4>
 <p>Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/dslrob2013-preliminary-proceedings.pdf). Final proceedings will be available after the workshop at arXiv.
 
 Please register [here](https://docs.google.com/forms/d/10QyOaU65e4Weu2Y_n0OmHYDmPZP_ZuyU3hSvgOZijN8/viewform) to the workshop before coming (free attendance).
 </p>
-</div>
+</span>
     
 The Fourth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob'13) will be held November 8th 2013 at Tokyo (Japan), just after the IROS 2013 conference.
 
