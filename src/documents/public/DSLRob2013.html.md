@@ -57,7 +57,8 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 - Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
 
 # Program
-Preliminary proceedings will be available to workshop participants prior to the workshop in electronic form; final proceedings after the workshop at arXiv.
+
+Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/dslrob2013-preliminary-proceedings.pdf). Final proceedings will be available after the workshop at arXiv.
 
 - 9:45 - 10:00 Welcome and Opening / Christian Schlegel, Serge Stinckwich
 - 10:00 - 10:30 Selma Kchir, Tewfik Ziadi, Mika Ziane, Serge Stinckwich, **A Top-Down Approach to Managing Variability in Robotics Algorithms**
