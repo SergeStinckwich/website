@@ -3,13 +3,27 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2013-11-06T06:58:05.441Z</updated>
+	<updated>2013-11-06T11:28:23.396Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
 		<email>b@lupton.cc</email>
 	</author>
 
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
 	
 		
 	
@@ -105,6 +119,28 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Info&lt;/a&gt;
 						&lt;/li&gt;
@@ -123,37 +159,15 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
-						&lt;/li&gt;
-						
-					
-						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;/li&gt;
 						
 					
 						
@@ -218,7 +232,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-11-06T06:58:05.441Z
+				This website was last updated at 2013-11-06T11:28:23.396Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -342,6 +356,28 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/contact&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/contact&quot; property=&quot;dc:title&quot;&gt;Contact Info&lt;/a&gt;
 						&lt;/li&gt;
@@ -360,37 +396,15 @@ _gaq.push(['_trackPageview']);
 						
 					
 						
-						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
-							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
-						&lt;/li&gt;
-						
-					
-						
 						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/supervizing&quot; class=&quot;&quot;&gt;
 							&lt;a href=&quot;/pages/supervizing&quot; property=&quot;dc:title&quot;&gt;Students supervizing&lt;/a&gt;
 						&lt;/li&gt;
 						
 					
 						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
-						
-					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/teaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/teaching&quot; property=&quot;dc:title&quot;&gt;Teaching&lt;/a&gt;
+						&lt;/li&gt;
 						
 					
 						
@@ -455,7 +469,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-11-06T06:58:05.441Z
+				This website was last updated at 2013-11-06T11:28:23.396Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -521,20 +535,6 @@ var inject = function(){
 				<id>http://balupton.com/posts/readmore</id>
 				<content type="html"></content>
 			</entry>
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
-		
-	
 		
 	
 		

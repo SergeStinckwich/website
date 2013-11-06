@@ -57,7 +57,7 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 - Tomofumi Fujiwara, Tetsushi Kamegawa and Akio Gofuku, **Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds**
 
 ## Program
-
+- 8:50-9:00 Welcome and Opening : Fumitoshi Matsuno, Congduc Pham, Serge Stinckwich
 - 9:00-9:20 Short Paper :  Reza Nourjou, Michinori Hatayama, Stephen F. Smith, Atabak Sadeghi and Pedro Szekely, **Design of a GIS-based Assistant Software Agent for the Incident Commander to Coordinate Emergency Response Operations**
 - 9:20-9:40 Short Paper : Konstantinos Charalampous, Ioannis Kostavelis, Dimitrios Chrysostomou,  Angelos Amanatiadis and Antonios Gasteratos, **3D Maps Registration and Path Planning for Autonomous Robot Navigation**
 - 9:40-10:40 Keynote : Prof. Hajime Asama (The University of Tokyo), **Robot & Remote-Controlled Machine Technology toward Social Resilience against Disasters**
