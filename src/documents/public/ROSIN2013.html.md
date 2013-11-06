@@ -40,6 +40,9 @@ We are looking for submission of **full research papers and experiences reports*
 *Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin13
 
 ## Selected papers
+
+Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/ROSIN2013Proceedings.zip). Final proceedings will be available after the workshop at arXiv.
+
 ### Long papers
 - Congduc Pham, Mamour Diop and Ousmane Thiare. **Selecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations**
 - Tohru Ishii, Yasutake Takahashi, Yoichiro Maeda and Takayuki Nakamura. **Tethered Flying Robot for Information Gathering System**
