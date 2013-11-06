@@ -3,13 +3,29 @@
 	<title>Benjamin Lupton</title>
 	<link href="http://balupton.com/atom.xml" rel="self"/>
 	<link href="http://balupton.com"/>
-	<updated>2013-11-06T05:19:32.669Z</updated>
+	<updated>2013-11-06T05:51:38.158Z</updated>
 	<id>http://balupton.com</id>
 	<author>
 		<name>Benjamin Lupton</name>
 		<email>b@lupton.cc</email>
 	</author>
 
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
 	
 		
 	
@@ -71,7 +87,7 @@
 	&lt;meta name=&quot;description&quot; content=&quot;A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using Twitter Bootstrap.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.1&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.4&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -107,6 +123,22 @@ _gaq.push(['_trackPageview']);
 			&lt;div class=&quot;container&quot;&gt;
 				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
 				&lt;ul class=&quot;nav&quot;&gt;
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 					
 						
 					
@@ -232,7 +264,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-11-06T05:19:32.669Z
+				This website was last updated at 2013-11-06T05:51:38.158Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
@@ -308,7 +340,7 @@ var inject = function(){
 	&lt;meta name=&quot;description&quot; content=&quot;A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using Twitter Bootstrap.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
-	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.1&quot; /&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.54.4&quot; /&gt;
 
 	&lt;!-- Icons --&gt;
 	&lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
@@ -344,6 +376,22 @@ _gaq.push(['_trackPageview']);
 			&lt;div class=&quot;container&quot;&gt;
 				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;#DNU Home&lt;/a&gt;
 				&lt;ul class=&quot;nav&quot;&gt;
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 					
 						
 					
@@ -469,7 +517,7 @@ _gaq.push(['_trackPageview']);
 		&lt;footer&gt;
 			&lt;p&gt;&amp;copy; Serge Stinckwich 2012-2013&lt;/p&gt;
 			&lt;p style=&quot;float:right;&quot;&gt;
-				This website was last updated at 2013-11-06T05:19:32.669Z
+				This website was last updated at 2013-11-06T05:51:38.158Z
 			&lt;/p&gt;
 		&lt;/footer&gt;
 	&lt;/div&gt;&lt;!-- /container --&gt;
