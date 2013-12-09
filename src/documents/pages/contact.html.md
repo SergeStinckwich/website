@@ -22,5 +22,5 @@ Serge DOT Stinckwich AT gmail DOT com
 	* Room 73
  
 ##Web Presence
-[github](http://github.com/SergeStinckwich), [twitter](https://github.com/SergeStinckwich), [LinkedIn](fr.linkedin.com/in/sergestinckwich/), [slideshare](http://www.slideshare.net/SergeStinckwich), Facebook, [Flickr](http://www.flickr.com/photos/sergestinckwich/), [citeulike](http://www.citeulike.org/profile/SergeStinckwich)
+[github](http://github.com/SergeStinckwich), [twitter](https://twitter.com/SergeStinckwich), [LinkedIn](http://fr.linkedin.com/in/sergestinckwich/), [slideshare](http://www.slideshare.net/SergeStinckwich), Facebook, [Flickr](http://www.flickr.com/photos/sergestinckwich/), [citeulike](http://www.citeulike.org/profile/SergeStinckwich)
 
