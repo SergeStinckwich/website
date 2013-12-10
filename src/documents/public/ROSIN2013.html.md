@@ -49,7 +49,7 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 - Noritaka Sato, Masataka Ito and Fumitoshi Matsuno. **Teleoperation System Using Past Image Records Considering Narrow Communication Band**
 - Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro. **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
 - David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi. **New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots**
-- Vaibhav Kumar Mehta and Filippo Arrichiello. **Connectivity maintenance by robotic Mobile Ad-hoc NETwork**
+- Vaibhav Kumar Mehta and Filippo Arrichiello. [Connectivity maintenance by robotic Mobile Ad-hoc NETwork](http://arxiv.org/abs/1312.2526)
 
 ### Short papers
 - Reza Nourjou, Michinori Hatayama, Stephen F. Smith, Atabak Sadeghi and Pedro Szekely, **Design of a GIS-based Assistant Software Agent for the Incident Commander to Coordinate Emergency Response Operations**
