@@ -12,26 +12,23 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
-
-			# Here are some old site urls that you would like to redirect from
-			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
-			]
+			url: "http://doesnotunderstand.org"
 
 			# The default title of our website
-			title: "Kitchensink Skeleton for DocPad"
+			title: "#DNU"
 
 			# The website description (for SEO)
 			description: """
-				A DocPad Skeleton useful for showcasing different features and functionality of DocPad. Implemented using Twitter Bootstrap.
+				Website of Serge Stinckwich
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				  stinckwich, serge stinckwich, smalltalk, robotics, rescue robotics, domain-specific languages, DSL, programming, TDD
 				"""
+
+			analytics:
+				google: "UA-9711668-1"
 
 			# Styles
 			styles: [
