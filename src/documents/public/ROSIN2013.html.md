@@ -39,8 +39,7 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 We are looking for submission of **full research papers and experiences reports** (up to 6 pages) and **work in progress submissions** (up to 4 pages).
 *Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin13
 
-## Selected papers
-
+## Proceedings
 Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/ROSIN2013Proceedings.zip). Final proceedings will be available after the workshop at arXiv.
 
 ### Long papers
