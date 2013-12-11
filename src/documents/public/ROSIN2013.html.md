@@ -52,7 +52,7 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 
 ### Short papers
 - Reza Nourjou, Michinori Hatayama, Stephen F. Smith, Atabak Sadeghi and Pedro Szekely, **Design of a GIS-based Assistant Software Agent for the Incident Commander to Coordinate Emergency Response Operations**
-- Konstantinos Charalampous, Ioannis Kostavelis, Dimitrios Chrysostomou, Angelos Amanatiadis and Antonios Gasteratos, **3D Maps Registration and Path Planning for Autonomous Robot Navigation**
+- Konstantinos Charalampous, Ioannis Kostavelis, Dimitrios Chrysostomou, Angelos Amanatiadis and Antonios Gasteratos, [3D Maps Registration and Path Planning for Autonomous Robot Navigation](http://arxiv.org/abs/1312.2822)
 - Tomofumi Fujiwara, Tetsushi Kamegawa and Akio Gofuku, **Evaluation of Plane Detection with RANSAC According to Density of 3D Point Clouds**
 
 ## Program
