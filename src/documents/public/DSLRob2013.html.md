@@ -66,7 +66,7 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 - 13:15 - 13:45 Thomas Buchmann, Johannes Baumgartl, Dominik Henrich and Bernhard Westfechtel. [Towards A Domain-specific Language For Pick-And-Place Applications](../DSLROB2013/Talk4-ThomasBuchmann.pdf)
 - 13:45 - 14:15 Nico Hochgeschwender, Sven Schneider, Holger Voos and Gerhard K. Kraetzschmar. [Towards a Robot Perception Speciﬁcation Language](../DSLROB2013/Talk5-NicoHochgeschwender.pdf)
 - 14:15 - 14:45 Anders Lange, Anders Sorensen and Ulrik Schultz. [Towards Automatic Migration of ROS Components from Software to Hardware](../DSLROB2013/Talk6-AndersLange.pdf)
-- 14:45 - 15:15 Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
+- 14:45 - 15:15 Sebastian Blumenthal and Herman Bruyninckx. [Towards a Domain Specific Language for a Scene Graph based Robotic World Model](../DSLROB2013/Talk7-SebastianBlumenthal.pdf)
 - 15:15 - 15:30 COFFEE BREAK
 - 15:30 - 17:00 DISCUSSION - roadmap (hot topics, priorities, benefits) of issues related to the WS topics
 
