@@ -60,7 +60,7 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 
 Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/dslrob2013-preliminary-proceedings.pdf). Final proceedings will be available after the workshop at arXiv.
 
-- 9:45 - 10:00 [Welcome and Opening](DSLROB2013/Talk0-Welcome.pdf) / Christian Schlegel, Serge Stinckwich
+- 9:45 - 10:00 [Welcome and Opening](../DSLROB2013/Talk0-Welcome.pdf) / Christian Schlegel, Serge Stinckwich
 - 10:00 - 10:30 Selma Kchir, Tewfik Ziadi, Mika Ziane, Serge Stinckwich, **A Top-Down Approach to Managing Variability in Robotics Algorithms**
 - 10:30 - 11:00 Md. Abdullah Al Mamun, Christian Berger and Jorgen Hansson. ***Engineering the Hardware/Software Interface for Robotic Platforms – A Comparison of Applied Model Checking with Prolog and Alloy***
 - 11:00 - 11:30 Yingfu Zeng, Chad Rose, Paul Brauner, Walid Taha, Jawad Masood, Roland Philippsen, Marcia O'Malley and Robert Cartwright. ***Modeling Basic Aspects of Cyber-Physical Systems, Part II***
