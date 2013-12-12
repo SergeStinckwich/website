@@ -60,7 +60,7 @@ After the workshop, authors of the last previous DSLROB editions since 2010 will
 
 Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/dslrob2013-preliminary-proceedings.pdf). Final proceedings will be available after the workshop at arXiv.
 
-- 9:45 - 10:00 Welcome and Opening / Christian Schlegel, Serge Stinckwich
+- 9:45 - 10:00 [Welcome and Opening](DSLROB2013/Talk0-Welcome.pdf) / Christian Schlegel, Serge Stinckwich
 - 10:00 - 10:30 Selma Kchir, Tewfik Ziadi, Mika Ziane, Serge Stinckwich, **A Top-Down Approach to Managing Variability in Robotics Algorithms**
 - 10:30 - 11:00 Md. Abdullah Al Mamun, Christian Berger and Jorgen Hansson. ***Engineering the Hardware/Software Interface for Robotic Platforms – A Comparison of Applied Model Checking with Prolog and Alloy***
 - 11:00 - 11:30 Yingfu Zeng, Chad Rose, Paul Brauner, Walid Taha, Jawad Masood, Roland Philippsen, Marcia O'Malley and Robert Cartwright. ***Modeling Basic Aspects of Cyber-Physical Systems, Part II***
@@ -76,8 +76,6 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 The workshop will organized at the Tokyo University, Faculty of engineering Bldg.14, [Hongo Campus](http://www.u-tokyo.ac.jp/en/about/documents/Hongo_CampusMap_E.pdf), Room number #300. See the [Access Map](http://www.u-tokyo.ac.jp/en/about/documents/accessmap_E.pdf)
 
 The closest station to the Workshop venue is TODAIMAE. If you want to go from IROS 2013 venue (Tokyo big sight) to the DSLRob 2013 venue, please follow this [schedule](http://www.hyperdia.com/en/cgi/en/search.html?dep_node=KOKUSAI-TENJIJO-SEIMON&arv_node=TODAIMAE&via_node01=&via_node02=&via_node03=&year=2013&month=11&day=08&hour=09&minute=30&search_type=1&search_way=&transtime=undefined&sort=0&max_route=5&ship=off&lmlimit=null&search_target=route&facility=reserved&sum_target=7). It takes 7 min by foot from TODAIMAE station to the Building 14.
-
-<span class="label label-warning">Free registration for the workshop</span> [here](https://docs.google.com/forms/d/10QyOaU65e4Weu2Y_n0OmHYDmPZP_ZuyU3hSvgOZijN8/viewform)
 
 # Important dates
 <dl class="dl-horizontal">
