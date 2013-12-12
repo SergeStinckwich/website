@@ -57,7 +57,7 @@ Preliminary proceedings are now available [here](http://www.doesnotunderstand.or
 - Anders Lange, Anders Sorensen and Ulrik Schultz. ***Towards Automatic Migration of ROS Components from Software to Hardware***
 - Sebastian Blumenthal and Herman Bruyninckx. ***Towards a Domain Specific Language for a Scene Graph based Robotic World Model***
 
-# Program
+# Presentations
 - 9:45 - 10:00 [Welcome and Opening](../DSLROB2013/Talk0-Welcome.pdf) / Christian Schlegel, Serge Stinckwich
 - 10:00 - 10:30 Selma Kchir, Tewfik Ziadi, Mika Ziane, Serge Stinckwich, [A Top-Down Approach to Managing Variability in Robotics Algorithms](../DSLROB2013/Talk1-SergeStinckwich.pdf)
 - 10:30 - 11:00 Md. Abdullah Al Mamun, Christian Berger and Jorgen Hansson. [Engineering the Hardware/Software Interface for Robotic Platforms – A Comparison of Applied Model Checking with Prolog and Alloy](../DSLROB2013/Talk2-AbdullahAlMamum.pdf)
