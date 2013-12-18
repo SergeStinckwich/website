@@ -81,10 +81,10 @@ The conference (and the SahanaCamp) will be located at IFI (Institut pour la Fra
 (November 1st 2013). Practical work with various sensors and [Arduino boards](http://arduino.cc). Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or
 environments. 
 
-##Proceedings : 8 long papers, 2 shorts papers
+##ISCRAM-VN 2013 Proceedings
 
 Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesnotunderstand.org/ISCRAM-VN2013-PROCEEDINGS.zip)
-
+### Long papers
 - Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. **Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario**
 - Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. [Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models](http://arxiv.org/abs/1312.4851)
 - Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR**
@@ -93,6 +93,9 @@ Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesn
 - Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam**
 - Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
+### Short papers
+- Lam Thu Bui and Van Vien Mac. [Toward an Agent Based Distillation Approach for Protesting Crowd Simulation](http://arxiv.org/abs/1312.4048)
+- XXX
 
 ##Keynotes
 The conference will have two invited speakers: Julie Dugdale and Raffy Seldana.
