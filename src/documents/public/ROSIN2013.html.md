@@ -43,10 +43,10 @@ We are looking for submission of **full research papers and experiences reports*
 Preliminary proceedings are now available [here](http://www.doesnotunderstand.org/ROSIN2013Proceedings.zip). Final proceedings will be available after the workshop at arXiv.
 
 ### Long papers
-- Congduc Pham, Mamour Diop and Ousmane Thiare. [Selecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations](http://arxiv.org/abs/1312.4177)
+- Congduc Pham, Mamour Diop and Ousmane Thiare. [qSelecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations](http://arxiv.org/abs/1312.4177)
 - Tohru Ishii, Yasutake Takahashi, Yoichiro Maeda and Takayuki Nakamura. **Tethered Flying Robot for Information Gathering System**
 - Noritaka Sato, Masataka Ito and Fumitoshi Matsuno. [Teleoperation System Using Past Image Records Considering Narrow Communication Band](http://arxiv.org/abs/1312.4346)
-- Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro. **Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams**
+- Eduardo Feo Flushing, Luca Gambardella and Gianni Di Caro. [Strategic Control of Proximity Relationships in Heterogeneous Search and Rescue Teams](http://arxiv.org/abs/1312.4601)
 - David Espes, Ana Pistea, Charles Canaff, Ioana Iordache, Philippe Le Parc and Emanuel Radoi. [New Method for Localization and Human Being Detection using UWB Technology: Helpful Solution for Rescue Robots](http://arxiv.org/abs/1312.4162)
 - Vaibhav Kumar Mehta and Filippo Arrichiello. [Connectivity maintenance by robotic Mobile Ad-hoc NETwork](http://arxiv.org/abs/1312.2526)
 
