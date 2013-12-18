@@ -89,7 +89,7 @@ Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesn
 - Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. [Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models](http://arxiv.org/abs/1312.4851)
 - Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR**
 - Hong Van Truong, Elise Beck, Julie Dugdale and Carole Adam. **Developing a Model of Evacuation After an Earthquake in Lebanon**
-- Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach**
+- Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. [Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach](http://arxiv.org/abs/1312.3692)
 - Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam**
 - Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
 - Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
