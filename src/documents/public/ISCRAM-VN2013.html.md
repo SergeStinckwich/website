@@ -81,12 +81,12 @@ The conference (and the SahanaCamp) will be located at IFI (Institut pour la Fra
 (November 1st 2013). Practical work with various sensors and [Arduino boards](http://arduino.cc). Arduino is an open-source electronics prototyping platform for artists, designers, hobbyists and anyone interested in creating interactive objects or
 environments. 
 
-##Selected papers : 8 long papers, 2 shorts papers
+##Proceedings : 8 long papers, 2 shorts papers
 
-[Temporary proceedings](http://www.doesnotunderstand.org/ISCRAM-VN2013-PROCEEDINGS.zip)
+Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesnotunderstand.org/ISCRAM-VN2013-PROCEEDINGS.zip)
 
 - Nguyen Hong Phuong, Vu Ha Phuong and Pham The Truyen. **Assessment of Tsunami Hazards from Manila Trench to Vietnam Using a Worst Case Scenario**
-- Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. **Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models**
+- Le Nguyen Tuan Thanh, Chihab	Hanachi, Serge Stinckwich and Ho Tuong Vinh. [Representing, Simulating and Analysing Ho Chi Minh City Tsunami Plan by Means of Process Models](http://arxiv.org/abs/1312.4851)
 - Lutz Frommberger and Falko Schmid. **Crowdsourced Bi-directional Disaster Reporting and Alerting on Smartphones in Lao PDR**
 - Hong Van Truong, Elise Beck, Julie Dugdale and Carole Adam. **Developing a Model of Evacuation After an Earthquake in Lebanon**
 - Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. **Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach**
