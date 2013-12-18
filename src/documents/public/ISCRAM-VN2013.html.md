@@ -92,7 +92,7 @@ Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesn
 - Hoai Bao Lam, Tan Tai Phan, Huynh Long Vuong, Xuan Hiep Huynh and Bernard Pottier. [Designing a Brown Plant Hoppers (BPH) Surveillance Network based on Wireless Sensor Network Approach](http://arxiv.org/abs/1312.3692)
 - Ho Son and Richard Baker. **Putting a Resilience Lens on Climate Change Adaptation: A Case Study in the Northern Vietnam**
 - Van-Minh Le, Jean-Daniel Zucker, Tuong Vinh Ho and Yann Chevaleyre. **Impact of Tsunami Arrival Moment and Population Distribution on Optimization of Sign Deployment for Tsunami Evacuation**
-- Kwang Deok Kim and Liaquat Hossain. **Towards Coordinated Disaster Response with Network Approach**
+- Kwang Deok Kim and Liaquat Hossain. [Towards Coordinated Disaster Response with Network Approach](http://arxiv.org/abs/1312.3693)
 ### Short papers
 - Lam Thu Bui and Van Vien Mac. [Toward an Agent Based Distillation Approach for Protesting Crowd Simulation](http://arxiv.org/abs/1312.4048)
 - XXX
