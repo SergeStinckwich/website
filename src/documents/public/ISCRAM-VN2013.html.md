@@ -95,7 +95,7 @@ Proceedings will be available on arxiv. [Temporary proceedings](http://www.doesn
 - Kwang Deok Kim and Liaquat Hossain. [Towards Coordinated Disaster Response with Network Approach](http://arxiv.org/abs/1312.3693)
 ### Short papers
 - Lam Thu Bui and Van Vien Mac. [Toward an Agent Based Distillation Approach for Protesting Crowd Simulation](http://arxiv.org/abs/1312.4048)
-- XXX
+- Chien Huynh and Phuong Huynh, **Student-based Collaborative Network for Delivering Information of Natural Disasters and Climate Adaptation**
 
 ##Keynotes
 The conference will have two invited speakers: Julie Dugdale and Raffy Seldana.
