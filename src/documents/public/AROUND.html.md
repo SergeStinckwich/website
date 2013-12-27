@@ -16,8 +16,8 @@ The global climate is changing, affecting the planet with more and more frequent
 
 We identify three major issues that must be faced during the conception and deployment of a robotic rescue program in a developing country:
 
-- The cost of rescue robotic solutions,
-- An uncontrolled urbanization,
+- the cost of rescue robotic solutions,
+- an uncontrolled urbanization,
 - the lack of logistic and infrastructural capability.
 
 The AROUND (Autonomous Robots for Observation of Urban Network after Disaster) programme launched by several French and Vietnamese partners (see below) aims at addressing concerns expressed in the previous section by designing an automated observation system. The system is based on (i) a local level with the deployment of autonomous mobile robots able to collect information in impacted urban sites and to dynamically maintain the communication links between rescuers, and (ii) a global level based on a Spatial Decision Support System (SDSS).
@@ -63,7 +63,7 @@ This paper is available here: [http://hal.archives-ouvertes.fr/docs/00/53/68/57/
 * Van Tuan Le, Victor Moraru, Noury Bouraqadi, Serge Stinckwich, François Bourdon and Hong Quang Nguyen: [Issues and Challenges in building a Robust Communication Platform for USAR Robots](http://www2.ifi.auf.org/personnel/Victor.Moraru/publis/fair07-lvtuan-vmoraru-nbouraqadi-sstinckwich-fbourdon-nhquang.pdf), Third National Symposium Fundamental and Applied IT Research (FAIR'07), Vietnam, 2007
 * Thanh-Quang Chu, Alain Boucher, Alexis Drogoul, Duc-An Vo, Hong-Phuong Nguyen, Jean-Daniel Zucker: [Interactive Learning of Expert Criteria for Rescue Simulations](http://link.springer.com/chapter/10.1007%2F978-3-540-89674-6_16), Proceedings of the 11th Pacific Rim International Conference on Multi-Agents (PRIMA 2008), Lecture Notes in Computer Science,Vol. 5357, pp 127-138, Springer-Verlag, 2008.
 * Edouard Amouroux, Thanh-Quang Chu, Alain Boucher, Alexis Drogoul: [GAMA: An Environment for Implementing and Running Spatially Explicit Multi-agent Simulations](http://link.springer.com/chapter/10.1007%2F978-3-642-01639-4_32) in Proceedigns of the 10th Pacific Rim International Conference on Multi-Agents (PRIMA 2007), Lectures Notes in Computer Science, Vol. 5044, pp. 359-371, 2009.
-* Thanh-Quang Chu, Alexis Drogoul, Alain Boucher, Jean-Daniel Zucker: ***Interactive Learning of Independent Experts' Criteria for Rescue Simulations***. J. UCS 15(13): 2701-2725 (2009)
+* Thanh-Quang Chu, Alexis Drogoul, Alain Boucher, Jean-Daniel Zucker: [Interactive Learning of Independent Experts' Criteria for Rescue Simulations](http://www.jucs.org/jucs_15_13/interactive_learning_of_independent/jucs_15_13_2701_2725_chu.pdf) J. UCS 15(13): 2701-2725 (2009)
 * Quang Anh Nguyen Vu, Benoit Gaudou, Richard Canal, and Salima Hassas, ***Coherence and robustness in a disturbed multi-agents system***, in Proceedings of IEEE-RIVF 09, Da Nang City, Viet Nam, 2009.
 * Arnaud Doniec, Noury Bouraqadi, M. Defoort, Van Tuan Le, and Serge Stinckwich, [Distributed constraint reasoning applied to multi-robot exploration](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5364332&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5364332), in Proceedings of the 21st International Conference on Tools with Artificial Intelligence (ICTAI 2009), pp. 159–166. IEEE Computer Society, 2009.
 * Van Tuan Le, Noury Bouraqadi, Serge Stinckwich, and Victor Moraru, ***Connectivity awareness in robotics system***, in RIVF International Conference on Computing and Telecommunication Technologies, pages 245–248. IEEE, 2009.
