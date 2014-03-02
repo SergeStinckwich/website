@@ -7,7 +7,7 @@ description: 'CAPFLEXITE'
 # Réseau de recherche CAPFLEXITE (Capteurs, Réel, Complexité)
 
 
-***Supporté et financé par le [Réseau National des Systèmes Complexes (RNSC ](http://rnsc.fr/reseaux***
+***Supporté et financé par le [Réseau National des Systèmes Complexes (RNSC ](http://rnsc.fr/reseaux)***
 
 ***Porteur du réseau : Christophe Cambier (UMMISCO/UPMC)***
 
