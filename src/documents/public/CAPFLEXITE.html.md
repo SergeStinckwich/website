@@ -9,7 +9,7 @@ description: 'CAPFLEXITE'
 
 <img src="/images/logo-RNSC-small-72dpi.png" width="200" class="img-rounded">
 
-***Supporté et financé par le [Réseau National des Systèmes Complexes (RNSC ](http://rnsc.fr/reseaux)***
+***Supporté et financé par le [Réseau National des Systèmes Complexes (RNSC)](http://rnsc.fr/reseaux)***
 
 ***Porteur du réseau : Christophe Cambier (UMMISCO/UPMC)***
 
