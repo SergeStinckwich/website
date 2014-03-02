@@ -22,6 +22,7 @@ Notre réseau qui regroupe 6 équipes françaises et offre une palette de compé
 * EA2118 Informatique (Université de La Rochelle)
 * UMR Espace-DEV (IRD/UM2)
 * LIUPPA (Université de Pau)
+
 ## Actualités
 
 ## Liens
