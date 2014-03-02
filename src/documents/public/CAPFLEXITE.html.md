@@ -7,7 +7,7 @@ description: 'CAPFLEXITE'
 # Réseau de recherche CAPFLEXITE (Capteurs, Réel, Complexité)
 
 
-<img src="/images/logo-RNSC-small-72dpi.png" width="100" class="img-rounded">
+<img src="/images/logo-RNSC-small-72dpi.png" width="200" class="img-rounded">
 
 ***Supporté et financé par le [Réseau National des Systèmes Complexes (RNSC ](http://rnsc.fr/reseaux)***
 
