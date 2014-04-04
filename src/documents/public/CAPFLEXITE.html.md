@@ -27,6 +27,8 @@ Notre réseau qui regroupe 6 équipes françaises et offre une palette de compé
 
 ## Actualités
 
+* 3-4 Juin 2014 Organisation de la conférence [RESSACS 2014](http://www.doesnotunderstand.org/RESSACS2014/)
+ 
 ## Liens
  
 ## Contact
