@@ -7,10 +7,12 @@ description: 'Events'
 ##Conferences, Workshops PC & Organization
 
 ###2014
+- PC Member of [ISCRAM MED 2014](http://irit.fr/ISCRAMMED2014/), October 15-17, Toulouse, France
 - PAAMS 2014
 - PC Member of [The 6th International Conference on Knowledge and System Engineering (KSE 2014)](http://www.fit.uet.vnu.edu.vn/kse2014/home/), October 9-11, Hanoi, Vietnam.
 - PC Member of the [International Workshop on Communicating Objects and Machine to Machine for Mission-Critical Applications (COMMCA 2014)](http://www.commca.org/), August 17-20, Niagara Falls, Ontario, USA
-- Co-organizer of RESSACS 2014, June 3-4, Bondy, France
+- Co-organizer of MooseDay@UPMC 2014
+- Co-organizer of [RESSACS 2014](http://www.doesnotunderstand.org/RESSACS2014/) June 3-4, Bondy, France
 - Associate Editor [IEEE ICRA 2014 (IEEE International Conference on Robotics and Automation](http://www.icra2014.com/), May 31-June 5, Hong Kong, China
 - Co-organizer of the [Track "Intelligent System" of the 11th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2014)](http://iscram2014.ist.psu.edu/), May 18-21, Penn State University, USA
 - PC Member of [Fourth Workshop on Design, Modeling and Evaluation of Cyber Physical Systems (CyPhy'14)](http://www.cyphy.org/), April 14-17, Berlin, Germany
