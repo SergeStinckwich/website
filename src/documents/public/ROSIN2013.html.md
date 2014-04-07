@@ -40,7 +40,7 @@ We are looking for submission of **full research papers and experiences reports*
 *Please create your account on Easychair website as soon as possible if you intend to submit a paper:*  http://www.easychair.org/conferences/?conf=rosin13
 
 ## Proceedings
-Final proceedings is available on arXiv.
+Final proceedings are available on arXiv.
 
 ### Long papers
 - Congduc Pham, Mamour Diop and Ousmane Thiare. [Selecting source image sensor nodes based on 2-hop information to improve image transmissions to mobile robot sinks in search & rescue operations](http://arxiv.org/abs/1312.4177)
