@@ -71,7 +71,7 @@ description: 'Events'
 - Speaker at the [3rd Japan-Vietnam Workshop on Software Engineering 2010 (JVSE 2010)](http://www.coltech.vnu.edu.vn/~hoangta/jvse2010/), December 9-10, Hanoi, Vietnam
 - Co-organizer of [International Workshop on Dynamic languages for RObotic and Sensors systems (DYROS 2010)](../public/DYROS2010.html), November 15, Darmstadt, Germany
 - Co-organizer of [1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob 2010)](http://www.doesnotunderstand.org/public/DSLRob2010), October 22, Taipei, Taiwan
-- Co-organizer of [IROS'10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2010)](http://www.doesnotunderstand.org/ROSIN10), October 18, Taipei, Taiwan.
+- Co-organizer of [IROS'10 Workshop on Robots and Sensors integration in future rescue INformation system (ROSIN 2010)](http://www.doesnotunderstand.org/public/ROSIN2010), October 18, Taipei, Taiwan.
 - PC Member of ["18èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'10)](http://www.ltim.org/jfsma10/), October 18-20, Mahdia, Tunisia (French domestic conference)
 - Invited Speaker at [2nd Open Source Developers Conference (OSDC 2010)](http://act.osdc.fr/osdc2010fr/), "Using Smalltalk for controlling robotics systems", video: [http://blip.tv/file/4673429](http://blip.tv/file/4673429) , October 9-10, Paris, France
 - Co-organizer of [Journée thématique PHC/ResCom, RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2010)](http://liuppa.univ-pau.fr/RESSACS/Accueil.html), June 25, Bayonne, France (French domestic conference)
