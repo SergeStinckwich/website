@@ -20,7 +20,7 @@ Notre réseau qui regroupe des équipes de recherche françaises et de pays du S
 ## Partenaires
 * UMMISCO (UPMC/IRD)
 * UMR CBGP (CIRAD)
-* UMR CNRS 3192 (UBO)
+* Lab-STICC UMR CNRS 6285 (UBO)
 * EA2118 Informatique (Université de La Rochelle)
 * UMR Espace-DEV (IRD/UM2)
 * LIUPPA (Université de Pau)
