@@ -4,19 +4,20 @@ layout: 'default'
 author: 'Serge Stinckwich'
 description: 'Students supervizing'
 ---
-Currently supervizing 3 students in PhD thesis: 2 in collaboration with Paris 6 University and one in collaboration with Toulouse
+Currently supervizing 2 students in PhD thesis: one in collaboration with Paris 6 University and one in collaboration with Toulouse
 University and IRD.
 
-Until now, I was involved in 2 PhD Defense Committee (outside my supervized students):
+Until now, I was involved in 3 PhD Defense Committee (outside my supervized students):
 
-- October 5, 2012 - Arnaud Degroote, "Une architecture de contrôle distribuée pour l'autonomie des robots", Toulouse University doctoral school
-- December 11, 2012 - Thibault Gateau, "Supervision de mission pour une équipe de véhicules autonomes hétérogènes", Toulouse University doctoral school
+- October 5, 2012 - Arnaud Degroote, [Une architecture de contrôle distribuée pour l'autonomie des robots](http://tel.archives-ouvertes.fr/tel-00766861), Toulouse University doctoral school
+- December 11, 2012 - Thibault Gateau, [Mission supervision for a team of autonomous heterogeneous vehicles](http://ori-oai.isae.fr/ori-oai-search/notice/view/isae-843) (in french), Toulouse University doctoral school
+- December 19, 2013 - Nikolaos Papoulias, [Remote Debugging and Reflection in Resource Constrainted devices](http://tel.archives-ouvertes.fr/tel-00932796), SPI 072 (Lille I, Lille III, Artois, ULCO, UVHC, Centrale Lille) doctoral school
 
 ## PhD students
 - 2013-2015 (on going work), [Lê Nguyễn Tuấn Thành](http://daidungsi.wordpress.com/), **Models/Forms of coordination for crisis resolution: analysis, discover and efficiency**, co-supervised with Pr. Chihab Hanachi and Dr. Ho Tường Vinh
 - 2012-2014 (on going work) Bui Thi Mai Anh, **[Domain-Specific modelling applied to Epidemiology](https://edite-de-paris.fr/public//phd/html/10208701)**, co-supervised with Dr. Mikal Ziane, Dr. Ho Tường Vinh and Dr. Benjamin Roche
-- 2010-2013 (on going work), Selma Kchir, **[Design and Implementation of a domain-specific language for mobile robotic systems](https://edite-de-paris.fr/public//phd/html/10059560)**, co-supervised with Dr. Mikal Ziane and Dr. Tewfik Ziadi
-- 2007-2010, Le Van Tuan, **Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation**, co-supervised with Pr. François Bourdon, Dr. Noury Bouraqadi and Dr. Victor Moraru
+- 2010-2014, Selma Kchir, **[Design and Implementation of a domain-specific language for mobile robotic systems](https://edite-de-paris.fr/public//phd/html/10059560)**, co-supervised with Dr. Mikal Ziane and Dr. Tewfik Ziadi
+- 2007-2010, Le Van Tuan, [Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation](http://sma.lip6.fr/Csma/theses/THESE_LE2010.pdf) (in french), co-supervised with Pr. François Bourdon, Dr. Noury Bouraqadi and Dr. Victor Moraru
 - 1998-2002, François Girault, **Environment as a cognitive space for multi-agent systems**, co-supervised with Pr. Anne Nicole
 
 ##Master students and undergraduate students
