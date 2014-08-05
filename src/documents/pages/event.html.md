@@ -7,6 +7,7 @@ description: 'Events'
 ##Conferences, Workshops PC & Organization
 
 ###2014
+- PC Member of [SSRR 2014](http://www.ssrr-conference.org/2014/), October 27-30, Toyako-cho, Hokkaido, Japan
 - PC Member of [ISCRAM MED 2014](http://irit.fr/ISCRAMMED2014/), October 15-17, Toulouse, France
 - PC Member of  PAAMS 2014 Workshop on [Agent-based modeling and simulation of complex systems: engineering and applications](http://www.paams.net/absea14/), June 4-6, Salamanca, Spain
 - PC Member of [The 6th International Conference on Knowledge and System Engineering (KSE 2014)](http://www.fit.uet.vnu.edu.vn/kse2014/home/), October 9-11, Hanoi, Vietnam.
@@ -55,7 +56,7 @@ description: 'Events'
 - Invited Speaker at [Philippine Workshop on Modeling, Simulation and Scientific Computing with Emphasis on ICT for the Environment (MODEL 2011)](http://www.math.admu.edu.ph/model2011/), October 20-22, Dumaguete, Philippines
 - PC Member of [5th Argentinian Smalltalk Conference - Research track (Smalltalks 2011)](http://www.fast.org.ar/smalltalks2011/research-track), November 10th-12th, Argentina
 - PC Member of [9th IEEE International Symposium on Safety, security, and Rescue Robotics (SRRR 2011)](http://ssrr2011.mif.sys.okayama-u.ac.jp/), November 1-5, Kyoto, Japan
-- PC Member of ["19èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'11)](http://www.univ-valenciennes.fr/congres/jfsma2011/), October 17-19, Valenciennes, France (french domestic conference) 
+- PC Member of ["19èmes Journées Francophones des Systèmes Multi-Agents" (JFSMA'11)](http://www.univ-valenciennes.fr/congres/jfsma2011/), October 17-19, Valenciennes, France (french domestic conference)
 - PC Member of [2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2011)](http://www.iros2011.org/), September 25-30, San Francisco, USA
 - Co-organizer of [2nd International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’11)](http://www.doesnotunderstand.org/public/DSLRob2011), September 26, San Francisco, USA
 - Co-organizer of [First "Collaborative Technology for Coordinating Crisis Management" Track (CT2CM 2011)](../public/CT2CM2011) of the 20th IEEE International Conference on Collaboration Technologies and Infrastructures (WETICE 2011), June 27-29, Paris
