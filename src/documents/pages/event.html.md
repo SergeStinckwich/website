@@ -7,13 +7,16 @@ description: 'Events'
 ##Conferences, Workshops PC & Organization
 
 ###2014
-- PC Member of [SSRR 2014](http://www.ssrr-conference.org/2014/), October 27-30, Toyako-cho, Hokkaido, Japan
-- PC Member of [ISCRAM MED 2014](http://irit.fr/ISCRAMMED2014/), October 15-17, Toulouse, France
+- PC Member of [12th IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR 2014)](http://www.ssrr-conference.org/2014/), October 27-30, Toyako-cho, Hokkaido, Japan
+- Co-organizer of [5th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob'14)](https://sites.google.com/site/dslrobworkshop/), October 20, Bergamo, Italy
+- PC Member of [4th International Conference on Simulation Modeling and Programming for Autonomous Robots (SIMPAR 2014)](http://simpar.org/), October 20-23, Bergamo, Italy
+- PC Member of [Information Systems for Crisis Response and Management in Mediterranean countries (ISCRAM MED 2014)](http://irit.fr/ISCRAMMED2014/), October 15-17, Toulouse, France
+- PC Member of [2014 IEEE IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)](http://www.iros2014.org/), September 14-18, Chicago, USA
 - PC Member of  PAAMS 2014 Workshop on [Agent-based modeling and simulation of complex systems: engineering and applications](http://www.paams.net/absea14/), June 4-6, Salamanca, Spain
 - PC Member of [The 6th International Conference on Knowledge and System Engineering (KSE 2014)](http://www.fit.uet.vnu.edu.vn/kse2014/home/), October 9-11, Hanoi, Vietnam.
 - PC Member of the [International Workshop on Communicating Objects and Machine to Machine for Mission-Critical Applications (COMMCA 2014)](http://www.commca.org/), August 17-20, Niagara Falls, Ontario, USA
 - Co-organizer of [MooseDay@UPMC 2014](http://www.doesnotunderstand.org/MOOSEDayUPMC/), June 5-6, Paris, France
-- Co-organizer of [RESSACS 2014](http://www.doesnotunderstand.org/RESSACS2014/) June 3-4, Bondy, France
+- Co-organizer of [RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS 2014)](http://www.doesnotunderstand.org/RESSACS2014/) June 3-4, Bondy, France (french domestic conference)
 - Associate Editor [IEEE ICRA 2014 (IEEE International Conference on Robotics and Automation](http://www.icra2014.com/), May 31-June 5, Hong Kong, China
 - Co-organizer of the [Track "Intelligent System" of the 11th International Conference on Information Systems for Crisis Response and Management (ISCRAM 2014)](http://iscram2014.ist.psu.edu/), May 18-21, Penn State University, USA
 - PC Member of [Fourth Workshop on Design, Modeling and Evaluation of Cyber Physical Systems (CyPhy'14)](http://www.cyphy.org/), April 14-17, Berlin, Germany
