@@ -16,9 +16,9 @@ Until now, I was involved in 3 PhD Defense Committee (outside my supervized stud
 ## PhD students
 - 2013-2015 (on going work), [Lê Nguyễn Tuấn Thành](http://daidungsi.wordpress.com/), **Models/Forms of coordination for crisis resolution: analysis, discover and efficiency**, co-supervised with Pr. Chihab Hanachi and Dr. Ho Tường Vinh
 - 2012-2014 (on going work) Bui Thi Mai Anh, **[Domain-Specific modelling applied to Epidemiology](https://edite-de-paris.fr/public//phd/html/10208701)**, co-supervised with Dr. Mikal Ziane, Dr. Ho Tường Vinh and Dr. Benjamin Roche
-- 2010-2014, Selma Kchir, **[Design and Implementation of a domain-specific language for mobile robotic systems](https://edite-de-paris.fr/public//phd/html/10059560)**, co-supervised with Dr. Mikal Ziane and Dr. Tewfik Ziadi
+- 2010-2014, Selma Kchir, **[Ease the development of robotics applications (Faciliter le développement des applications de robotique)](http://www.lip6.fr/actualite/personnes-fiche.php?ident=D1123)**, co-supervised with Dr. Mikal Ziane and Dr. Tewfik Ziadi
 - 2007-2010, Le Van Tuan, [Cooperation in multi-robot systems: Contribution to the maintenance of network connectivity and dynamic roles allocation](http://sma.lip6.fr/Csma/theses/THESE_LE2010.pdf) (in french), co-supervised with Pr. François Bourdon, Dr. Noury Bouraqadi and Dr. Victor Moraru
-- 1998-2002, François Girault, **Environment as a cognitive space for multi-agent systems**, co-supervised with Pr. Anne Nicole
+- 1998-2002, François Girault, **Environment as a cognitive space for multi-agent systems (L'environnement comme espace de cognition dans les systèmes multi-agents)**, co-supervised with Pr. Anne Nicole
 
 ##Master students and undergraduate students
 ###2012
