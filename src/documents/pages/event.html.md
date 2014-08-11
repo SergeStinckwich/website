@@ -6,6 +6,9 @@ description: 'Events'
 ---
 ##Conferences, Workshops PC & Organization
 
+###2015
+- PC Member of [11th IEEE RIVF International Conference on Computing and Communication Technologies](http://rivf2015.ctu.edu.vn/), January 25-28, Can Tho, Vietnam
+
 ###2014
 - PC Member of [12th IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR 2014)](http://www.ssrr-conference.org/2014/), October 27-30, Toyako-cho, Hokkaido, Japan
 - Co-organizer of [5th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob'14)](https://sites.google.com/site/dslrobworkshop/), October 20, Bergamo, Italy
