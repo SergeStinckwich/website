@@ -11,7 +11,7 @@ Until now, I was involved in 3 PhD Defense Committee (outside my supervized stud
 
 - October 5, 2012 - Arnaud Degroote, [Une architecture de contrôle distribuée pour l'autonomie des robots](http://tel.archives-ouvertes.fr/tel-00766861), Toulouse University doctoral school
 - December 11, 2012 - Thibault Gateau, [Mission supervision for a team of autonomous heterogeneous vehicles](http://ori-oai.isae.fr/ori-oai-search/notice/view/isae-843) (in french), Toulouse University doctoral school
-- December 19, 2013 - Nikolaos Papoulias, [Remote Debugging and Reflection in Resource Constrainted devices](http://tel.archives-ouvertes.fr/tel-00932796), SPI 072 (Lille I, Lille III, Artois, ULCO, UVHC, Centrale Lille) doctoral school
+- December 19, 2013 - Nikolaos Papoulias, [Remote Debugging and Reflection in Resource Constrained Devices](http://tel.archives-ouvertes.fr/tel-00932796), SPI 072 (Lille I, Lille III, Artois, ULCO, UVHC, Centrale Lille) doctoral school
 
 ## PhD students
 - 2013-2015 (on going work), [Lê Nguyễn Tuấn Thành](http://daidungsi.wordpress.com/), **Models/Forms of coordination for crisis resolution: analysis, discover and efficiency**, co-supervised with Pr. Chihab Hanachi and Dr. Ho Tường Vinh
