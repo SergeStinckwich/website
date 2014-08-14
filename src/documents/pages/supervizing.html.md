@@ -46,9 +46,9 @@ Until now, I was involved in 3 PhD Defense Committee (outside my supervized stud
 - 2005 Ludovic Guégan, DEA internship: [Hybridation d'agents pour systèmes embarqués](http://csl.mines-douai.fr/research/uploads/guegan2005MasterThesis.pdf), co-supervised with Dr. Noury Bouraqadi.
 - 2005 Séverin Lemaignan, DEA internship : EIAH et langage - Etude d'une architecture multi-agent en Squeak.
 - 2004 Olivier Sagit, DEA internship : Robotique reconfigurable et Apprentissage par Renforcement.
-- 2004 Michaël Piel, DEA internship (ingénieur de recherche à l'École des Mines de Douai): Un outil de modélisation et d'analyse de systèmes de classeurs mono et multi-agents.
+- 2004 Michaël Piel, DEA internship : LCSTalk, Un outil de modélisation et d'analyse de systèmes de classeurs mono et multi-agents.
 - 2003 Jean-Hugues Pruvot, Master 1 project, Réalisation d'un plugin ODE pour Squeak.
 - 2003 Erwan Livolant DEA internship : Apprentissage Multi-Agents par Systèmes de Classeurs : étude préliminaire.
-- 2003 Romain Robbes DEA internship (poursuite en thèse à l'Université de Lugano), Mise en oeuvre de la programmation par aspects dans le cadre des systèmes multi-agents, co-supervised with Dr. Noury Bouraqadi.
+- 2003 Romain Robbes DEA internship (Chile University now), [Mise en oeuvre de la programmation par aspects dans le cadre des systèmes multi-agents](http://csl.mines-douai.fr/research/uploads/romainRobbes.dea2003.pdf), co-supervised with Dr. Noury Bouraqadi.
 - 2002 Nicolas Calenge DEA internship, "Processus décisionnels de Markov Multi-agents".
 - 1999 Legallais Jean-Raphaël, Doffenies Gwenaël, Master 1 project, Visualisateur d'états internes d'agents footballeurs avec ILU.
