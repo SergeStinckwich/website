@@ -29,13 +29,13 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "docpad": "~6.66.0",
+    "docpad": "~6.69.0",
     "docpad-plugin-cleanurls": "~2.7.0",
     "docpad-plugin-coffeekup": "~2.2.0",
     "docpad-plugin-coffeescript": "~2.4.0",
     "docpad-plugin-eco": "~2.0.3",
     "docpad-plugin-haml": "~2.0.2",
-    "docpad-plugin-highlightjs": "~2.2.1",
+    "docpad-plugin-highlightjs": "~2.2.2",
     "docpad-plugin-html2coffee": "~2.1.3",
     "docpad-plugin-jade": "~2.7.0",
     "docpad-plugin-less": "~2.4.1",
@@ -45,13 +45,13 @@
     "docpad-plugin-stylus": "~2.7.0"
   },
   "devDependencies": {
-    "docpad": "~6.66.0",
+    "docpad": "~6.69.0",
     "docpad-plugin-cleanurls": "~2.7.0",
     "docpad-plugin-coffeekup": "~2.2.0",
     "docpad-plugin-coffeescript": "~2.4.0",
     "docpad-plugin-eco": "~2.0.3",
     "docpad-plugin-haml": "~2.0.2",
-    "docpad-plugin-highlightjs": "~2.2.1",
+    "docpad-plugin-highlightjs": "~2.2.2",
     "docpad-plugin-html2coffee": "~2.1.3",
     "docpad-plugin-jade": "~2.7.0",
     "docpad-plugin-less": "~2.4.1",
