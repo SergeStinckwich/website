@@ -1,5 +1,5 @@
 ---
-title: 'AROUND'
+title: 'SqueakBot'
 layout: 'public'
 author: 'Serge Stinckwich'
 description: 'SqueakBot Project'
