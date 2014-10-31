@@ -85,8 +85,8 @@ DSLRob 2014 is part of [SIMPAR 2014](http://www.simpar.org/): The 2014 Internati
 DSLRob 2014 will take place October 20th, before the main conference. For information on travel, registration etc. see the [SIMPAR](http://www.simpar.org/) site.
 
 # Organization committee
- * [Luca Gherardi](http://lucagherardi.it/), ETH Zurich
- * [Nico Hochgeschwender](http://www2.inf.fh-bonn-rhein-sieg.de/~nhochg2m/), Bonn-Rhein-Sieg University
+ * [Luca Gherardi](http://lucagherardi.it/), ETH Zurich, Switzerland
+ * [Nico Hochgeschwender](http://www2.inf.fh-bonn-rhein-sieg.de/~nhochg2m/), Bonn-Rhein-Sieg University, Germany
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
  * [Ulrik P. Schultz](http://www.mip.sdu.dk/~ups/), University of Southern Denmark, Denmark
  * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC), France
