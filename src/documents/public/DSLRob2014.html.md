@@ -57,7 +57,6 @@ The tentative schedule is as follows:
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
-
 # Program
 
 Preliminary proceedings are now available [here](http://www.mmmi.sdu.dk/~ups/DSLRob2014preproceedings.zip). Final proceedings will be available after the workshop on arXiv.
@@ -93,11 +92,14 @@ DSLRob 2014 will take place October 20th, before the main conference. For inform
  * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC), France
 
 # Program committee
- * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology 
+ * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology
+ * Noury Bouraqadi, Université de Lille Nord de France, Ecole des Mines de Douai
+ * Luc Fabresse, Université de Lille Nord de France, Ecole des Mines de Douai
+ * Johan Fabry, PLEIAD lab - Department of Computer Science (DCC) - University of Chile
  * Juan F. Ingles-Romero, Technical University of Cartagena 
  * Alex Lotz, University of Applied Sciences Ulm 
  * Francisco J. Ortiz, Technical University of Cartagena 
- * Ali	Paikan, Italian Institute of Technology (IIT) 
+ * Ali Paikan, Italian Institute of Technology (IIT) 
  * Azamat Shakhimardanov, Katholieke Universiteit Leuven
  * Walid Taha, Halmstad & Rice Universities 
  * Cristina Vicente-Chicote, Universidad de Extremadura 
