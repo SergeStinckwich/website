@@ -65,19 +65,19 @@ The workshop takes place in the room "Sala Stampa".
 The conference reception will open at 8:00 in the morning.
 
  * 9:00 – 9:30  Christian Schlegel, Ulrik Pagh Schultz. [Welcome and Opening](http://www.doesnotunderstand.org/DSLROB2014/Talk0-Welcome.pdf)
- * 9:30 - 10:00 Ali Paikan, Giorgio Metta and Lorenzo Natale. **A representation of robotic behaviors using component port arbitration**
+ * 9:30 - 10:00 Ali Paikan, Giorgio Metta and Lorenzo Natale. [A representation of robotic behaviors using component port arbitration](http://www.doesnotunderstand.org/DSLROB2014/Talk1.pdf)
  * 10:00 - 10:30 Coffee break
  * 10:30 - 11:00 Benjamin Schwartz, Ludwig Nägele, Andreas Angerer and Bruce MacDonald. **Towards a graphical language for quadrotor missions**
- * 11:00- 11:30 Johan Sund Laursen, Jacob Pørksen Buch, Lars Carøe Sørensen, Dirk Kraft, Henrik Gordon Petersen, Lars-Peter Ellekilde and Ulrik Pagh Schultz. **Towards Error Handling in a DSL for Robot Assembly Tasks**
+ * 11:00- 11:30 Johan Sund Laursen, Jacob Pørksen Buch, Lars Carøe Sørensen, Dirk Kraft, Henrik Gordon Petersen, Lars-Peter Ellekilde and Ulrik Pagh Schultz. [Towards Error Handling in a DSL for Robot Assembly Tasks](http://www.doesnotunderstand.org/DSLROB2014/Talk3.pdf)
  * 11:30 - 12:00 Malte Wirkus. **Towards Robot-independent Manipulation Behavior Description**
  * 12:00 - 12:15: Lighting Talk - Luca Gherardi. **Addressing Deployment-time and Run-time Variability in Robotics Software Systems**
  * 12:15 – 13:40 Lunch break
  * 13:40 - 14:10: Sorin Adam and Ulrik Pagh Schultz. **Towards Interactive, Incremental Programming of ROS Nodes**
- * 14:10 – 14:40 Pablo Estefó, Miguel Campusano, Luc Fabresse, Johan Fabry, Jannik Laval and Noury Bouraqadi. **Towards Live Programming in ROS with PhaROS and LRP**
+ * 14:10 – 14:40 Pablo Estefó, Miguel Campusano, Luc Fabresse, Johan Fabry, Jannik Laval and Noury Bouraqadi. [Towards Live Programming in ROS with PhaROS and LRP](http://www.doesnotunderstand.org/DSLROB2014/Talk7.pdf)
  * 14:40 – 15:20: Invited Talk - Arne Nordmann, Nico Hochgeschwender, Sebastian Wrede. ** Robotics DSL Zoo: An Effort to Structure, Consolidate and Harmonize DSL Developments in Robotics** 
  * 15:20 - 15:50 Coffee break
- * 15:50 – 16:10: Invited Talk - Alex Lotz, Matthias Lutz, Dennis Stampfer, Christian Schlegel. [Supporting Separation of Roles in the SmartMDSD-Toolchain: Two examples of an integrated DSL](http://www.doesnotunderstand.org/DSLROB2014/Talk10.pdf) 
- * 16:10 - 17:10: [Discussion. Roadmap (hot topics, priorities, benefits) of issues related to the WS topics](http://www.doesnotunderstand.org/DSLROB2014/Talk11-Discussion.pdf)
+ * 15:50 – 16:10: Invited Talk - Alex Lotz, Matthias Lutz, Dennis Stampfer, Christian Schlegel. [Supporting Separation of Roles in the SmartMDSD-Toolchain: Two examples of an integrated DSL](http://www.doesnotunderstand.org/DSLROB2014/Talk9.pdf) 
+ * 16:10 - 17:10: [Discussion. Roadmap (hot topics, priorities, benefits) of issues related to the WS topics](http://www.doesnotunderstand.org/DSLROB2014/Talk10-Discussion.pdf)
 
 # Workshop Venue
 DSLRob 2014 is part of [SIMPAR 2014](http://www.simpar.org/): The 2014 International Conference on Simulation, Modeling, and Programming for Autonomous Robots, which will take place from October 20 to 23, 2014 at the "Giovanni XXIII" Conference Center in Bergamo, Italy.
