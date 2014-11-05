@@ -69,7 +69,7 @@ The conference reception will open at 8:00 in the morning.
  * 10:00 - 10:30 Coffee break
  * 10:30 - 11:00 Benjamin Schwartz, Ludwig Nägele, Andreas Angerer and Bruce MacDonald. **Towards a graphical language for quadrotor missions**
  * 11:00- 11:30 Johan Sund Laursen, Jacob Pørksen Buch, Lars Carøe Sørensen, Dirk Kraft, Henrik Gordon Petersen, Lars-Peter Ellekilde and Ulrik Pagh Schultz. [Towards Error Handling in a DSL for Robot Assembly Tasks](http://www.doesnotunderstand.org/DSLROB2014/Talk3.pdf)
- * 11:30 - 12:00 Malte Wirkus. **Towards Robot-independent Manipulation Behavior Description**
+ * 11:30 - 12:00 Malte Wirkus. [Towards Robot-independent Manipulation Behavior Description](http://www.doesnotunderstand.org/DSLROB2014/Talk4.pdf)
  * 12:00 - 12:15: Lighting Talk - Luca Gherardi. **Addressing Deployment-time and Run-time Variability in Robotics Software Systems**
  * 12:15 – 13:40 Lunch break
  * 13:40 - 14:10: Sorin Adam and Ulrik Pagh Schultz. **Towards Interactive, Incremental Programming of ROS Nodes**
