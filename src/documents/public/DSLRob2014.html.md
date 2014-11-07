@@ -72,7 +72,7 @@ The conference reception will open at 8:00 in the morning.
  * 11:30 - 12:00 Malte Wirkus. [Towards Robot-independent Manipulation Behavior Description](http://www.doesnotunderstand.org/DSLROB2014/Talk4.pdf)
  * 12:00 - 12:15: Lighting Talk - Luca Gherardi. [Addressing Deployment-time and Run-time Variability in Robotics Software Systems](http://www.doesnotunderstand.org/DSLROB2014/Talk5.pdf)
  * 12:15 – 13:40 Lunch break
- * 13:40 - 14:10: Sorin Adam and Ulrik Pagh Schultz. **Towards Interactive, Incremental Programming of ROS Nodes**
+ * 13:40 - 14:10: Sorin Adam and Ulrik Pagh Schultz. [Towards Interactive, Incremental Programming of ROS Nodes](http://www.doesnotunderstand.org/DSLROB2014/Talk6.pdf)
  * 14:10 – 14:40 Pablo Estefó, Miguel Campusano, Luc Fabresse, Johan Fabry, Jannik Laval and Noury Bouraqadi. [Towards Live Programming in ROS with PhaROS and LRP](http://www.doesnotunderstand.org/DSLROB2014/Talk7.pdf)
  * 14:40 – 15:20: Invited Talk - Arne Nordmann, Nico Hochgeschwender, Sebastian Wrede. [Robotics DSL Zoo: An Effort to Structure, Consolidate and Harmonize DSL Developments in Robotics](http://www.doesnotunderstand.org/DSLROB2014/Talk8.pdf) 
  * 15:20 - 15:50 Coffee break
