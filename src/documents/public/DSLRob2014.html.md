@@ -74,7 +74,7 @@ The conference reception will open at 8:00 in the morning.
  * 12:15 – 13:40 Lunch break
  * 13:40 - 14:10: Sorin Adam and Ulrik Pagh Schultz. **Towards Interactive, Incremental Programming of ROS Nodes**
  * 14:10 – 14:40 Pablo Estefó, Miguel Campusano, Luc Fabresse, Johan Fabry, Jannik Laval and Noury Bouraqadi. [Towards Live Programming in ROS with PhaROS and LRP](http://www.doesnotunderstand.org/DSLROB2014/Talk7.pdf)
- * 14:40 – 15:20: Invited Talk - Arne Nordmann, Nico Hochgeschwender, Sebastian Wrede. ** Robotics DSL Zoo: An Effort to Structure, Consolidate and Harmonize DSL Developments in Robotics** 
+ * 14:40 – 15:20: Invited Talk - Arne Nordmann, Nico Hochgeschwender, Sebastian Wrede. [Robotics DSL Zoo: An Effort to Structure, Consolidate and Harmonize DSL Developments in Robotics](http://www.doesnotunderstand.org/DSLROB2014/Talk9.pdf) 
  * 15:20 - 15:50 Coffee break
  * 15:50 – 16:10: Invited Talk - Alex Lotz, Matthias Lutz, Dennis Stampfer, Christian Schlegel. [Supporting Separation of Roles in the SmartMDSD-Toolchain: Two examples of an integrated DSL](http://www.doesnotunderstand.org/DSLROB2014/Talk9.pdf) 
  * 16:10 - 17:10: [Discussion. Roadmap (hot topics, priorities, benefits) of issues related to the WS topics](http://www.doesnotunderstand.org/DSLROB2014/Talk10-Discussion.pdf)
