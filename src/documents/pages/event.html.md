@@ -7,6 +7,7 @@ description: 'Events'
 ##Conferences, Workshops PC & Organization
 
 ###2015
+- PC Member of [The first International Symposium on Swarm Behavior and Bio-Inspired Robotics (SWARM) 2015](https://sites.google.com/site/swarm2015/), October 28-30, Kyoto, Japan
 - PC Member of [11th IEEE RIVF International Conference on Computing and Communication Technologies](http://rivf2015.ctu.edu.vn/), January 25-28, Can Tho, Vietnam
 
 ###2014
