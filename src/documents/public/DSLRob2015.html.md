@@ -66,7 +66,7 @@ As is the case for previous DSLRob workshops, formal post-workshop proceedings w
  * 12:50-14:00 Lunch Break
  * 14:00-15:30 Paper presentations 2: regular presentations (same format)
  * 15:30-16:00 Coffee Break
- * 16:00-16:45 Invited talk by Dr. Markus Völter on state of the art in language workbenches and development of DSLs for embedded software
+ * 16:00-16:45 Invited talk by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software
  * 16:45-17:30 Report on activities and discussion on topics from RAS TC-SOFT meeting
  * 17:30-18:20 Report from and discussion on euRobotics Topic Group on Software Systems Engineering
  * 17:30-18:20 Report from and discussion on the "DSL Zoo" initiative on a classification on DSLs in robotics
