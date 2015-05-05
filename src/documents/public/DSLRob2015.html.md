@@ -6,7 +6,7 @@ description: '6th International Workshop on Domain-Specific Languages and models
 ---
 # 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-15)
 
-The Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xx, October, 2015 in Hamburg (Germany), during IROS 2015 conference.
+The Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will take place September 28 or October 3, 2015 in Hamburg (Germany), during IROS 2015 conference.
 
 After the overwhelming push towards the design of robotics software platforms (e.g. ROS, Orocos, SmartSoft, OpenRTM, etc.) we now need to make robotics programming and configuration as accessible as possible to application domain experts. Domain-Specific Languages (DSLs) and Model-driven Engineering (MDE) are emerging areas of interest in the robotics research community, which have been instrumental for resolving complex issues in a wide range of domains (e.g. distributed and modular robotics, control, and vision) and have the potential for significantly facilitating how robots are programmed.
 
@@ -57,14 +57,14 @@ The tentative schedule is as follows:
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
-# Program
+# Preliminary program
  * 8:30 Opening remarks and presentation of participants
  * 8:45-9:30 Keynote by Dr. Herman Bruyninckx on the current and future role of DSLs in robotics research and applications
- * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
+ * 9:30-10:00 Lightning talks: short presentations of selected submissions
  * 10:00-10:30 Coffee Break
- * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
+ * 10:30-12:50 Paper presentations 1: regular presentations
  * 12:50-14:00 Lunch Break
- * 14:00-15:30 Paper presentations 2: regular presentations (same format)
+ * 14:00-15:30 Paper presentations 2: regular presentations
  * 15:30-16:00 Coffee Break
  * 16:00-16:45 Invited talk by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software
  * 16:45-17:30 Report on activities and discussion on topics from RAS TC-SOFT meeting
