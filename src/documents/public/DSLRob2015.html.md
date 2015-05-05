@@ -6,11 +6,11 @@ description: '6th International Workshop on Domain-Specific Languages and models
 ---
 # 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-15)
 
-The Sith International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xxx in xxx, during IROS 2015 conference.
+The Sith International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xx, October, 2015 in Hamburg (Germany), during IROS 2015 conference.
 
 After the overwhelming push towards the design of robotics software platforms (e.g. ROS, Orocos, SmartSoft, OpenRTM, etc.) we now need to make robotics programming and configuration as accessible as possible to application domain experts. Domain-Specific Languages (DSLs) and Model-driven Engineering (MDE) are emerging areas of interest in the robotics research community, which have been instrumental for resolving complex issues in a wide range of domains (e.g. distributed and modular robotics, control, and vision) and have the potential for significantly facilitating how robots are programmed.
 
- A domain-specific language (DSL) is a programming language dedicated to a particular problem domain that offers specific notations and abstractions, which, at the same time, decrease the coding complexity and increase programmer productivity within that domain. Models offer a high-level way for domain users to specify the functionality of their system at the right level of abstraction. DSLs and models have historically been used for programming complex systems. They have however recently garnered interest as a separate field of study; this workshop investigates DSLs and models for robotics.
+A domain-specific language (DSL) is a programming language dedicated to a particular problem domain that offers specific notations and abstractions, which, at the same time, decrease the coding complexity and increase programmer productivity within that domain. Models offer a high-level way for domain users to specify the functionality of their system at the right level of abstraction. DSLs and models have historically been used for programming complex systems. They have however recently garnered interest as a separate field of study; this workshop investigates DSLs and models for robotics.
 
 Robotic systems blend hardware and software in a holistic way that intrinsically raises many crosscutting concerns (concurrency, uncertainty, time constraints, etc.), for which reason, traditional general-purpose languages often lead to a poor fit between the language features and the implementation requirements. DSLs and models offer a powerful, systematic way to overcome this problem providing two main strengths:
 
@@ -51,22 +51,36 @@ We are looking for submission of **full research papers and experiences reports*
 
 The tentative schedule is as follows:
 
- * September 15th, 2014 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
- * October 1st, 2014: Paper acceptance notification
- * October 10th, 2014: Pre-camera ready submission
+ * August 15th, 2015 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
+ * September 7th, 2015: Paper acceptance notification
+ * September 21st, 2015: Pre-camera ready submission
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
 # Program
-
-TBC
+ * 8:30 Opening remarks and presentation of participants
+ * 8:45-9:30 Keynote by Dr. Herman Bruyninckx on the current and future role of DSLs in robotics research and applications
+ * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
+ * 10:00-10:30 Coffee Break
+ * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
+ * 12:50-14:00 Lunch Break
+ * 14:00-15:30 Paper presentations 2: regular presentations (same format)
+ * 15:30-16:00 Coffee Break
+ * 16:00-16:45 Invited talk by Dr. Markus Völter on state of the art in language workbenches and development of DSLs for embedded software
+ * 16:45-17:30 Report on activities and discussion on topics from RAS TC-SOFT meeting
+ * 17:30-18:20 Report from and discussion on euRobotics Topic Group on Software Systems Engineering
+ * 17:30-18:20 Report from and discussion on the "DSL Zoo" initiative on a classification on DSLs in robotics
+ * 17:30-18:20 Concluding discussion: identification of research challenges, plans for DSLRob 2016
+ * 18:20 End
 
 # Workshop Venue
+TBA
 
 # Organization committee
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
  * [Ulrik P. Schultz](http://www.mip.sdu.dk/~ups/), University of Southern Denmark, Denmark
  * [Serge Stinckwich](http://doesnotunderstand.org/), UMI UMMISCO (IRD/UPMC), France
+ * [Sebastian Wrede](http://www.cor-lab.de/user/13), Bielefeld University, Germany
 
 # Program committee
  * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology
