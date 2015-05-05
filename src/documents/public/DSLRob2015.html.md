@@ -6,7 +6,7 @@ description: '6th International Workshop on Domain-Specific Languages and models
 ---
 # 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-15)
 
-The Sith International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xx, October, 2015 in Hamburg (Germany), during IROS 2015 conference.
+The Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xx, October, 2015 in Hamburg (Germany), during IROS 2015 conference.
 
 After the overwhelming push towards the design of robotics software platforms (e.g. ROS, Orocos, SmartSoft, OpenRTM, etc.) we now need to make robotics programming and configuration as accessible as possible to application domain experts. Domain-Specific Languages (DSLs) and Model-driven Engineering (MDE) are emerging areas of interest in the robotics research community, which have been instrumental for resolving complex issues in a wide range of domains (e.g. distributed and modular robotics, control, and vision) and have the potential for significantly facilitating how robots are programmed.
 
@@ -83,21 +83,7 @@ TBA
  * [Sebastian Wrede](http://www.cor-lab.de/user/13), Bielefeld University, Germany
 
 # Program committee
- * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology
- * Noury Bouraqadi, Université de Lille Nord de France, Ecole des Mines de Douai
- * Luc Fabresse, Université de Lille Nord de France, Ecole des Mines de Douai
- * Johan Fabry, PLEIAD lab - Department of Computer Science (DCC) - University of Chile
- * Juan F. Ingles-Romero, Technical University of Cartagena
- * Alex Lotz, University of Applied Sciences Ulm
- * Francisco J. Ortiz, Technical University of Cartagena
- * Ali Paikan, Italian Institute of Technology (IIT)
- * Azamat Shakhimardanov, Katholieke Universiteit Leuven
- * Walid Taha, Halmstad & Rice Universities
- * Cristina Vicente-Chicote, Universidad de Extremadura
- * Andreas Wortmann, RWTH Aachen University
- * Sebastian Wrede, Universitat Bielefeld
- * Tewfik Ziadi, Université Pierre et Marie Curie-UMR CNRS 7606, LIP6-MoVe
- * Mikal Ziane, Laboratoire d'Informatique de Paris 6
+TBA
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
