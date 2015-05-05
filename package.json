@@ -29,11 +29,11 @@
     "npm": "1.1.x"
   },
   "dependencies": {
-    "docpad": "~6.69.0",
+    "docpad": "~6.78.1",
     "docpad-plugin-cleanurls": "~2.7.0",
     "docpad-plugin-coffeekup": "~2.2.0",
     "docpad-plugin-coffeescript": "~2.4.0",
-    "docpad-plugin-eco": "~2.0.3",
+    "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-haml": "~2.0.2",
     "docpad-plugin-highlightjs": "~2.2.2",
     "docpad-plugin-html2coffee": "~2.1.3",
