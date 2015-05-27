@@ -6,7 +6,7 @@ description: '6th International Workshop on Domain-Specific Languages and models
 ---
 # 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-15)
 
-The Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will happen xx, October, 2015 in Hamburg (Germany), during IROS 2015 conference.
+The Sixth International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-15) will take place September 28, 2015 in Hamburg (Germany), as part of the IROS 2015 conference.
 
 After the overwhelming push towards the design of robotics software platforms (e.g. ROS, Orocos, SmartSoft, OpenRTM, etc.) we now need to make robotics programming and configuration as accessible as possible to application domain experts. Domain-Specific Languages (DSLs) and Model-driven Engineering (MDE) are emerging areas of interest in the robotics research community, which have been instrumental for resolving complex issues in a wide range of domains (e.g. distributed and modular robotics, control, and vision) and have the potential for significantly facilitating how robots are programmed.
 
@@ -23,24 +23,26 @@ DSLs and models are key elements in many robotic systems presented at leading co
 
 The workshop will focus on the use of Domain-Specific Languages and Models for Robotic Systems. The challenge of building complex systems that compose several lower-level models or domain-specific languages is considered of special interest this year. Moreover, topics that are of interest for the workshop include:
 
-* Dynamic languages for robotics, languages to teach robotics, visual languages for robotics,
-* Domain-specific languages to express reactive behaviors, composition of behaviors, motion description languages (MDL),
-* Domain-specific languages to express uncertainty, modeling of physical systems, real-time constraints,
-* Domain-specific languages to describe cooperative robotics and modular robotics systems,
-* Models to represent robotics software architectures and their variability,
-* Runtime models for reasoning and dynamic adaptation,
-* Tool support and frameworks for describing and manipulating DSLs and models for robotic systems,
-* Code generation and code transformation for robotics systems, variability in robotic systems,
-* Frameworks to combine DSLs and models in a uniform manner,
-Benchmarks to compare the use of DSLs versus the use of general-purpose programming languages, and
-* Programming languages in the context of robotic systems.
+* DSLs targeting specific application domains, such as service robots, automation, biomedical, autonomous vehicles (land, sea, air), and modular robots.
+* DSLs addressing specific technical challenges, such as system integration, AI, sensor/actuator networks, distributed and cloud robotics, perception, sensor information, human robot interaction, uncertainty, modeling of physical systems, and real-time constraints.
+* DSLs providing alternative programming models, such as reactive behaviors, composition of behaviors, motion description languages (MDL), and cooperative robotics.
+* Models to represent robotics software architectures and their
+  variability.
+* Runtime models for reasoning and dynamic adaptation.
+* Surveys of the use of DSLs in specific subdomains of robotics.
+* Tool support and frameworks for describing and manipulating DSLs and models for robotic systems.
+* Code generation and code transformation for robotics systems.
+* Frameworks to combine DSLs and models in a uniform manner.
+* Case studies on the use of DSLs in advanced robotics systems.
+* Benchmarks to compare the use of DSLs versus the use of general-purpose programming languages.
+* Programming languages in the context of robotic systems, such as dynamic languages, languages to teach robotics, and visual languages.
 
 # Intended Audience
 
 The intended audience is those robotics researchers throughout the entire robotics community who use DSLs and models as a key component of their robotics software infrastructure. In addition, robotics researchers with an interest in modern approaches to solving complex software-related issues will find the workshop inspirational.
 
 # Submissions guidelines
-All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2013) and should use the IEEE US letter format.
+All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. At least two reviews for each paper will be conducted. All workshop papers should be submitted electronically in PDF format through the [EasyChair website](http://www.easychair.org/conferences/?conf=dslrob2015) and should use the IEEE US letter format.
 
  * [Download the LaTeX template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf.zip)
  * [Download the Word template in US Letter](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
@@ -57,9 +59,9 @@ The tentative schedule is as follows:
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
-# Program
+# Preliminary program
  * 8:30 Opening remarks and presentation of participants
- * 8:45-9:30 Keynote by Dr. Herman Bruyninckx on the current and future role of DSLs in robotics research and applications
+ * 8:45-9:30 Keynote by Prof. [Herman Bruyninckx](http://people.mech.kuleuven.be/~bruyninc/) on the current and future role of DSLs in robotics research and applications
  * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
  * 10:00-10:30 Coffee Break
  * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
@@ -74,7 +76,7 @@ As is the case for previous DSLRob workshops, formal post-workshop proceedings w
  * 18:20 End
 
 # Workshop Venue
-TBA
+DSLRob 2015 is an official IROS 2015 workshop, and will thus be collocated with the conference.
 
 # Organization committee
  * [Christian Schlegel](http://www.hs-ulm.de/schlegel), Fakultät Informatik, Hochschule Ulm, Germany
