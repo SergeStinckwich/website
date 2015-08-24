@@ -49,13 +49,21 @@ All submitted papers will be reviewed on the basis of technical quality, relevan
 
 We are looking for submission of **full research papers and experiences reports** (up to 8 pages) and **work in progress submissions** (up to 4 pages). **Please create your account on Easy Chair website as soon as possible if you intend to submit a paper**: http://www.easychair.org/conferences/?conf=dslrob2015
 
+# Late-Breaking Reports
+The Late-Breaking Reports (LBR) session at DSLRob-15 is an opportunity to present and discuss early stage research results, tool experience reports or position papers in scope of the workshop topics. LBR submissions will follow the same guidelines as the full papers, using the same MS Word and LaTeX2e templates referenced above but are limited to an extended abstract of one page length. Please submit the late breaking reports by email to the workshop chairs by September, 07th, 11:59 pm PDT (Pacific Daylight Time).
+
+The late-breaking reports are presented in a dedicated poster session during DSLRob-15 at September, 28th. All posters should be A0 format (36″ x 48″ or 841 x 1189mm) in portrait. All submissions will be reviewed by the workshop editors. Accepted late-breaking reports will be included in the post-workshop proceedings.
+
 # Important Dates
 
 The tentative schedule is as follows:
 
  * August 15th, 2015 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
  * September 7th, 2015: Paper acceptance notification
+ * September 7th, 2015: Submission of late breaking reports
+ * September 14th, 2015: Notification of late breaking reports acceptance
  * September 21st, 2015: Pre-camera ready submission
+ * September 28th, 2015: DSLRob-15 at IROS
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
@@ -64,9 +72,9 @@ As is the case for previous DSLRob workshops, formal post-workshop proceedings w
  * 8:45-9:30 Keynote by Prof. [Herman Bruyninckx](http://people.mech.kuleuven.be/~bruyninc/) on the current and future role of DSLs in robotics research and applications
  * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
  * 10:00-10:30 Coffee Break
- * 10:30-12:50 Paper presentations 1: regular presentations
+ * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
  * 12:50-14:00 Lunch Break
- * 14:00-15:30 Paper presentations 2: regular presentations
+ * 14:00-15:30 Paper presentations 2: regular presentations (same format)
  * 15:30-16:00 Coffee Break
  * 16:00-16:45 Invited talk by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software
  * 16:45-17:30 Report on activities and discussion on topics from RAS TC-SOFT meeting
@@ -85,7 +93,17 @@ DSLRob 2015 is an official IROS 2015 workshop, and will thus be collocated with 
  * [Sebastian Wrede](http://www.cor-lab.de/user/13), Bielefeld University, Germany
 
 # Program committee
-TBA
+ * Andreas Wortmann, RWTH Aachen University, Germany
+ * Luc Fabresse, Ecole des Mines Douai, France
+ * Nico Hochgeschwender, Bonn-Rhine-Sieg University of Applied Sciences, Germany
+ * Geoffrey Biggs, National Institute of Advanced Industrial Science and Technology, Japan
+ * Johan Fabry, PLEIAD lab - Department of Computer Science (DCC), University of Chile
+ * Alex Lotz, University of Applied Sciences, Ulm, Germany
+ * Mikal Ziane, Lip6, Laboratoire d'Informatique de Paris, France
+ * Ali Paikan, Italian Institute of Technology (IIT), Italy
+ * Noury Bouraqadi, Université de Lille Nord de France, Ecole des Mines de Douai, France
+ * Juan F. Ingles-Romero, Technical University of Cartagena, Spain
+ * Mirko Bordignon, Fraunhofer IPA, Germany
 
 # Contact
 Please contact Serge Stinckwich (Serge DOT Stinckwich AT gmail DOT com) for further enquiries about this workshop.
