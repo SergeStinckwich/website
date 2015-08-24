@@ -58,7 +58,7 @@ _gaq.push(['_trackPageview']);
 			<%- @content %>
 		</section>
 		<footer>
-			<p>&copy; Serge Stinckwich 2012-2013</p>
+			<p>&copy; Serge Stinckwich 2012-2015</p>
 			<p style="float:right;">
 				This website was last updated at <%= @site.date.toISOString() %>
 			</p>
