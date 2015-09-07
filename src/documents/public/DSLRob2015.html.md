@@ -52,7 +52,7 @@ We are looking for submission of **full research papers and experiences reports*
 # Late-Breaking Reports
 The Late-Breaking Reports (LBR) session at DSLRob-15 is an opportunity to present and discuss early stage research results, tool experience reports or position papers in scope of the workshop topics. LBR submissions will follow the same guidelines as the full papers, using the same MS Word and LaTeX2e templates referenced above but are limited to an extended abstract of one page length. Please submit the late breaking reports by email to the workshop chairs by September, 07th, 11:59 pm PDT (Pacific Daylight Time).
 
-The late-breaking reports are presented in a dedicated poster session during DSLRob-15 at September, 28th. All posters should be A0 format (36″ x 48″ or 841 x 1189mm) in portrait. All submissions will be reviewed by the workshop editors (sebastian.wrede AT uni-bielefeld DOT de, ulrikpaghschultz AT gmail DOT com). Accepted late-breaking reports will be included in the post-workshop proceedings.
+The late-breaking reports are presented in a dedicated poster session during DSLRob-15 at September, 28th. All posters should be A0 format (36″ x 48″ or 841 x 1189mm) in portrait. All submissions will be reviewed by the workshop editors (**sebastian.wrede AT uni-bielefeld DOT de**, **ulrikpaghschultz AT gmail DOT com**). Accepted late-breaking reports will be included in the post-workshop proceedings.
 
 
 # Important Dates
