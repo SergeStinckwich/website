@@ -70,7 +70,7 @@ As is the case for previous DSLRob workshops, formal post-workshop proceedings w
 
 # Preliminary program
  * 8:30 Opening remarks and presentation of participants
- * 8:45-9:30 Keynote by Prof. [Arne Hamman](https://www.researchgate.net/profile/Arne_Hamann): What high-level software engineering in robotics could learn from embedded software engineering (and vice versa) ?
+ * 8:45-9:30 Keynote by Dr. [Arne Hamann](https://www.researchgate.net/profile/Arne_Hamann): What high-level software engineering in robotics could learn from embedded software engineering (and vice versa) ?
  * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
  * 10:00-10:30 Coffee Break
  * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
