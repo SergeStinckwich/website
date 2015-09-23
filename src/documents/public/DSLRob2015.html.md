@@ -37,6 +37,30 @@ The workshop will focus on the use of Domain-Specific Languages and Models for R
 * Benchmarks to compare the use of DSLs versus the use of general-purpose programming languages.
 * Programming languages in the context of robotic systems, such as dynamic languages, languages to teach robotics, and visual languages.
 
+# Tentative Program
+
+| Time | Session |
+| ------------ | ------------------------------------------------------------ |
+| 08:30-08:45 | Opening Remarks and Presentation of Participants |
+| 08:45-09:30 | **Keynote by Dr. [Arne Hamann](https://www.researchgate.net/profile/Arne_Hamann): What high-level software engineering in robotics could learn from embedded software engineering (and vice versa)?** |
+| 09:30-10:00 | Alex Lotz, Arne Hamann, Ingo Lütkebohle, Dennis Stampfer, Matthias Lutz and Christian Schlegel. *Modeling Non-Functional Application Domain Constraints for Component-Based Robotics Software Systems* |
+| 10:00-10:30 | Coffee Break |
+| 10:30-11:00 | André Dietrich, Sebastian Zug, Luigi Nardi and Joerg Kaiser. *Reasoning in Complex Environments with the SelectScript Declarative Language* |
+| 11:00-11:30 | Arvid Butting, Bernhard Rumpe, Christoph Schulze, Ulrike Thomas and Andreas Wortmann. *Modeling Reusable, Platform-Independent Robot Assembly Processes* |
+| 11:30-12:00 | Stefan Zander, Georg Heppner, Georg Neugschwandtner, Ramez Awad, Marc Essinger and Nadia Ahmed. *A Model-Driven Engineering Approach for ROS using Ontological Semantics* |
+| 12:00-12:30 | Huaxi Yulin Zhang and Lei Zhang. *Towards An Architecture-Centirc Approach to Manage Variability of Cloud Robotics* |
+| 12:30-14:00 | Lunch Break |
+| 14:00-14:45 | **Keynote by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software** |
+| 14:45-15:15 | Johann Thor Mogensen Ingibergsson, Ulrik Schultz and Dirk Kraft. *Towards Declarative Safety Rules for Perception Specification Architectures* |
+| 15:15-15:30 | *Lightning Talks on Late-Breaking Reports* | 
+| 15:30-16:00 | Coffee Break |
+| 16:00-16:30 | Poster Session |
+| 16:30-17:00 | Report on activities and discussion on topics from *RAS TC-SOFT* meeting |
+| 17:00-17:30 | Report from and discussion on *euRobotics Topic Group on Software Systems Engineering* |
+| 17:30-18:00 | Report from and discussion on the *DSL Zoo Initiative on a Reference Collection of DSLs in Robotics* |
+| 18:00-18:30 | Concluding discussion: identification of research challenges, plans for DSLRob 2016 |
+| 18:30 | End |
+
 # Intended Audience
 
 The intended audience is those robotics researchers throughout the entire robotics community who use DSLs and models as a key component of their robotics software infrastructure. In addition, robotics researchers with an interest in modern approaches to solving complex software-related issues will find the workshop inspirational.
@@ -67,22 +91,6 @@ The tentative schedule is as follows:
  * September 28th, 2015: DSLRob-15 at IROS
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
-
-# Preliminary program
- * 8:30 Opening remarks and presentation of participants
- * 8:45-9:30 Keynote by Dr. [Arne Hamann](https://www.researchgate.net/profile/Arne_Hamann): What high-level software engineering in robotics could learn from embedded software engineering (and vice versa) ?
- * 9:30-10:00 Lightning talks: short presentations of selected submissions (enabling more work to be presented at the workshop, scheduled early in the day for discussions in breaks)
- * 10:00-10:30 Coffee Break
- * 10:30-12:50 Paper presentations 1: regular presentations (presentations of moderate length, leaving time for interactive discussions)
- * 12:50-14:00 Lunch Break
- * 14:00-15:30 Paper presentations 2: regular presentations (same format)
- * 15:30-16:00 Coffee Break
- * 16:00-16:45 Invited talk by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software
- * 16:45-17:30 Report on activities and discussion on topics from RAS TC-SOFT meeting
- * 17:30-18:20 Report from and discussion on euRobotics Topic Group on Software Systems Engineering
- * 17:30-18:20 Report from and discussion on the "DSL Zoo" initiative on a classification on DSLs in robotics
- * 17:30-18:20 Concluding discussion: identification of research challenges, plans for DSLRob 2016
- * 18:20 End
 
 # Workshop Venue
 DSLRob 2015 is an official IROS 2015 workshop, and will thus be collocated with the conference.
