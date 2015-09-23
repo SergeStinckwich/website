@@ -37,7 +37,7 @@ The workshop will focus on the use of Domain-Specific Languages and Models for R
 * Benchmarks to compare the use of DSLs versus the use of general-purpose programming languages.
 * Programming languages in the context of robotic systems, such as dynamic languages, languages to teach robotics, and visual languages.
 
-# Tentative program
+# Tentative Program
 
 | Time | Session |
 | ------------ | ------------------------------------------------------------ |
