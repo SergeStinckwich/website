@@ -71,15 +71,15 @@ As is the case for previous DSLRob workshops, formal post-workshop proceedings w
 # Preliminary program
  * 08:30-08:45 Opening Remarks and Presentation of Participants
  * 08:45-09:30 Invited Talk by Dr. [Arne Hamann](https://www.researchgate.net/profile/Arne_Hamann): What high-level software engineering in robotics could learn from embedded software engineering (and vice versa) ?
- * 09:30-10:00 Paper 1
+ * 09:30-10:00 Alex Lotz, Arne Hamann, Ingo Lütkebohle, Dennis Stampfer, Matthias Lutz and Christian Schlegel. Modeling Non-Functional Application Domain Constraints for Component-Based Robotics Software Systems
  * 10:00-10:30 Coffee Break
- * 10:30-11:00 Paper 2
- * 11:00-11:30 Paper 3
- * 11:30-12:00 Paper 4
- * 12:00-12:30 Paper 5
+ * 10:30-11:00 André Dietrich, Sebastian Zug, Luigi Nardi and Joerg Kaiser. Reasoning in Complex Environments with the SelectScript Declarative Language
+ * 11:00-11:30 Arvid Butting, Bernhard Rumpe, Christoph Schulze, Ulrike Thomas and Andreas Wortmann. Modeling Reusable, Platform-Independent Robot Assembly Processes
+ * 11:30-12:00 Stefan Zander, Georg Heppner, Georg Neugschwandtner, Ramez Awad, Marc Essinger and Nadia Ahmed. A Model-Driven Engineering Approach for ROS using Ontological Semantics
+ * 12:00-12:30 Huaxi Yulin Zhang and Lei Zhang. Towards An Architecture-Centirc Approach to Manage Variability of Cloud Robotics
  * 12:30-14:00 Lunch Break
  * 14:00-14:45 Invited Talk by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software
- * 14:45-15:15 Paper 6
+ * 14:45-15:15 Johann Thor Mogensen Ingibergsson, Ulrik Schultz and Dirk Kraft. Towards Declarative Safety Rules for Perception Specification Architectures
  * 15:15-15:30 Lightning Talks on Late-Breaking Reports 
  * 15:30-16:00 Coffee Break
  * 16:00-16:30 Poster Session
