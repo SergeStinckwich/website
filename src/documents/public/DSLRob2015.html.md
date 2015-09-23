@@ -50,7 +50,7 @@ The workshop will focus on the use of Domain-Specific Languages and Models for R
 | 11:30-12:00 | Stefan Zander, Georg Heppner, Georg Neugschwandtner, Ramez Awad, Marc Essinger and Nadia Ahmed. *A Model-Driven Engineering Approach for ROS using Ontological Semantics* |
 | 12:00-12:30 | Huaxi Yulin Zhang and Lei Zhang. *Towards An Architecture-Centirc Approach to Manage Variability of Cloud Robotics* |
 | 12:30-14:00 | Lunch Break |
-| 14:00-14:45 | *Keynote by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software* |
+| 14:00-14:45 | **Keynote by Dr. [Markus Völter](http://www.voelter.de/) on state of the art in language workbenches and development of DSLs for embedded software** |
 | 14:45-15:15 | Johann Thor Mogensen Ingibergsson, Ulrik Schultz and Dirk Kraft. *Towards Declarative Safety Rules for Perception Specification Architectures* |
 | 15:15-15:30 | *Lightning Talks on Late-Breaking Reports* | 
 | 15:30-16:00 | Coffee Break |
