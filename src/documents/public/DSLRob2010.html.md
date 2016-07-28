@@ -4,7 +4,7 @@ layout: 'public'
 author: 'Serge Stinckwich'
 description: '1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-10), October 2010'
 ---
-# 1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob’10), October 2010
+# 1st International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-10), October 2010
 
 <img src="http://www.willowgarage.com/sites/default/files/IROS2010W100.jpg" border="0" alt="IROS 2010" style="width: 800px;" />
 
