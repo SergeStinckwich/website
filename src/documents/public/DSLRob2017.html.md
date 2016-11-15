@@ -57,10 +57,10 @@ We are looking for submission of **full research papers and experiences reports*
 
 The tentative schedule is as follows:
 
-* January 1st, 2017 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
- * January 31th, 2017: Paper acceptance notification
- * February, 15, 2017: Camera-ready paper submission and registration deadline
- * April 10-12, 2017: DSLRob-17 at IEEE Robotics Computing 2017
+ * January 7th, 2017 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
+ * January 31st, 2017: Paper acceptance notification
+ * February 15th, 2017: Camera-ready paper submission and registration deadline
+ * April 10-12th, 2017: DSLRob-17 at IEEE Robotics Computing 2017
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
