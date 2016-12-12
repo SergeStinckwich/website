@@ -1,12 +1,12 @@
 ---
-title: 'Sixth International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-17)'
+title: 'Seventh International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-17)'
 layout: 'public'
 author: 'Serge Stinckwich'
 description: '7th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-17)'
 ---
 # 7th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLRob-17)
 
-The Seventh International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-17) will take place April 12-17, 2017 in Taichung (Taiwan), as part of the first [IEEE Robotic Computing](http://icrc.asia.edu.tw/) conference.
+The Seventh International Workshop on Domain-Specific Languages and Models for Robotic Systems (DSLRob-17) will take place between April 10-12, 2017 in Taichung (Taiwan), as part of the first [IEEE Robotic Computing](http://icrc.asia.edu.tw/) conference.
 
 After the overwhelming push towards the design of robotics software platforms (e.g. ROS, Orocos, SmartSoft, OpenRTM, etc.) we now need to make robotics programming and configuration as accessible as possible to application domain experts. Domain-Specific Languages (DSLs) and Model-driven Engineering (MDE) are emerging areas of interest in the robotics research community, which have been instrumental for resolving complex issues in a wide range of domains (e.g. distributed and modular robotics, control, and vision) and have the potential for significantly facilitating how robots are programmed.
 
@@ -60,7 +60,7 @@ The tentative schedule is as follows:
  * January 7th, 2017 at midnight PDT (Pacific Daylight Time): Deadline for workshop papers submission
  * January 31st, 2017: Paper acceptance notification
  * February 15th, 2017: Camera-ready paper submission and registration deadline
- * April 10-12th, 2017: DSLRob-17 at IEEE Robotics Computing 2017
+ * April 10-12th, 2017 (one day): DSLRob-17 at IEEE Robotics Computing 2017
 
 As is the case for previous DSLRob workshops, formal post-workshop proceedings will be permanently stored on the publicly available site arxiv.org.
 
